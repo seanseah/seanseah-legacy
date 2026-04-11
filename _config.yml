@@ -1,76 +1,207 @@
-title: "Sean Seah"
-description: "Hi There"
-url: "https://seanseah.github.io"
-baseurl: ""
+title:            Sean Seah
+description:      Hi There
+logo:             logo.png
+disqus_shortname:
+# Assign a default image for your site's header and footer
+default_bg:       seanseah_bg.jpg
+search:           true
+share:            true
+# Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
+readtime:         true
+# Specify the average Words per minute. If not defined, 180 will be used
+wpm:				      200
+# Turn on or off the fin animations in the header and footer
+triangleheader:		true
+animated_fins:	  true
+# Specify the fin color in RGB value
+fin_color:        "255,255,255"
+# Change url to your domain. Leave localhost server or blank when working locally.
+# or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
+# whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
+#url: http://seanseah.github.io
+url: 
 
-# Theme (modern, mobile-first)
-remote_theme: mmistakes/minimal-mistakes
+# Server
+host: 0.0.0.0
+port: 8080
 
-# Plugins supported by GitHub Pages
-plugins:
-  - jekyll-include-cache
-  - jekyll-seo-tag
+# Owner/author information
+owner:
+  name:           Sean Seah
+  avatar:         seanseah.jpg
+  email:          sean@gadgetreactor.com
+  # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
+  description:    Sean is a writer, engineer, startup evangelist, and a project manager based in Singapore. His interests are anything technology-related, good roasted coffee, and wines.
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        gadgetreactor
+  facebook:       gadgetreactor
+  github:         seanseah
+  stackexchange:
+  linkedin:
+  instagram:      sean__seah
+  flickr:
+  tumblr:
 
-# Theme settings
-minimal_mistakes_skin: "default" # options: default, dark, air, neon, etc.
-locale: "en-SG"
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-58151941-1
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
 
-# Site settings
-timezone: Asia/Singapore
-paginate: 5
-paginate_path: /page:num/
+# Links to include in footer navigation
+# For external links add external: true
+links:
+  - title: <i class="icon-home"></i> Home
+    url: /
+    external: false
+    icon: home
+  - title: <i class="icon-book"></i> My Toys
+    url: /gadgets
+  - title: <i class="icon-gear"></i> Categories
+    url: /categories
+  - title: <i class="icon-tags"></i> Tags
+    url: /tags
+  - title: <i class="icon-pencil"></i> About Me
+    url: /about-sean
 
-# Permalinks
-permalink: /:categories/:title/
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Asia/Singapore
+future:      true
+highlighter: rouge
+markdown:    kramdown
+paginate:    6
+paginate_path: "page:num"
 
-# Markdown
-markdown: kramdown
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
 
-# Author profile (used by theme)
-author:
-  name: "Sean Seah"
-  avatar: "/assets/images/seanseah.jpg" # move your image here later
-  bio: "Writer, engineer, startup evangelist, and project manager based in Singapore."
-  location: "Singapore"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/seanseah"
-    - label: "Instagram"
-      icon: "fab fa-instagram"
-      url: "https://instagram.com/sean__seah"
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: "https://twitter.com/gadgetreactor"
+gems: [jekyll-paginate]
 
-# Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/seanseah"
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
 
-# SEO / Analytics
-google_analytics: "G-XXXXXXXXXX" # replace with GA4 if you want
+prose:
+  rooturl: '_posts'
+  siteurl: 'https://seanseah.github.io/'
+  relativeLinks: 'https://seanseah.github.io/links.jsonp'
+  media: 'images'
+  metadata:
+    _posts:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+      - name: "layout"
+        field:
+          element: "hidden"
+          label: "Layout"
+          value: "post"
+      - name: "type"
+        field:
+          element: "select"
+          label: "Select Post Type"
+          placeholder: "Choose your type"
+          options:
+            - name: "Standard"
+              value:
+            - name: "Quote"
+              value: quote
+            - name: "Status"
+              value: status
+            - name: "Photo"
+              value: photo
+            - name: "Video"
+              value: video
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          value: "An Awesome Headline!"
+      - name: "description"
+        field:
+          element: "text"
+          label: "Description"
+          placeholder: "Enter Post Description"
+      - name: "headline"
+        field:
+          element: "text"
+          label: "beadline"
+          placeholder: "Enter Post Headline"
+      - name: "modified"
+        field:
+          element: "text"
+          label: "Has this page been modified?"
+          placeholder: "YYYY-MM-DD"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add categories"
+          placeholder: "Choose categories"
+          value: personal
+          options:
+            - name: "Personal"
+              value: personal
+            - name: "Web-Development"
+              value: webdevelopment
+            - name: "Interesting"
+              value: interesting
+            - name: "Status"
+              value: status
+            - name: "Quotes"
+              value: quotes
+          alterable: true
+      - name: "tags"
+        field:
+          element: "text"
+          label: "Tags"
+          placeholder: "Enter tags, separated by spaces"
+      - name: "imagefeature"
+        field:
+          element: "text"
+          label: "Featured Image"
+          placeholder: "somefile.jpg"
+      - name: "imagecredit"
+        field:
+          element: "text"
+          label: "Image Credit"
+          placeholder: "some guy"
+      - name: "imagecreditlink"
+        field:
+          element: "text"
+          label: "Credit link for the image"
+          placeholder: "http://somewebsite.com"
+      - name: "video"
+        field:
+          element: "text"
+          label: "Insert Youtube Link"
+          placeholder: "http://youtube.com/somevideo"
+      - name: "mathjax"
+        field:
+          element: "checkbox"
+          label: "MathJax"
+          value: false
+      - name: "featured"
+        field:
+          element: "checkbox"
+          label: "Featured?"
+          value: false
+      - name: "comments"
+        field:
+          element: "checkbox"
+          label: "Comments"
+          value: false
 
-# Build settings
-include:
-  - .htaccess
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-  - README.md
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
