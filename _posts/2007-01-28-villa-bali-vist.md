@@ -1,6 +1,6 @@
 ---
 layout: post
-title: villa Bali Vist
+title: Villa Bali Visit
 date: '2007-01-28T08:53:00.000+08:00'
 author: Kaer
 categories: places
@@ -21,7 +21,7 @@ The impression the place leaves me with is reminiscent of Krabi. It has that won
 
 We explored both the interior and exterior areas, which had quite a significant difference. The interior resembled a normal pub atmosphere and felt a little more formal. I preferred the outdoor seating with its breeze and more relaxed environment.
 
-I went with J and my university friends. I hope it wasn't too awkward for J. My university friends are important to me, they are the group of friends who supported me throughout my university days, making it enjoyable. Countless study sessions were spent with them at either YIH or the Central Library.
+I went with J and my university friends. I hope it wasn't too awkward for J. My university friends are important to me; they are the group of friends who supported me throughout my university days, making it enjoyable. Countless study sessions were spent with them at either YIH or the Central Library.
 
 We first met up at Vivo, where we stumbled upon CNY decorations and took photos with our zodiac signs. It's another 12-year cycle by next year! I’ll be turning 24 soon. Will the Year of the Rat be good?
 

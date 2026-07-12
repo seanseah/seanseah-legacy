@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-80434191880311444
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/01/first-visit-to-conservatory.html
 ---
 
-Being the typical geek, outdoor gardens are probably the last place I would choose to visit. However, that's the wonderful thing about having a significant other—you embrace new challenges. I had never set foot in the Yong Siew Toh Conservatory of Music before, even at its previous location, which was quite close to the Engineering faculty. At least I managed to fit in a visit during my four years at university.
+Being the typical geek, I would probably choose outdoor gardens as the last place to visit. However, that's the wonderful thing about having a significant other—you embrace new challenges. I had never set foot in the Yong Siew Toh Conservatory of Music before, even at its previous location, which was quite close to the Engineering faculty. At least I managed to fit in a visit during my four years at university.
 
 I attended a concert/senior recital by Kathleen, and it turned out to be quite an intriguing experience. While I wasn't particularly engaged with the music, and at times found it rather dull, I did catch myself dozing off. I hope I wasn't snoring! At the end of each piece, I often found myself in the awkward position of not knowing whether the performance had concluded or if it was merely an interlude. I had to wait for others to start clapping before I joined in—better safe than sorry!
 
