@@ -21,7 +21,7 @@ quite frequently and other than a once mini delay at the check-in at KL, they
 have been rather reliable and will be relying on them once again for my Phuket 
 trip tomorrow, *crosses fingers*. However, their Taipei hotels was recently 
 revised and their rates seem more expensive now. Or maybe the lousy hotels 
-were just crossed out! Alot of the hostels website are interlinked, 
+were just crossed out! A lot of the hostels website are interlinked, 
 hostelworld etc, and I think I did rely on them last time for Australia and 
 they are all also pretty good! Hopefully, can go Europe, America soon =). 
 
@@ -39,7 +39,7 @@ reply my cancel request very promptly and everything is settled. Just take
 their promotion rates with a pinch of salt. 
 
 Botanical Gardens, mosquito haven. Wow, 
-its actually really big. Didn't really had time to walk around and by 
+it's actually really big. Didn't really had time to walk around and by 
 nightfall, it was really sleeping time for the trees with very dim lighting 
 and couldn't really see much then. And our National Flower really stinks. The 
 other areas don't smell so bad! Looking forward to going there again when I 

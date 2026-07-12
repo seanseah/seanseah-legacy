@@ -19,7 +19,7 @@ published: true
 
 My favourite photo of the day! And today's special too, as it is the Friday the 13th, which is also 10 more days to first paper! So I guess this is a celebration of sorts? Well, reaching almost the end of school and all the major headaches of FYP and projects are over and what's left is 3 exams + 1 project. Life can give you lemons at times. But it is up to us to turn things around, and unbelievably cliche as it may be, lemonade is one awesome drink. Friday the 13th is always associated as an unlucky day, but hey, we pretty much had an awesome time.
 
-Without further digress about work, we went to Jurong Hill today, where what lies on top is this **Japanese and Indonesian Hilltop Restaurant**, and yes, the name is indeed so boringly creative. Well, its a nice place, and shall just let the pictures speak for themselves.
+Without further digress about work, we went to Jurong Hill today, where what lies on top is this **Japanese and Indonesian Hilltop Restaurant**, and yes, the name is indeed so boringly creative. Well, it's a nice place, and shall just let the pictures speak for themselves.
 
 <figure>
 <a href="http://1.bp.blogspot.com/_m5e8Pqc8k3c/RiAKDntU_qI/AAAAAAAABB0/zit9qGYTOj8/s1600/Cover.jpg"><img src="http://1.bp.blogspot.com/_m5e8Pqc8k3c/RiAKDntU_qI/AAAAAAAABB0/zit9qGYTOj8/s800/Cover.jpg"></a>

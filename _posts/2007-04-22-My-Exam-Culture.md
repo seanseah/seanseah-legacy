@@ -11,7 +11,7 @@ mathjax: null
 published: true
 ---
 
-How apt, a day for Sociology and a day to talk about my exam culture with it's own special rituals and routines to get myself in the proper frame of mind for exams. I guess, in a way, it calms me down to know that a routine helps establish a certain form of consistency. Like I guess, sleep + waking early helps ensure I get to the examination halls on time and well today is a bad example of that, by the time I reach, people were already seated inside! My exam cultue is made up of the following quick rules.
+How apt, a day for Sociology and a day to talk about my exam culture with its own special rituals and routines to get myself in the proper frame of mind for exams. I guess, in a way, it calms me down to know that a routine helps establish a certain form of consistency. Like I guess, sleep + waking early helps ensure I get to the examination halls on time and well today is a bad example of that, by the time I reach, people were already seated inside! My exam culture is made up of the following quick rules.
 
 Right, first up, sleep, I need *sleep*. Lots. I like to make sure I go into an exam well rested. I don't believe in last minute studying.
 _Been getting less and less though as the semesters go by._

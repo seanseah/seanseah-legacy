@@ -12,8 +12,8 @@ blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-86208994061170850
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/03/its-been-sometime-since-i-blogged-about.html
 ---
 
-Its been sometime since I blogged about personal stuff, haha. Oh 
-well… its been a “busy” week. FYP, 
+It's been sometime since I blogged about personal stuff, haha. Oh 
+well… it's been a “busy” week. FYP, 
 assignment, projects, really never ending stuff. A semester where I no longer 
 feel in control in a way, haha. 
 
@@ -22,15 +22,15 @@ symbolizing the death and birth of a week. Last week ended off nicely, with a
 lazy Sunday breakfast followed by lazing around, walking, watching Heroes… 
  
 When so many other things are buzzing 
-around, its nice to stop and relax, take a breather (but lots of such breaks 
+around, it's nice to stop and relax, take a breather (but lots of such breaks 
 have been taken). It was then chocolate chip pancakes, never tried such a 
 combination before which was pretty tasty. 
 
 On Wednesday, felt like a runaway train, 
-and the train didn't get too far either, terminating at 西天娘娘, hope she wasnt 
+and the train didn't get too far either, terminating at 西天娘娘, hope she wasn't 
 too annoyed :S. Well if any, blame it on the latte? Rusty fingers doesn’t help 
-when I’m on a coffee high, sigh, coffee really have terrible effects on me. 
-Sometimes its ok, and I get a positive buzz from it? And sometimes its just 
+when I’m on a coffee high, sigh, coffee really has terrible effects on me. 
+Sometimes it's ok, and I get a positive buzz from it? And sometimes it's just 
 messes with my stomach / mood / tired and more. Shall really try to abstain. 
 Abstain with all my lion strength =). 
 
@@ -42,6 +42,6 @@ about my grandma egg dishes and as I came home for dinner.. steamed egg!
 ![](http://4.bp.blogspot.com/_m5e8Pqc8k3c/Rfk6i5fhWrI/AAAAAAAAA9o/1fnWkJVu6Pg/s1600/DSCF0945.JPG)祖母蒸蛋 
 
 Simple 
-dish, but very nice leh, and I guess she goes to alot of effort to do all the 
-garnishing, although she says its easy, just chopping only. But still... not 
+dish, but very nice leh, and I guess she goes to a lot of effort to do all the 
+garnishing, although she says it's easy, just chopping only. But still... not 
 something I can do, simple happy dinner. 

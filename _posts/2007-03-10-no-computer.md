@@ -20,7 +20,7 @@ Andy: haha, so calm ah.. never go kee siao?"
 Haha.. being so reliant on my computer, turning it on the moment I wake up, 
 and then off usually only when I'm asleep, is it possible for me to withdraw 
 from it? Yeah, I guess very much so, thinking about the reasons why I use the 
-computer, its really very much for information, or dabbling with things. 
+computer, it's really very much for information, or dabbling with things. 
 There's that tinker-ing nature in me, which isn't exactly very good at what it 
 does, but still there. 
 
@@ -32,16 +32,16 @@ Longer -&gt; Hardwarezone Forums
 
 And of course, my best friend. Google. Haha. 
 
-I guess, its just something to take time away from myself, having nothing to 
+I guess, it's just something to take time away from myself, having nothing to 
 do, I need to occupy it. Last night, I learn that my life is just 
 insignificant enough to be void of nothing, and so all these just fills it up. 
 
 So I guess, if one were to take all this away, I would just rely on the older 
-form of information. Books. I guess its like how with my computer around, I 
+form of information. Books. I guess it's like how with my computer around, I 
 read the newspaper less? Since I already get such an overdose of information 
 (be it useless) everyday or every moment I am at my comp that I hardly want to 
 read the papers and instead just flipped through it. Like when I'm overseas, 
-which also shows how less computer reliant I can be, I would actively sought 
+which also shows how less computer reliant I can be, I would actively seek 
 out papers and would be more interested to read them cover to cover. 
 
 And oh, there's always being just a TV freak too. Just last night, watched the 

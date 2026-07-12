@@ -14,12 +14,12 @@ blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-36933579846305678
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/03/excited-over-wrong-things.html
 ---
 
-Its getting into the crazy school period once again, with FYP, 
+It's getting into the crazy school period once again, with FYP, 
 assignments, tests, tons coming and no reprieve in sight. Yet, in the midst of 
 it all, the blasphemy has begun with the planning of Holidays. Andy made a 
 pertinent point, I have been working on my thesis for such a long period of 
 time that now I am so sick of it. Haha. Argh, lost the urge, the pressure to 
-really cramp it out. Its like short term intense pain vs a long bout of 
+really cramp it out. It's like short term intense pain vs a long bout of 
 suffering. 
 
 Ending my exams on the 3rd of May, I have 

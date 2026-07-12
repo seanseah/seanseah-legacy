@@ -45,7 +45,7 @@ a quilt cover. He bought it after I just casually mentioned it in passing,
 ahh... 
  
 It can be a tad too warm though, 
-especially with my room occasionally resembling that of an oven. But its all 
+especially with my room occasionally resembling that of an oven. But it's all 
 soft and fuzzy and most importantly, nice to sleep on top of too! For those 
 nights where tucking under is just too unbearable. The pillows are changed as 
 well, so goodbye to those older than me pillows which have gone a little limp 
