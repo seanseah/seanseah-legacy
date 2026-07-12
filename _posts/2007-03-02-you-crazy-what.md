@@ -28,7 +28,7 @@ THREE BEEF PATTIES, THAT’S 450 GRAMS OF HAND FORMED BEEF!! I-S MAGAZINE ONCE A
 ### Challenge Accepted! How to back down! 
 haha.., just had to try it I suppose and see what all the fuss was about. 
 After ordering, had like 2nd thoughts! especially with jiali saying like her 
-friend ordered it last time and couldn't finish and it was really alot, 
+friend ordered it last time and couldn't finish and it was really a lot, 
 anyway, it didn't take too long to come, and I set about my task wolfing it 
 down! Jumping to the conclusion, I did manage to finish it! Woohoo :) 
 
