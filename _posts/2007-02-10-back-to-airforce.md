@@ -20,9 +20,9 @@ F-16 pin.
 ... the skies above ...
 
 I think 4 years ago, I was undecided what 
-I want to be, and I took up the first job offer that sort of came my way. I'm 
+I wanted to be, and I took up the first job offer that sort of came my way. I'm 
 an Air Engineering Officer. Yet, looking at my friends job hunting now, I 
-think I haven't change all that much in this 4 years and still not sure what I 
+think I haven't changed all that much in this 4 years and still not sure what I 
 want to do. I guess this dilly-dally over job issues is more to do with my 
 possibly good grades and potential job offers out there, and yet, I am tied 
 down with a SAF LSA scholarship and might be pegged down based on the 
@@ -34,7 +34,7 @@ still an interesting thing for me. Furthermore, it could be interesting if I
 can connect my level of interest and merge it with the aviation stuff. The 
 drawback would be more of how other people view the job? A military job is 
 often looked down upon and unlikely to raise the admirations of people, shucks 
-:) That's my ego speaking.This has been also a year of rumours, as 
-the AEOs discuss about how our job will be like, the initial phase of 
+:) That's my ego speaking.This has also been a year of rumours, as 
+the AEOs discuss how our job will be like, the initial phase of 
 training, and the pay structure. In a materialistic vein, it's all about the 
 money!

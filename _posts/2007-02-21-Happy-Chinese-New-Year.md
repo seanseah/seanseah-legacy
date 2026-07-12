@@ -26,7 +26,7 @@ sometimes stretching up to 4 days if we were lucky. It was always awesome when t
 Chinese New Year holiday coincided nicely with the weekends. Also, my cousins would 
 typically come over to visit my grandparents, and as they would stay the entire day, 
 they would bring over their Super Nintendo consoles or Playstations over to my house 
-to play. I didn't had my own console then and could only play when I go over to their 
+to play. I didn't have my own console then and could only play when I go over to their 
 house, so this was an absolute real treat for me. Sometimes they would also leave the 
 console at my place for a couple of days so that I could continue playing. Thinking 
 back, that was exceptionally generous of them. I typically don't have much guests on 
@@ -37,7 +37,7 @@ of my cousins and the one year they forgot to bring, I was so disappointed!
 And how can I leave out gambling? It is such a traditional Chinese New Year activity 
 among local Singaporeans. For us, we usually only gamble with the closer relatives, 
 the visitors who come aren't really keen to join in either. Strangely, our gambling was 
-like "见不得人" and during the normal years, we will confine the gambling to my room, 
+like "见不得人" and during the normal years, we would confine the gambling to my room, 
 so that kind of keeps people out of our games. We play quite a lot of _gin rummy_, 
 _in between_ and recently, _dai dee_. We only played blackjack once, and didn't really 
 like it, so that was just a one year event. I guess, games like gin rummy and dai dee 
@@ -93,7 +93,7 @@ Flatten the pastry dough and use a mould to make circular cutouts. Put the pinea
 filling in the middle. Use a small paring knife to make criss-cross patterns on the side.
 
 Place the pineapple tarts on a tray lined with parchment paper, arrange the pineapple 
-tarts so they are at least 0.5 inch apart of each other.
+tarts so they are at least 0.5 inch apart from each other.
 
 Preheat the oven to 350F (180C) and bake for 20-25 minutes or until light brown.
 {% endhighlight %}
@@ -121,8 +121,8 @@ will tend to over cook. It is normal but I end up having to eat the leftovers,
 which will be sufficient to eat for quite a few days, so I do end up growing quite 
 tired of the food.
 
-Buah Keluak can probably be said to be my late _ah gong's_ favourite dish, its a
-nyonya dish that is not a common sight outside, and even if found, sometimes its
+Buah Keluak can probably be said to be my late _ah gong's_ favourite dish, it's a
+nyonya dish that is not a common sight outside, and even if found, sometimes it's
 prepared differently. _Ah gong_ always had a flair for cooking, and thanks to him, 
 I grew up in an environment where I never had to worry about not having enough to 
 eat, and also to explore many different cuisines. We are all still missing his 
