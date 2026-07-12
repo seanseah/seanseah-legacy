@@ -19,5 +19,5 @@ the laziness. Well, how long will this new found momentum be able to carry
 itself? I doubt it will last more than a week or two to be honest, what with 
 work getting in the way and all. I can't blame it on anything other than 
 myself considering that there's a gym in the office but I hardly use it, more 
-keen to head home instead of spending precious time there. Perhaps its a 
+keen to head home instead of spending precious time there. Perhaps it's a 
 mentality that I should be changing. Let's see how the next few weeks take me. 

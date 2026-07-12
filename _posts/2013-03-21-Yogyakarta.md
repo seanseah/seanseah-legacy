@@ -26,7 +26,7 @@ It looked cloudy and wasn't hot when we first went in. Our resort allowed us fre
 <h3>Day 2</h3>
 The first of our many early mornings. Woke up at 520am and was surprised that it was quite bright already. Didn't go for the sunrise tour which was a good choice since it was so cloudy. We headed out and was at the gate 5:55am, waiting 5 mins for the gate to open.
  
-It was still peaceful and quiet until it hit about 8am when crowds started to come. Borobudur was smaller than I expected since it was supposed to be the largest Buddhist temple. It's history was also rather hazy, which I learnt from the AV from our hotel and constantly on replay in our room.
+It was still peaceful and quiet until it hit about 8am when crowds started to come. Borobudur was smaller than I expected since it was supposed to be the largest Buddhist temple. Its history was also rather hazy, which I learnt from the AV from our hotel and constantly on replay in our room.
  
 At a time when Yogyakarta was a balance both Hinduism/Buddhism? and Muslim, Hindu temples were found in many areas. How and when exactly Borobudur was built and for what reason remains unknown. There are guesses that the 2 temples a few KM away was part of a pilgrimage that believers took. From the first temple, they will mediate through a series of reliefs that reflected moral and learning like (trusting the strong might not be the best thing). Then as they went down the river and crossed it they will spend more time reflecting. Finally when they reached Borobudur they will go up each level and circle it eastwards.
  
@@ -66,7 +66,7 @@ Next was to the existing sultan's palace (Kraton). It is currently the 10th sult
  
 The grounds looked quite ok - about 14ha but the guide was so boring. It was rooms after rooms of showing batik (can't appreciate) and some wedding rituals. Interesting to note how they take a mix of Hindu and Muslim and are not really strict Muslims. There was some wayang show in the hall too.
  
-Next was quite a hilarious search for the water palace - Taman Sari which is where the 1st-3rd sultan stayed). It looked so nearby on the map but with many misguided directions we finally found it. Soon understood y though as the water palace was amongst alot of housing which apparently was rented out to people working for the palace at extremely low rates ( about sgd1.30 per year!). However they were wing relocated in may this year to make way for renovation and expansion of the water palace as part of UNESCO.
+Next was quite a hilarious search for the water palace - Taman Sari which is where the 1st-3rd sultan stayed). It looked so nearby on the map but with many misguided directions we finally found it. Soon understood y though as the water palace was amongst a lot of housing which apparently was rented out to people working for the palace at extremely low rates ( about sgd1.30 per year!). However they were wing relocated in may this year to make way for renovation and expansion of the water palace as part of UNESCO.
  
 The place was more than surprising. The guide was entertaining and brought the place alive and the many underground tunnels where u reappeared somewhere else and in and out maze like entrances an exits made it fun.
  

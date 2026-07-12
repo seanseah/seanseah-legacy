@@ -15,7 +15,7 @@ my last blog entry.
 
 I always wanted this blog to be like a journal into my life but it has not 
 been very well-organised. 
-Although as I spend sometime reading back the entries, it did triggered some 
+Although as I spend some time reading back the entries, it did triggered some 
 pleasant memories of years ago. 
 
 Well, two years has been a long time. Since 2010, quite a fair bit has 

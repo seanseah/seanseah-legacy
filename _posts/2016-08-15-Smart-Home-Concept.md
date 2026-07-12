@@ -96,7 +96,7 @@ leave the house. It's probably too complicated for daily use.
 
 #### Smoke / Gas Sensors
 Smoke and gas sensors are useful, but as these are critical safety devices are not 
-triggered regularly, I would advice against them. At least until they are uber stable.
+triggered regularly, I would advise against them. At least until they are uber stable.
 
 #### Barcode scanner
 How about adding a barcode scanner next to your fridge? You just finished the juice?

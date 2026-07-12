@@ -30,7 +30,7 @@ After dinner, we moved around to explore the place and went to “Orchard Road�
 
 Nothing much happened today. Briefings and meetings primarily to coordinate for the weeks ahead. There was a lot of moving around and clarification to be made to ensure things will be able to proceed subsequently.
 
-I left earlier to purchase my India pre-paid simcard, Airtel 8016617048 before heading out to meet my ICs for dinner. As this is my first detachment, it’s somewhat like a tradition to treat the guys for dinner so I obliged. Why go against tradition? Heh… We had dinner at DJ restaurant, an outdoor place that serves nothing else but chicken. The naans were great though. The whole meal cost us 2740 rupees, which is about $85 dollars. Considering that there were 13 of us there, its really a small price to pay, but in
+I left earlier to purchase my India pre-paid simcard, Airtel 8016617048 before heading out to meet my ICs for dinner. As this is my first detachment, it’s somewhat like a tradition to treat the guys for dinner so I obliged. Why go against tradition? Heh… We had dinner at DJ restaurant, an outdoor place that serves nothing else but chicken. The naans were great though. The whole meal cost us 2740 rupees, which is about $85 dollars. Considering that there were 13 of us there, it's really a small price to pay, but in
 India, this is expensive! There had been a number of horror stories from this particular restaurant and while we had made it a point to check the price before ordering, the final bill still fluctuated as they increased the price for all sorts of reasons (Gravy! Garnishing! Not like we really understood what was going on. 
 
 ## Day 3 (Fri)
@@ -39,7 +39,7 @@ Today was a super duper long day. I woke up at 5am as I needed to be in by 6am. 
 
 ## Day 4 (Sat)
 
-First Saturday in India, but there’s not much to do. It would have been good if I go out to do some visiting but there were a number of restrictions. I spend majority of the time watching shows, Battlestar Galactica and One Piece. It was a good opportunity to catch up with most of the episodes so that’s a good thing. Anyway, also did some training by going for a jog so continuing my promise to maintain a healthy lifestyle over here. The diet here however is really not helping. It’s going to be a challenge to avoid putting on weight this couple of weeks though. Our meals are super rich! Its curry daily and while they do not use coconut milk, it is all still rather sinful. It doesn’t help that the cook is pretty good too, making it all the more harder to avoid the food.
+First Saturday in India, but there’s not much to do. It would have been good if I go out to do some visiting but there were a number of restrictions. I spend majority of the time watching shows, Battlestar Galactica and One Piece. It was a good opportunity to catch up with most of the episodes so that’s a good thing. Anyway, also did some training by going for a jog so continuing my promise to maintain a healthy lifestyle over here. The diet here however is really not helping. It’s going to be a challenge to avoid putting on weight this couple of weeks though. Our meals are super rich! It's curry daily and while they do not use coconut milk, it is all still rather sinful. It doesn’t help that the cook is pretty good too, making it all the more harder to avoid the food.
 
 ## Day 5 (Sun)
 We visited the gym in the morning, straight after breakfast. I am still pretty much the same morning person over here. I got up around 6am here, but it’s not too bad considering that I slept like 10pm last night? Anyway, today breakfast was more unique
@@ -52,7 +52,7 @@ I continued with my Battlestar and One Piece marathon before napping awhile in t
 ## Day 6 (Mon)
 Today was a very positive day at work as things went by rather smoothly. It was a chop chop breakfast followed by walking into the work area. There was a pre-practiced maintenance response that triggered and it went by smoothly. 
 
-In the same day, I visited both the canteens near our work centre. The first was in the morning for a quick drink. In the late afternoon, we went to the canteen in the MT Flight and JS treated us there. It seems that the Indians are a big fan of Teh Halia and its relatively cheap too! However, the prices seem to have increased compared to a week ago. We must really look somewhat like a carrot-head to them.
+In the same day, I visited both the canteens near our work centre. The first was in the morning for a quick drink. In the late afternoon, we went to the canteen in the MT Flight and JS treated us there. It seems that the Indians are a big fan of Teh Halia and it's relatively cheap too! However, the prices seem to have increased compared to a week ago. We must really look somewhat like a carrot-head to them.
 
 ## Day 7 (Tue)
 
@@ -71,7 +71,7 @@ Another useful learning day at work today as we integrated cross functional depl
 
 Last work day of the week. Things are holding up well, but there are a couple of logistical issues to handle. 
 
-We had a long break in the morning due to weather, and went for a tea break at the MIG canteen. I finally tried the thosai and it turned out pretty good. Its cheap too, less than a dollar for a full breakfast. I guess I can afford to skip breakfast and have it there if required. It’s been slightly over a week eating the catered food and well, I still find it pretty tasty and not boring yet so that’s a good sign.
+We had a long break in the morning due to weather, and went for a tea break at the MIG canteen. I finally tried the thosai and it turned out pretty good. It's cheap too, less than a dollar for a full breakfast. I guess I can afford to skip breakfast and have it there if required. It’s been slightly over a week eating the catered food and well, I still find it pretty tasty and not boring yet so that’s a good sign.
 
 ## Day 10 (Fri)
 
@@ -140,9 +140,9 @@ The plan then was to wait till Wed morning for the spares to arrive early in the
 
 We eagerly waited for spare arrival, and quickly carried out the replacement. But more excitement was due to come, and it was an exciting end to the experience. 
 
-The afternoon passed by without any surprises as we continued to pack up the remaining bits and pieces. With all completed, we were able to go back early.We played dota through the night till around 2 am as we anticipated the long ferry flight back to Singapore.
+The afternoon passed by without any surprises as we continued to pack up the remaining bits and pieces. With all completed, we were able to go back early. We played dota through the night till around 2 am as we anticipated the long ferry flight back to Singapore.
 
 ## Day 24 (Thu)
-Today marks the end of my Indian story. As I prepare to leave this place, the feeling is that of happiness. I can't wait to go home. When the topic of India was broached earlier, some described it as a place of scenery, of lush greenery and magnificent sights, others described it as the city slums, of polluted air and dirt-stained buildings and a city of overpopulation coupled with proverty. 
+Today marks the end of my Indian story. As I prepare to leave this place, the feeling is that of happiness. I can't wait to go home. When the topic of India was broached earlier, some described it as a place of scenery, of lush greenery and magnificent sights, others described it as the city slums, of polluted air and dirt-stained buildings and a city of overpopulation coupled with poverty. 
 
-Yet, the India that I have seen in the last 3 weeks have been confined to the base only. While that may be so, I at least have an insight into their pscyhe and the interesting quriks that they may have. The Indians are intelligent, and the amount of people conversant in English is surprising. The grass cutters and general menial workers are able to hold their own end in English, which was something unexpected. Yet, the overall way that things are done or planned, is very unefficient. Our environment breeds behaviour in some ways.
+Yet, the India that I have seen in the last 3 weeks have been confined to the base only. While that may be so, I at least have an insight into their psyche and the interesting quirks that they may have. The Indians are intelligent, and the amount of people conversant in English is surprising. The grass cutters and general menial workers are able to hold their own end in English, which was something unexpected. Yet, the overall way that things are done or planned, is very inefficient. Our environment breeds behaviour in some ways.
