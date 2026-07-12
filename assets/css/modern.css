@@ -20,14 +20,14 @@
   --text-muted: #6b6f78;
   --text-faint: #9aa0aa;
   --border: #e6e7ea;
-  --accent: #0f9b8e;
-  --accent-strong: #0b7a70;
-  --link: #0f9b8e;
-  --link-hover: #0b7a70;
+  --accent: #0d9488;
+  --accent-strong: #0f766e;
+  --link: #0d9488;
+  --link-hover: #0f766e;
   --code-bg: #f5f7f7;
   --code-text: #23252b;
-  --tag-bg: #eaf5f4;
-  --tag-text: #0b7a70;
+  --tag-bg: #e6f7f5;
+  --tag-text: #0f766e;
   --shadow: 0 4px 14px rgba(0, 0, 0, 0.10);
   --radius: 10px;
 }
@@ -41,13 +41,13 @@
   --text-faint: #6f7480;
   --border: #262b34;
   --accent: #2dd4bf;
-  --accent-strong: #5ee0cf;
-  --link: #34d3bf;
-  --link-hover: #5ee0cf;
+  --accent-strong: #5eead4;
+  --link: #2dd4bf;
+  --link-hover: #5eead4;
   --code-bg: #161a21;
   --code-text: #e7e9ee;
-  --tag-bg: #14201f;
-  --tag-text: #5ee0cf;
+  --tag-bg: #0f2e2b;
+  --tag-text: #5eead4;
   --shadow: 0 4px 16px rgba(0, 0, 0, 0.45);
 }
 
@@ -154,6 +154,9 @@ img.alignleft, img.alignright, img.aligncenter { box-shadow: var(--shadow); }
 }
 .post-title a { color: var(--text); }
 .post-title a:hover { color: var(--accent); text-decoration: none; }
+
+/* Bolder post title (override the theme's forced thin weight) */
+.post-title.lighter { font-weight: 800 !important; }
 
 /* Post meta (date / categories / readtime) */
 .post-info {
@@ -304,12 +307,7 @@ p code, li code {
 }
 .pagination a { color: var(--link); }
 
-/* ---- Theme-aware fins (solid white paths must match page bg) ----------- */
-#header-decor path[fill*="255,255,255"],
-#footer-decor path[fill*="255,255,255"] {
-  fill: var(--bg) !important;
-  transition: fill 0.3s ease;
-}
+/* fins removed for minimal header */
 
 /* ---- Floating theme toggle (FAB) --------------------------------------- */
 .theme-toggle-fab {
