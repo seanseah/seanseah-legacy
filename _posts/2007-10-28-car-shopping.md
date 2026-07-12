@@ -12,7 +12,7 @@ blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/10/car-shopping.ht
 ---
 
 COE prices dipped abit recently, plus a little peer pressure from 
-the rest of the course mates, kinda gian to buy the car now. Anyway, its only 
+the rest of the course mates, kinda gian to buy the car now. Anyway, it's only 
 2 more months before my official work kicks in, so just about right timing to 
 buy it now. Headaches though, haha.. can't really decide what car to buy. 
 Help? 
@@ -21,14 +21,14 @@ First up.. Hyundai Avante. Korean car, so
 getting some negative vibes about it haha, but it looks not too bad, drive is 
 good, responsive, interior trimmings are also ok, quite like the finishing 
 inside though no factory fitted audio. The exterior is kinda round, not really 
-appealing to me, however its rather zhng-able, (refer to 2nd pic), making it 
+appealing to me, however it's rather zhng-able, (refer to 2nd pic), making it 
 have a more edgy front... but that means more $$. 
 
 ![](http://4.bp.blogspot.com/_m5e8Pqc8k3c/RyRe6thPkSI/AAAAAAAADTs/R98gvbYsLo8/s1600/avante.jpg)![](http://3.bp.blogspot.com/_m5e8Pqc8k3c/RyRjFdhPkWI/AAAAAAAADUM/HhFpXSE4jKE/s1600/AvanteBK05.jpg) 
 The Lancer Ex. Loved the look of the car 
 when I saw it the first time. It definitely has a very aggressive look 
-especially the front styling and sharp lines, yet its a car that is lacking in 
-the drive component. I'm not a fast / hard driver so its not too bad, however 
+especially the front styling and sharp lines, yet it's a car that is lacking in 
+the drive component. I'm not a fast / hard driver so it's not too bad, however 
 the loudness of the engine, the relatively slow pickup aren't appealing. So it 
 begs the question of whether is it worth the 62k. 
 

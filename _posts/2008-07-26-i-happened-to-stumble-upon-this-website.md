@@ -18,7 +18,7 @@ doesn't force me to exercise, at least knowing the rough distance I am
 covering might help spur me on to train more. Hence, I plotted the usual running route I take around my estate 
 to determine how far I normally cover and the shorter route is only around 
 2km, sheesh.. not even that of an IPPT run. Anyway, I shall use the site 
-more.. since its pretty interesting and I can see it becoming more than just a 
+more.. since it's pretty interesting and I can see it becoming more than just a 
 distance estimator / route planner and could be useful for other 
 applications... 
 

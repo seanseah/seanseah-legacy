@@ -25,7 +25,7 @@ possible to occur to us, till now. Perhaps age is indeed catching up.
 Car issues. My parallel importer has well, since declared bankrupt and I have 
 already made a 10k deposit with them. The car doesn't seem to be arriving soon 
 and the company is currently playing punk with details. Can't make it a police 
-case, because its just a civil and not a criminal one, though the way they 
+case, because it's just a civil and not a criminal one, though the way they 
 handle it, it kinda borders as such. Seeking respite from CASE and other legal 
 advice have not really been exactly helpful and the only course of action it 
 appears now is to wait out the 6 month contractual obligation. Gah. 

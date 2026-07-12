@@ -47,9 +47,9 @@ is really quite low, somehow, more and more just seems to pile up. Oh well,
 shall give myself this break to recharge and hopefully come back with the 
 energy to do so! (ya right, probably be just extremely tired when I'm back) 
 
-I'm always a procrastinator, in alot that 
-I do. Perhaps its just being wishy-washy but never really dared to commit to 
-something even though I might have spent quite abit of time thinking about it 
+I'm always a procrastinator, in a lot that 
+I do. Perhaps it's just being wishy-washy but never really dared to commit to 
+something even though I might have spent quite a bit of time thinking about it 
 and just unwilling to take the final step to see it through. And it shows. In 
 the way I work, in the things that I want to buy, sometimes I thought it could 
 be more of being prudent and not willing to spend, yet, perhaps it really is 

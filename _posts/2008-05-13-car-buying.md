@@ -15,8 +15,8 @@ blogger_orig_url: http://geek-looking-glass.blogspot.com/2008/05/car-buying.html
 
 After a week of attempts to leave work 
 early to shop for cars ended disappointingly with some days actually leaving 
-later than normal, i finally got down to visiting car showrooms and test 
-driving the cars i was interested in. Surprisingly or perhaps just being plain 
+later than normal, I finally got down to visiting car showrooms and test 
+driving the cars I was interested in. Surprisingly or perhaps just being plain 
 fickle minded, the fit was no longer a consideration. 
 
 Basically 4 cars were in mind, the toyota 

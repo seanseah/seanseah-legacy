@@ -39,7 +39,7 @@ being in any uniform group cca before, always just blending in with the crowd
 in my army days, and now expected to carry out this role was asking quite a 
 bit from me. 
 
-Anyway, its all coming to a close on the 
+Anyway, it's all coming to a close on the 
 15th of March. To all who is reading this, you are cordially invited and it 
 would be my utmost pleasure to see you all there in OCS for the 68/07 OCC 
 Commissioning Parade! 

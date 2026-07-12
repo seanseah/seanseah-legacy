@@ -29,7 +29,7 @@ cheers and celebration spirit were high as we slowed march into the tunnel,
 from there, dumping down all the weapons and a sort of mini celebration ensued 
 as we started congratulating one another. The re-entry portion singing the OCS 
 song wasn't tear-jerking as I thought it would be, haha... but just felt very 
-elated that its coming to a close and finally can see my friends and loved 
+elated that it's coming to a close and finally can see my friends and loved 
 ones. 
 Tears 
 welled up moment! - "Marching 

@@ -24,14 +24,14 @@ funds and training manager is about to land on me.
 
  Work has been a myraid of adventures, 
 from technical knowledge to human management to handling personal issues like 
-compassionate leave, family problems. Its really mind boggling and really an 
+compassionate leave, family problems. It's really mind boggling and really an 
 eye opener for me. Yes, to be commissioned as an officer, gives me the 
-privilege and authority to make certain judgement calls. Yet, its really not 
+privilege and authority to make certain judgement calls. Yet, it's really not 
 easy to lead and manage the various things at hand. 
 
  Despite that, I guess I still feel some 
 interest in how this job will both develop and train me. I don't know how long 
-this interest will last though and I suspect its burning out actually, haha... 
+this interest will last though and I suspect it's burning out actually, haha... 
 So till then, guess I really need to continue working hard. My personal life 
 though has really been consumed by work. Weekends are precious yet often, just 
 breeze by without having much opportunity to rest and each work week begins 

@@ -14,13 +14,13 @@ blogger_orig_url: http://geek-looking-glass.blogspot.com/2008/07/just-another-we
 
 A common trend nowadays for my 
 posts just seems to centralise around a certain something, and that something 
-is really that I have lost control of my life. Alot of it stems from me 
+is really that I have lost control of my life. A lot of it stems from me 
 wanting to retrieve that **C**ommand and **C**ontrol over my daily routine, 
 life etc. I look back in wonders to those University days, having the time to 
 exercise, to go to the gym, able to actually read through all my RSS feeds, 
 getting satiated on those technological news and what not. It is so different 
 as compared to now where I no longer feel control of my time. I often blame 
-the lack of time due to work, yet I still spent quite abit of time on 
+the lack of time due to work, yet I still spent quite a bit of time on 
 nonsensical things, to take a break perhaps? Yet.. it still results in time 
 wastage. 
 Hmm, and on this particular weekend, I will be 

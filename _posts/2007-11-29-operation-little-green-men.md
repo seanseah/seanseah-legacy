@@ -27,7 +27,7 @@ somewhat but getting hit from a salvo is still... OUCH.
 
 Ever since my secondary school days, has been a big fan of first person 
 shooting games, especially or to be more specifically, unreal tournament which 
-shld be coming up in a future blogpost. So i guess, pain(t)ball is like taking 
+shld be coming up in a future blogpost. So I guess, pain(t)ball is like taking 
 the game from behind the desk right to the outdoors and heck it was fun, tho 
 strictly limited by our v unfit bodies. Just an initial 20m rundown was 
 sufficient for me to be panting heavily.. So perhaps flicking of wrists and 

@@ -23,7 +23,7 @@ Is that true?
 The other applications serve to make my life easier, like office applications, 
 media players etc and are easily replaceable. Hence no big loss that those 
 were gone. On a daily basis, most of the information required is retrievable 
-off the net and I hardly assess personal files. This whole experience also 
+off the net and I hardly access personal files. This whole experience also 
 made me realise what are the more important items then...1. Documents 
 1. Media 
 1. Photos 
