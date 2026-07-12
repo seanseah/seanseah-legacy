@@ -22,16 +22,16 @@ There is always a nice smell associated with the rain, a tinge of freshness
 mixed in together with the sadness. These tears from heaven are always drawn 
 together with melancholy and all things cry-worthy yet it attracts me so much. 
 
-I miss the night rain.I moved to the front door and inched 
+I miss the night rain. I moved to the front door and inched 
 closer to the rain, the memory of the child in me resurfaces as the senses 
 start to pick out the various items all around. It looks set to be a long 
 night for the rain as the pitter patter of the droplets starts on its own 
 rhythm, not fast enough that it burns out in an hour or two and yet still 
-strong enough to make its presence felt.And thus, a brand new March begins on a 
+strong enough to make its presence felt. And thus, a brand new March begins on a 
 wet note, a brand new beginning suggesting fresh experiences. Within it all 
-lies the brutal honesty that the rain suggest, that this month is not going to 
+lies the brutal honesty that the rain suggests, that this month is not going to 
 be smooth sailing with the many deadlines in store as well.
 
-Yet, the strength of the rain does makes for an 
+Yet, the strength of the rain does make for an 
 encouraging role model... On a sleepy note as the trance starts to lift, and 
-the fingers slow down over the keyboard, its time to call it a night.
+the fingers slow down over the keyboard, it's time to call it a night.

@@ -17,7 +17,7 @@ Wow, I have
 actually been doing work quite regularly, a surprise... and yet still, none 
 for FYP, but I guess that will change once the test is over. 
 
-Its been 3 tests in 3 days, almost like the Year 1s exam rush, haven't really 
+It's been 3 tests in 3 days, almost like the Year 1s exam rush, haven't really 
 had a similar tight schedule since then. It ain't all that bad though, still 
 got 1 that's on S/U or 2, if you count the insurance exam! 
 ![](http://4.bp.blogspot.com/_m5e8Pqc8k3c/Re1V4k02V0I/AAAAAAAAA8U/sFxs4iP7yEA/s1600/DSCF0909.JPG)
@@ -38,7 +38,7 @@ investment-linked insurances and it turned out that 55% and potentially more
 (basic charges not included) were underperforming so it isn't exactly an ideal 
 case. Yet, it does take much of the worry out from investments. 
 
-So sad, my 4414 test didn't go to well, haha... guess could have studied a bit 
+So sad, my 4414 test didn't go too well, haha... guess could have studied a bit 
 more but was distracted and probably tired after the whole insurance thing, 
 but oh well, maybe the only thing about it is that doing well can impress 
 Kunle, which I desperately need to do something about the whole FYP thing. Ok 

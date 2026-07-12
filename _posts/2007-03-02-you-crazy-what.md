@@ -13,7 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-64503748910155687
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/03/you-crazy-what.html
 ---
 
-From school to Botak Jones then off to Clarke Quay! Its been Botak 
+From school to Botak Jones then off to Clarke Quay! It's been Botak 
 Jones in quick succession having just gone there with Jiali yesterday after 
 previous failed attempts to go there. Had heard so much about the place before 
 from the multiple food blogs to Hardwarezone outings and yet, haven't gone 
@@ -32,7 +32,7 @@ friend ordered it last time and couldn't finish and it was really alot,
 anyway, it didn't take too long to come, and I set about my task wolfing it 
 down! Jumping to the conclusion, I did manage to finish it! Woohoo :) 
 
-It wasn't a tortue to wolf it down as it 
+It wasn't a torture to wolf it down as it 
 was quite nice actually. Also, it was totally not worth to order with the 
-cheese for this as it comes up to an extra 3 dollars, since its a dollar per 
+cheese for this as it comes up to an extra 3 dollars, since it's a dollar per 
 patty. Shall just make do with more chilli/mustard next time.

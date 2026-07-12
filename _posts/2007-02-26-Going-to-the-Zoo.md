@@ -16,7 +16,7 @@ published: true
 "We're goin to the zoo, zoo, zoo
 How about you, you, you?
 You can come too, too, too
-Were goin to the zoo, zoo, zoo… "
+We're goin to the zoo, zoo, zoo… "
 
 Happy song for a happy day, end of this "doesn't feel like term break" term break marks a special visit to the zoo. Having not gone there since like primary school, I couldn't really remember how the zoo once was and it was very much a fresh new experience, albeit limited as well, zoos are still zoos :) How different can they get!
 
