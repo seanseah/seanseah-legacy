@@ -33,5 +33,5 @@ for dinner soon. Anyway, need to find an alternative for parking, my usual
 place beside Katong Mall has raised its rate and was annoyed to see that they 
 don’t even have any grace period. zzz… I have been up since 1am. Gah, I 
 slept from ard 1030 till 1 so I did get some rest but I can’t seem to sleep 
-back. I am starting to feel sleepy now but I am suppose to go to work, sheesh. 
+back. I am starting to feel sleepy now but I am supposed to go to work, sheesh. 
 :( 

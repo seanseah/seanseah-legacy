@@ -10,10 +10,10 @@ blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-47386242877722684
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2009/03/once-again-off-to-america.html
 ---
 
-Singapore time now is 5:40pm, its been 18 hrs since I left Singapore and I 
+Singapore time now is 5:40pm, it's been 18 hrs since I left Singapore and I 
 am still stuck on the plane. I also happened to be very bored. Haha… slept 
 enough though so ain’t really that tired. This time around, happened to be my 
-first experience with ANA and its pretty good, no complains about the food and 
+first experience with ANA and it's pretty good, no complains about the food and 
 service, the inflight entertainment has some of the newer shows but nothing 
 really caught my fancy, ended up completing 2 shows, “Vicky, Christina and 
 Barcelona” and “Suspect X”, recommended by Andy, the Galileo TV Series movie. 

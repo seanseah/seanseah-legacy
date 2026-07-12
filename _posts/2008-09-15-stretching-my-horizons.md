@@ -49,7 +49,7 @@ work. On the last day, we had a 6 hour transit over at San Francisco and we
 took the train down to the famous Fisherman Wharf and took in the sights of 
 the city. San Francisco looked way much more fun than Utah, haha. 
 
-It was a great trip. I learnt alot, both work and otherwise. Work trips are 
+It was a great trip. I learnt a lot, both work and otherwise. Work trips are 
 the best, a break away from work without consuming any leave :). 
 
 Note: Written this long time ago as a draft, finally publishing it aeons 

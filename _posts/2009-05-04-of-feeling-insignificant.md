@@ -30,4 +30,4 @@ be denied and to a certain extent, it matters to me, but when weighed in
 accordance with the effort needed, it doesn't make much sense. Guess I can't 
 help sounding a little demoralised, but I will still continue to work hard, 
 just that will be a bit more laid back when it comes to things. End of the 
-day, its just work! :) 
+day, it's just work! :) 

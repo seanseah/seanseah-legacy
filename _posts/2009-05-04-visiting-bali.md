@@ -87,7 +87,7 @@ having his surfing lessons and it was pretty interesting to see how they
 learnt and we cheered when he finally was able to stand for sometime. Well, 
 the next time we come Bali, we will be coming back to try out the surfing. For 
 dinner we ate at Kafe Dulang, famous for their Soto Ayam, which was quite 
-nice. We walked around abit more and bought tidbits to bring back to 
+nice. We walked around a bit more and bought tidbits to bring back to 
 Singapore. We ended up at Ocean Beach Club for drinks before heading back to 
 the hotel. I can’t exactly remember what drink it was but the so-called drink 
 of the century, some martini concoction was terrible! 

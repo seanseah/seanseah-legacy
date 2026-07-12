@@ -22,7 +22,7 @@ year = 260, that leaves us with 216 working days. Hmm… fruit for thought. So
 if we are only to work 8 hrs a day, we are only productive for 20% of the time 
 the entire year. Hmm.. maybe that’s why there’s just so much OT required. 
 Anyway, looking at last year, I didn’t take any medical leave (damn), 
-should have reported sick whenever felt like it. But then again, nah.. its not 
+should have reported sick whenever felt like it. But then again, nah.. it's not 
 good to be ill, unless for minor instances.  This year, seems to have 
 many opportunities for training, but local courses am still often required to 
 return to clear some work. But not all the time though, like today, came back 

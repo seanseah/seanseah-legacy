@@ -21,7 +21,7 @@ the corner. Staying in the base itself has its perks, with food / groceries /
 shops all available but have not really explored yet. The room itself is 
 fantastic for the price we are paying so no complains, with the usual works... 
 
-I love the weather here. Its a bit chilly in the morning and nights but other 
+I love the weather here. It's a bit chilly in the morning and nights but other 
 than that,  feels great. But that also means I definitely overpacked, haha, 
 bringing way too much warm clothes. Oh well, since I'm here already, no 
 complains, shall only suffer on the way home.. It's 7 in the morning now, and 

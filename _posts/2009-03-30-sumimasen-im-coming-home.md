@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-10266747505627927
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2009/03/sumimasen-im-coming-home.html
 ---
 
-I am currently onboard the flight back to Singapore, its been a long 
+I am currently onboard the flight back to Singapore, it's been a long 
 journey back and really, can’t wait to be home. It was a good trip, but 
 somehow, not as good as I expected, guess I was hoping it to be more like a 
 holiday but we didn’t sightsee much. It was a nice break from work still, not 

@@ -16,7 +16,7 @@ blogger_orig_url: http://geek-looking-glass.blogspot.com/2009/02/trip-down-memor
 I managed to dug up some of my 
 old photos while doing all the Chinese New Year spring cleaning, and part of 
 my plan of getting a all in one printer/scanner was to archive some of my old 
-photos which I have not got around doing.Speaking 
+photos which I have not got around doing. Speaking 
 of which, this year's Chinese New Year was a pretty quiet affair, which was a 
 good thing, though lonely. Grandma and most of the family had gone for a 
 cruise and she had done a good job informing the usual visitors that nobody 

@@ -18,5 +18,5 @@ to St Louis Galleria and Mills thus far. Was thinking whether should make a
 trip down to see the Arch but everybody here have nothing positive to say 
 about it so will probably not go check it out.  I also happen to be 
 sleeping very early and waking up EARLIER as the days pass, which is weird. 
-This is some crazy sleeping timing. Oh well.. its time to go home soon :). 
+This is some crazy sleeping timing. Oh well.. it's time to go home soon :). 
 Shall miss this relax pace lifestyle… 
