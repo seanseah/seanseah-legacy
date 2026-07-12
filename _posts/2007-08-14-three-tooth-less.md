@@ -31,10 +31,10 @@ who say MC for wisdom tooth is shuang, and to say that actually don't need MC
 and fit to go back and work, I don't agree at all! I rather work, save my 400+ 
 dollars, eat normally, talk normally, don't have to worry about bleeding, or 
 stuffing sanitary pad-like gauze into your mouth to soak up the blood, or the 
-sian-ness in eating porridge day after day. But its OVER! Oh well, the daily grinding of Lunia was quite 
-fun, its an online MMORPG that does have a story, and individual quests, like 
+sian-ness in eating porridge day after day. But it's OVER! Oh well, the daily grinding of Lunia was quite 
+fun, it's an online MMORPG that does have a story, and individual quests, like 
 Diablo, so just been at it everyday, and well, finally.. completed! (in a 
-way). Not a bad game, haha.. and its free, so hey! 
+way). Not a bad game, haha.. and it's free, so hey! 
  
  
  Oh well, in hoping that the tooth 

@@ -20,7 +20,7 @@ Birthday around the corner! 9th of June and this year the celebrations started 1
 <img src="http://lh4.google.com/image/kaer84/RmGa9n_ggsI/AAAAAAAADJU/GrNF0K_yBUk/s800/DSCF3047.JPG" /></a>
 </figure>
 
-Well the drinks, took 1 Macho Margarita, HUGE glass, but other than that, probably not as worth as getting a normal jug. We also took another jug of some higher end marg which was more expensive but other than a tad stronger alcohol taste, I couldn't really taste the difference, not worth it! Alcohol felt abit stronger today, both Ivy and Andy were not behaving normally, perhaps the lack of food? Not like they ate alot subsequently!
+Well the drinks, took 1 Macho Margarita, HUGE glass, but other than that, probably not as worth as getting a normal jug. We also took another jug of some higher end marg which was more expensive but other than a tad stronger alcohol taste, I couldn't really taste the difference, not worth it! Alcohol felt abit stronger today, both Ivy and Andy were not behaving normally, perhaps the lack of food? Not like they ate a lot subsequently!
 
 <figure>
 <a href="http://lh5.google.com/image/kaer84/RmGa-3_ggtI/AAAAAAAADJc/KeBoGdVGqSw/s1600/DSCF3048.JPG" />
@@ -29,7 +29,7 @@ Well the drinks, took 1 Macho Margarita, HUGE glass, but other than that, probab
 </figure>
 ... more sober moments ...
 
-Finally the main event! Haha.. thanks for celebrating my birthday with me, for getting the nice cake, for singing "Happy Birthday" SO VERY LOUD =), for getting 23 candles and making me blow them out in one go, haha THANKS! Appreciate it alot!
+Finally the main event! Haha.. thanks for celebrating my birthday with me, for getting the nice cake, for singing "Happy Birthday" SO VERY LOUD =), for getting 23 candles and making me blow them out in one go, haha THANKS! Appreciate it a lot!
 
 <figure>
 <a href="http://lh4.google.com/image/kaer84/RmGbEn_ggyI/AAAAAAAADKE/ixyoKC130tc/s288/DSCF3060.JPG" />

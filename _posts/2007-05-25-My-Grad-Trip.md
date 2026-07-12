@@ -49,13 +49,13 @@ Our hotel, Keyman Hotel was quite near the Train Station, really a quaint little
 <img src="http://lh3.google.com/image/kaer84/RlwnPn_ggrI/AAAAAAAADI4/BQYgQt5HNfU/s1600/IMG_1336.JPG"/></a>  
 </figure>
 
-**Shihlin Night Market**. _The_ most iconic night market in Taipei. Ahh, just lots and lots of food, alot of must try, and with it being our first night and all, it was probably the one where we ate the most! Shihlin's a huge place and after satisfying our initial craving of food, we did spend most of the night weaving in and out through the stores although we weren't interested to shop all that much considering our long journey ahead. Think this is probably one of the more interesting night markets, with a mixture of both food and shopping. We stayed there till around 11pm and although we did attempt to cover the entire area, it was just too big. 
+**Shihlin Night Market**. _The_ most iconic night market in Taipei. Ahh, just lots and lots of food, a lot of must try, and with it being our first night and all, it was probably the one where we ate the most! Shihlin's a huge place and after satisfying our initial craving of food, we did spend most of the night weaving in and out through the stores although we weren't interested to shop all that much considering our long journey ahead. Think this is probably one of the more interesting night markets, with a mixture of both food and shopping. We stayed there till around 11pm and although we did attempt to cover the entire area, it was just too big. 
 
 ## Day 2: Beautiful Scenery and Expensive Coffee
 
 We will look back upon and think of this day, the day that will be forever etched in our memories, the day 2 of our trip, the one that made it great.
 
-Having to wake up at 6+ to check out and catch our early train to Hualien, we were all very much zombified still and breakfast was settled at 7-Eleven (our first of many stops), before we went to grab the train, which was rather comfy and though we didn't look out much, there was quite a nice view outside. We managed to contact our tour guide who was very friendly and he picked us up at the train station for our Taroko Gorge Day Tour. He's like a mini celebrity on the TripAdvisor / Hardwarezone forums with many people raving about his services and all that was said was indeed true! But before that, a dabao lunch stop first "清淡又好吃". Well its good advice cos the food / COFFEE price up at the gorge was really not economical.
+Having to wake up at 6+ to check out and catch our early train to Hualien, we were all very much zombified still and breakfast was settled at 7-Eleven (our first of many stops), before we went to grab the train, which was rather comfy and though we didn't look out much, there was quite a nice view outside. We managed to contact our tour guide who was very friendly and he picked us up at the train station for our Taroko Gorge Day Tour. He's like a mini celebrity on the TripAdvisor / Hardwarezone forums with many people raving about his services and all that was said was indeed true! But before that, a dabao lunch stop first "清淡又好吃". Well it's good advice cos the food / COFFEE price up at the gorge was really not economical.
 
 <figure class="third">
 <img src="http://lh3.google.com/image/kaer84/RlOfZ3_gSdI/AAAAAAAABXA/KXBLR9bAJwk/s144/DSCF1931.JPG" /> 
@@ -80,7 +80,7 @@ Other than some oppurtune photo moments along the way, the next place should be 
 
 <img src="http://lh4.google.com/image/kaer84/RlOpUH_gUGI/AAAAAAAABkI/Cp8ZngJHl8c/s288/DSCF2049.JPG" />
 
-Alot of places for one to stop and look for the swallows, but they fly so fast, anyway, they aren't really very pretty haha.
+A lot of places for one to stop and look for the swallows, but they fly so fast, anyway, they aren't really very pretty haha.
 
 <img src="http://lh4.google.com/image/kaer84/RlOqCH_gUNI/AAAAAAAABlA/TKDVPEJSiUU/s288/DSCF2057.JPG" />
 ...swallow in flight...
@@ -103,12 +103,12 @@ Oh well, after that we made a stop. Mr Taxi Guide asked us whether any of us dri
 
 <img src="http://lh3.google.com/image/kaer84/RlOvd3_gU_I/AAAAAAAABrQ/jZPdxh6NTAo/s288/DSCF2112.JPG" />
 
-Its suppose to be some 9 turn tunnel cave, where in times of darkness, goofiness reigns. And no, the entire 9 turn isn't like such, there's alot of breaks in between for you to look up and admire and realise just how bloody big the whole place is!
+It's suppose to be some 9 turn tunnel cave, where in times of darkness, goofiness reigns. And no, the entire 9 turn isn't like such, there's a lot of breaks in between for you to look up and admire and realise just how bloody big the whole place is!
 
 <img src="http://lh3.google.com/image/kaer84/RlOug3_gU1I/AAAAAAAABqA/VnthFczg_Ys/s144/DSCF2102.JPG" />
 <img src="http://lh6.google.com/image/kaer84/RlOukn_gU2I/AAAAAAAABqI/JncnZLSBZe4/s144/DSCF2103.JPG" />
 
-One of the attractions there was this rock formation. Its some fish jumping over the gates of hell / heaven to retrieve eggs or something. Haha. Gosh, the story they tell sometimes. But yup, initially I couldn't recognise how it was a fish, but it gets easier after staring at it for awhile. Guess that goes with most of things in life!
+One of the attractions there was this rock formation. It's some fish jumping over the gates of hell / heaven to retrieve eggs or something. Haha. Gosh, the story they tell sometimes. But yup, initially I couldn't recognise how it was a fish, but it gets easier after staring at it for awhile. Guess that goes with most of things in life!
 
 <img src="http://lh5.google.com/image/kaer84/RlOxfX_gVPI/AAAAAAAABtQ/nmeklD_Eg3Y/s288/DSCF2129.JPG" />
 Yes.. more weird things to spot!
@@ -116,7 +116,7 @@ Yes.. more weird things to spot!
 <img src="http://lh6.google.com/image/kaer84/RlOyQn_gVXI/AAAAAAAABuQ/OwMPzcwM1kI/s288/DSCF2139.JPG" />
 ... king kong in the background ...
 
-Oh there's a weird Planetary Museum somewhere along the way, its free anyway, and we stopped there for our toilet break, ermm.. well, just not something you would expect to find in the middle of like a mountain reserve haha. Imagine the person working there so sad, although slack, no transport, and so very very boring. Boring-ness in work is really a bad thing, I can vouch for it!
+Oh there's a weird Planetary Museum somewhere along the way, it's free anyway, and we stopped there for our toilet break, ermm.. well, just not something you would expect to find in the middle of like a mountain reserve haha. Imagine the person working there so sad, although slack, no transport, and so very very boring. Boring-ness in work is really a bad thing, I can vouch for it!
 
 <img src="http://lh5.google.com/image/kaer84/RlOy4X_gVfI/AAAAAAAABvQ/tZg3Iu91tCc/s288/DSCF2149.JPG" />
 ... temple here too! ...
@@ -130,7 +130,7 @@ This was really just a teaser for later, but having emerged from the dark tunnel
 
 <img src="http://lh3.google.com/image/kaer84/RlOzl3_gVvI/AAAAAAAABxQ/Xf0uow4rxaA/s288/DSCF2177.JPG" />
 
-The next point was quite nice. As we walked closer and closer, the gushing noise of water grew louder and so did our anticipation as well, but it was still quite beautiful. Its erm, a vertically challenged waterfall! A suspension bridge connected it to another area where we could see more waterfalls in the background, but those were rather far away, and anywhere with a suspension bridge always adds some fun!
+The next point was quite nice. As we walked closer and closer, the gushing noise of water grew louder and so did our anticipation as well, but it was still quite beautiful. It's erm, a vertically challenged waterfall! A suspension bridge connected it to another area where we could see more waterfalls in the background, but those were rather far away, and anywhere with a suspension bridge always adds some fun!
 
 <img src="http://lh3.google.com/image/kaer84/RlO2P3_gWKI/AAAAAAAAB0o/vyl4z0taq5s/s288/DSCF2206.JPG" />
 
@@ -157,7 +157,7 @@ It was a wet wet wet place. The water level was around calf height and we finall
 <img src="http://lh3.google.com/image/kaer84/RlO5x3_gWoI/AAAAAAAAB4Y/ke4Am3n0_gQ/s288/DSCF2236.JPG" />
 ... pitch black actually ...
 
-We really couldnt see much when inside the cave, but the water kept falling from the top and there was really alot, and very cold water too! We made friends with a Taiwan couple there who was also at the cave same time as us, they didn't know that it was possible to go in and well, comparatively more ill-equipped as opposed to us. They were very nice people and they gave us alot of suggestions on things to do later on at both Kaohsiung and Taipei.
+We really couldn't see much when inside the cave, but the water kept falling from the top and there was really a lot, and very cold water too! We made friends with a Taiwan couple there who was also at the cave same time as us, they didn't know that it was possible to go in and well, comparatively more ill-equipped as opposed to us. They were very nice people and they gave us a lot of suggestions on things to do later on at both Kaohsiung and Taipei.
 
 <img src="http://lh5.google.com/image/kaer84/RlO6eX_gWxI/AAAAAAAAB5g/mnMSJqnjJIk/s288/DSCF2245.JPG" />
 
@@ -167,13 +167,13 @@ We had plans to play with fireworks later on at night and our tour guide graciou
 
 <img src="http://lh5.google.com/image/kaer84/RlO7-X_gW_I/AAAAAAAAB7Q/aR-S-D68Cqs/s144/DSCF2259.JPG" />
 
-It was getting dark and wanted to see the sunset I think at 七星潭, but it was too dark by the time we reached so we couldn't really see much here. Its just a very normal beach, although one that is next to a cemetery, makes it a tad weird and discomforting.
+It was getting dark and wanted to see the sunset I think at 七星潭, but it was too dark by the time we reached so we couldn't really see much here. It's just a very normal beach, although one that is next to a cemetery, makes it a tad weird and discomforting.
 
 <img src="http://lh3.google.com/image/kaer84/RlO8-3_gXLI/AAAAAAAAB8w/g_L1BgP-puw/s288/DSCF2276.JPG" />
 
 <img src="http://lh3.google.com/image/kaer84/RlO9d3_gXWI/AAAAAAAAB-I/1Qh6nIZqEfY/s288/DSCF2289.JPG" />
 
-Ahh.. Finally dinner, which was some wanton thingy, no noodles, just wanton, erm, I didn't really liked it, but its supposed to be quite famous in Hualien so oh well, haha, which was actually quite filling so wasn't too bad.
+Ahh.. Finally dinner, which was some wanton thingy, no noodles, just wanton, erm, I didn't really liked it, but it's supposed to be quite famous in Hualien so oh well, haha, which was actually quite filling so wasn't too bad.
 
 <img src="http://lh3.google.com/image/kaer84/RlO953_gXbI/AAAAAAAAB-w/vWYBkko8Pyk/s288/DSCF2296.JPG" />
 <img src="http://lh3.google.com/image/kaer84/RlO-w3_gXmI/AAAAAAAACAI/0fECjsJVlbk/s288/DSCF2307.JPG" />
@@ -231,7 +231,7 @@ There wasn't much food left by that timing, so we trooped off to 7-Eleven and An
 
 <img src="http://lh6.google.com/image/kaer84/RlPSmn_gYcI/AAAAAAAACG0/6_zuEVgMMWk/s288/DSCF2369.JPG" />
 
-Taroko had so many things to see, its all just so serene and beautiful that many of the pictures here, each can tell its own story. Then the multiple experiences at night, many of them being the first time, also made for good fun. Well, and to conclude it, we all had a nice room to get much needed rest!
+Taroko had so many things to see, it's all just so serene and beautiful that many of the pictures here, each can tell its own story. Then the multiple experiences at night, many of them being the first time, also made for good fun. Well, and to conclude it, we all had a nice room to get much needed rest!
 
 ## Day 3: Day of the Worst Dinner
 
@@ -255,7 +255,7 @@ Oh well. When we finally arrive in Kaohsiung, we had to look for our Hotel and u
 
 As we had booked a double room once again, this time, we decided to be more secretive and Andy / LH went to check in first while I loitered outside, but it was one of the better things in KS actually, as the room given was actually a 2 queen/king sized bed so we had ample space! Anyway, while waiting downstairs, I went walking round the Hotel area, but it was so ulu! All the shops were closed and very little people around, really felt like a deserted side of town.
 
-After they came down, we started on our travelling and first qns already kenna banged. When we looked at the tourist map, they had already drawn in the MRT stops so we thought we could move around via that, however upon enquiries, it wasn't scheduled to be open until end 2007. Oh well. As we had to crossed back to the city side, this time we took a more populated route, the railway bridge cross over but wah, they actually charged a ticket, 月台票 just to cross the platform! It's only 6 NT ~ 30 cents, but the audacity of it all! Just a stupid flyover, and not like its airconditioned or have escalators or what not, ahh, walking also need to pay toll charges, stupid!
+After they came down, we started on our travelling and first qns already kenna banged. When we looked at the tourist map, they had already drawn in the MRT stops so we thought we could move around via that, however upon enquiries, it wasn't scheduled to be open until end 2007. Oh well. As we had to crossed back to the city side, this time we took a more populated route, the railway bridge cross over but wah, they actually charged a ticket, 月台票 just to cross the platform! It's only 6 NT ~ 30 cents, but the audacity of it all! Just a stupid flyover, and not like it's airconditioned or have escalators or what not, ahh, walking also need to pay toll charges, stupid!
 
 Well, with that idiocy out of the way, we took a bus to the Gushan Ferry Terminal for a 10NT ferry to Qi Jing, where we saw this shop called dua wa gong (大碗公) haha, very big! They have another size bowl (even bigger) displayed outside but think that one really not meant for consumption, can feed 10 people lo.. but they did put 世界杯3000CC, so well, erm, go there and try again?
 
@@ -263,7 +263,7 @@ Well, with that idiocy out of the way, we took a bus to the Gushan Ferry Termina
 
 <img src="http://lh5.google.com/image/kaer84/RlPXLX_gZlI/AAAAAAAACP8/WIakPd_bwrI/s288/DSCF2454.JPG" />
 
-Somehow ferry rides aren't all that bad, there's the seaview, breeze, feeling of being on deck that makes it all quite fun, its just a short ferry ride though, something like the old harbourfront to sentosa distance!
+Somehow ferry rides aren't all that bad, there's the seaview, breeze, feeling of being on deck that makes it all quite fun, it's just a short ferry ride though, something like the old harbourfront to sentosa distance!
 
 <img src="http://lh6.google.com/image/kaer84/RlPXgn_gZtI/AAAAAAAACQ8/0oKqw09kYLY/s288/DSCF2462.JPG" />
 
@@ -277,7 +277,7 @@ The beach was unique in the sense that the sand was black? No idea why though.. 
 
 <img src="http://lh5.google.com/image/kaer84/RlPZgX_gaVI/AAAAAAAACV8/VpA15hmZdjk/s288/DSCF2505.JPG" />
 
-And well, dinner time. Being at the beach, it is apt to have seafood! So of we went searching for a suitable restaurant. Haha, bad bad experience. Perhaps we were enticed by the supposedly cheap prices but its actually based on per person and well, overall it ain't cheap! Guess the 3 of us weren't much of weird seafood eaters, so perhaps this wasn't such a good idea after all!
+And well, dinner time. Being at the beach, it is apt to have seafood! So of we went searching for a suitable restaurant. Haha, bad bad experience. Perhaps we were enticed by the supposedly cheap prices but it's actually based on per person and well, overall it ain't cheap! Guess the 3 of us weren't much of weird seafood eaters, so perhaps this wasn't such a good idea after all!
 
 <img src="http://lh4.google.com/image/kaer84/RlPZ9H_gadI/AAAAAAAACW8/CO5QrNXm4RY/s288/DSCF2515.JPG" />
 
@@ -405,7 +405,7 @@ We were quite excited about the HSR, but ended up terribly disappointed. The tra
 <img src="http://lh5.google.com/image/kaer84/RlPkKX_gdrI/AAAAAAAACws/xkIaiu6Ika8/s288/DSCF2780.JPG" />
 Taiwan High Speed Rail != Bullet Train
 
-Soon it was back in Taipei for us, and we made our way to the 国军英雄馆. Our last hotel stop! Well, it was a very simple place, and as the name suggests, very erm.. army like? Our room looked like a bunk, smelt like one, and well, basically, just felt like one too. Thin mattress, thin blanket, 1 pillow, the bare necessities of it all. Room was freezing cold also! Not sure if its due to the cold taipei temperature or our ineptness but just.. brr! Every night! BRRR!! Oh well, other than that, its advantage is really is location, very near Ximenting and it provided us with lots of convenience. Price wise was ok, at 500NT per person so well, win some.. and lose some.
+Soon it was back in Taipei for us, and we made our way to the 国军英雄馆. Our last hotel stop! Well, it was a very simple place, and as the name suggests, very erm.. army like? Our room looked like a bunk, smelt like one, and well, basically, just felt like one too. Thin mattress, thin blanket, 1 pillow, the bare necessities of it all. Room was freezing cold also! Not sure if it's due to the cold taipei temperature or our ineptness but just.. brr! Every night! BRRR!! Oh well, other than that, its advantage is really is location, very near Ximenting and it provided us with lots of convenience. Price wise was ok, at 500NT per person so well, win some.. and lose some.
 
 Recently at work, was talking to Beng Chuan about hotel taboos/things to do, he was saying before he enter a room he will:
 1) Knock on the room door, and say "sorry to disturb".
@@ -421,7 +421,7 @@ For the record, the bed passed the test.</span></div>
 
 Lunch was settled at MOS Burger, before heading on to Guanghua Market, where Andy wanted to shop for a mobile phone. The place resembled that of SLS, similar pricelist flying around, loads of components, displayed computers running, erm, geek world? But haha, was never one to really shop around in SLS either, more of a online search and just go down to make the purchase person, so the place wasn't all that attractive, but interesting nonetheless. Anyway, we left the place empty handed. Price wise for components, Singapore could still be better or almost equal so yup, no point buying stuff here except for the novelty items or Taiwan brands.
 
-With that, we headed back to one of the more famous temples in Taipei, 龙山寺. Alot of people, be it locals or tourists and alot were moving around doing the prayings and offerings. Well temples are temples and we did our part both here and subsequently later at 天后宫 which is nearer to XMT. Midway, we had a 泡泡茶 that had a signboard saying serving since 197+. Wah grandfather of 泡泡茶 stalls haha. Erm, it was quite normal (crappy), and mmm.. yep, no tradition needed here for plain bubble tea!
+With that, we headed back to one of the more famous temples in Taipei, 龙山寺. A lot of people, be it locals or tourists and a lot were moving around doing the prayings and offerings. Well temples are temples and we did our part both here and subsequently later at 天后宫 which is nearer to XMT. Midway, we had a 泡泡茶 that had a signboard saying serving since 197+. Wah grandfather of 泡泡茶 stalls haha. Erm, it was quite normal (crappy), and mmm.. yep, no tradition needed here for plain bubble tea!
 
 <img src="http://lh3.google.com/image/kaer84/RlPlu3_geGI/AAAAAAAAC0E/NggUpBADt1U/s288/DSCF2818.JPG" />
 
@@ -447,7 +447,7 @@ We made our way there around 11, after going back to the Hotel to dump our shopp
 
 Finally figured out why our entrance fee so high. Waste our money! Got some lingerie competition, and wah, got 2 of the 4 girls really quite fierce and even took their top off with an aim to win although their arms were strategically placed. I wanted to take some pictures, (no not of the topless girls, they had already worn back), and after I snapped, haha, the stage emcee or one of the crew immediately shone a torch at me and bam, the bouncer quickly came walking over, "删掉！" Wah, Strict, haha, so quickly obeyed and deleted the photo, he happy I happy, lucky never make me delete any of the other photos.
 
-Hmm, top prize was like $S100 dollars, crazy, so low! Anyway, yup, that was just a brief event and after that, we sat outside for awhile, finished up our drinks and left! Think it was almost 3 am by then. Someone said its good to take Vitamin C after alcohol consumption so we went to buy some lemonade which lol, remained largely undrunk for the night. Hey, didn't feel any difference the next morning! Taxi back quite shuang, no midnight surcharge, haha..  but wah, after clearing our stuff and bathing etc, we finally KO-ed at close to 4 am. ZzzZzzzZzzzzzz.
+Hmm, top prize was like $S100 dollars, crazy, so low! Anyway, yup, that was just a brief event and after that, we sat outside for awhile, finished up our drinks and left! Think it was almost 3 am by then. Someone said it's good to take Vitamin C after alcohol consumption so we went to buy some lemonade which lol, remained largely undrunk for the night. Hey, didn't feel any difference the next morning! Taxi back quite shuang, no midnight surcharge, haha..  but wah, after clearing our stuff and bathing etc, we finally KO-ed at close to 4 am. ZzzZzzzZzzzzzz.
 
 ## Day 6: The Amazing Race
 
@@ -462,7 +462,7 @@ THE AMAZING RACE - TAIPEI YMS VERSION
 
 "Make your way to 竹子湖 and collect the local produce and your next clue."
 
-First stop! we alighted at the designated bus stop but it was still an extremely far walk in. By this time, we had labelled some of the more colourful (literally) Singaporeans that were with us on the bus, they had donned bright yellow rain coats and well, we called them Team FedEx, but seriously, its DHL that's yellow, so erm, stupid mistake made by Andy.. but we didn't spot it then and happily called them Team FedEx anyway. With us being typical kiasu Singaporeans, we couldn't really afford to lose to them right, but haha, we did anyway. We were taking our time walking and it had started to rain so umbrellas were necessary and slowed us down abit. FedEx became so far ahead that we lost sight of them and without people to follow, we ran into some navigation problems as we lost sight of the route markers and had to resort to a little intuition and through the clearing, we could spot the signature yellow of team FedEx and were able to find the correct way!</span>  <span style="font-family: verdana;"><br /><br />At 竹子湖, it wasn't all too impressive, a little post history reading revealed that actually, it used to be a pond but had then since dried up and became a place for farmers etc. So erm.. really quite boring and with the rain and all, it really wasn't all that awe - inspiring, by the time we were done, team FedEx had long gone and some of the backmarkers had caught up with us, a group we affectionately termed team NUS, they were a bunch of 4 girls, from Engine I believe, and we just exchange glances / stares without saying hi. We scrambled to leave before we got overtaken once again. Oh and before we forget, we had to obtain one of the local produce and tada! Lilies!
+First stop! we alighted at the designated bus stop but it was still an extremely far walk in. By this time, we had labelled some of the more colourful (literally) Singaporeans that were with us on the bus, they had donned bright yellow rain coats and well, we called them Team FedEx, but seriously, it's DHL that's yellow, so erm, stupid mistake made by Andy.. but we didn't spot it then and happily called them Team FedEx anyway. With us being typical kiasu Singaporeans, we couldn't really afford to lose to them right, but haha, we did anyway. We were taking our time walking and it had started to rain so umbrellas were necessary and slowed us down a bit. FedEx became so far ahead that we lost sight of them and without people to follow, we ran into some navigation problems as we lost sight of the route markers and had to resort to a little intuition and through the clearing, we could spot the signature yellow of team FedEx and were able to find the correct way!</span>  <span style="font-family: verdana;"><br /><br />At 竹子湖, it wasn't all too impressive, a little post history reading revealed that actually, it used to be a pond but had then since dried up and became a place for farmers etc. So erm.. really quite boring and with the rain and all, it really wasn't all that awe - inspiring, by the time we were done, team FedEx had long gone and some of the backmarkers had caught up with us, a group we affectionately termed team NUS, they were a bunch of 4 girls, from Engine I believe, and we just exchange glances / stares without saying hi. We scrambled to leave before we got overtaken once again. Oh and before we forget, we had to obtain one of the local produce and tada! Lilies!
 
 <img src="http://lh6.google.com/image/kaer84/Rny3QhF_7FI/AAAAAAAADNQ/DTReUKMtoa0/s288/tw%20182.jpg" />
 
@@ -492,7 +492,7 @@ After a backbreaking race, we desperately needed a break, both from the rain and
 
 2. private hotspring i.e. Hotel which provides us with a room / bed / etc for approx 800NT for 3 hrs
 
-If divided by 3, a private room isn't that bad, at least its sheltered from teh rain, nice comfortable room, with shower facilities, air con, etc. We went around looking for one but weren't able to find one that had a reasonable rate or accommodate the 3 of us, so after awhile, we settled for the public hotspring.<br /><br />Hmm... woo, a lot of people were inside, but most were of the senior age group and a few foreigners or kids. It was divided into 3 levels, with the hotness of the water separated accordingly. The baths were of the natural rock design, had 'super hot', 'just nice hot', 'medium hot', and 'you call this hot?' levels followed by two icy cold pools (perhaps extra cold due to the rainy weather). Foolhardy perhaps but we jumped into the medium hot one, which was actually quite ok, the area where the water flowed in from was a tad too hot for comfort initially but once we adapted, it became quite shuang.<br /><br />After soaking for awhile, we tried the ice cold pool, and wow.. big big difference, haha. The water was still evaporating off our back etc and can still see the vapour trails and immersing the body totally inside was both nerve wrecking and let's just say, I prefer staying in the hot pool. Think the drastic change in temperature could also result in momentarily giddiness so erm, be careful! Anyway, after that short stint, it was back in the hot pool and just lying there, with raindrops lightly pattering on your head was ultimate shuang-ness. Refer to pic.. for a better understanding.
+If divided by 3, a private room isn't that bad, at least it's sheltered from the rain, nice comfortable room, with shower facilities, air con, etc. We went around looking for one but weren't able to find one that had a reasonable rate or accommodate the 3 of us, so after awhile, we settled for the public hotspring.<br /><br />Hmm... woo, a lot of people were inside, but most were of the senior age group and a few foreigners or kids. It was divided into 3 levels, with the hotness of the water separated accordingly. The baths were of the natural rock design, had 'super hot', 'just nice hot', 'medium hot', and 'you call this hot?' levels followed by two icy cold pools (perhaps extra cold due to the rainy weather). Foolhardy perhaps but we jumped into the medium hot one, which was actually quite ok, the area where the water flowed in from was a tad too hot for comfort initially but once we adapted, it became quite shuang.<br /><br />After soaking for awhile, we tried the ice cold pool, and wow.. big big difference, haha. The water was still evaporating off our back etc and can still see the vapour trails and immersing the body totally inside was both nerve wrecking and let's just say, I prefer staying in the hot pool. Think the drastic change in temperature could also result in momentarily giddiness so erm, be careful! Anyway, after that short stint, it was back in the hot pool and just lying there, with raindrops lightly pattering on your head was ultimate shuang-ness. Refer to pic.. for a better understanding.
 
 <span style="font-family: verdana;"><img src="http://kaer84.googlepages.com/5.gif" />
 
@@ -522,7 +522,7 @@ From the CKS Memorial Hall, we had a good view of the Taipei 101 and we spend so
 <img src="http://lh3.google.com/kaer84/RpAwzhvIRzI/AAAAAAAADO8/zg6fQFNGJrw/s288/tw%20229.jpg" />
 <img src="http://lh6.google.com/kaer84/RpAwxRvIRyI/AAAAAAAADO4/o5v0L7Cqzm0/s288/IMG_1471.JPG" />
 
-From there, we headed to WuFenPu, the wholesale market place and as described by friends who had been there before, its really for girls, perhaps 1 out of 10-15 stores are stocked with male stuff. The stuff here probably just abit cheaper compared to Shihlin or XMT or elsewhere unless you buy more, though compared to those places, the stuff here are probably more varied I guess. Streets were small and crowded with all the people and clothes displayed outside yet there were still motorcycles weaving in and out through the crowd, with their pullcart of shopping behind. Scary!
+From there, we headed to WuFenPu, the wholesale market place and as described by friends who had been there before, it's really for girls, perhaps 1 out of 10-15 stores are stocked with male stuff. The stuff here probably just a bit cheaper compared to Shihlin or XMT or elsewhere unless you buy more, though compared to those places, the stuff here are probably more varied I guess. Streets were small and crowded with all the people and clothes displayed outside yet there were still motorcycles weaving in and out through the crowd, with their pullcart of shopping behind. Scary!
 
 <figure>
 <a href = "https://lh5.googleusercontent.com/-TP1TrQhQyzI/RpA6NxvIR6I/AAAAAAAADPo/64IQKYWnXso/w1600/DSCF2970.JPG"><img src="https://lh5.googleusercontent.com/-TP1TrQhQyzI/RpA6NxvIR6I/AAAAAAAADPo/64IQKYWnXso/w800/DSCF2970.JPG" /></a>
@@ -536,7 +536,7 @@ While walking back, saw a few binglang stalls, we didn't try the betel nuts, and
 
 ## Day 8: Time to Say Goodbye
 
-Ah.. its been two months since I came back.. time to finally finish and close this chapter of my Graduation Trip. So.. it was Day 8 in Taipei, our itinerary for the day being the two memorial halls and finish up XMT! Last day breakfast was at a local stall outside our hotel, serving sandwiches and burgers which were quite good infact, and kinda felt like should have ate it more often... well, discovering a gem on the last day is far better than never discovering it at all.
+Ah.. it's been two months since I came back.. time to finally finish and close this chapter of my Graduation Trip. So.. it was Day 8 in Taipei, our itinerary for the day being the two memorial halls and finish up XMT! Last day breakfast was at a local stall outside our hotel, serving sandwiches and burgers which were quite good in fact, and kinda felt like should have ate it more often... well, discovering a gem on the last day is far better than never discovering it at all.
 
 We went back to SYS memorial to get the calligraphy book, and there were some problems as the author wasn't there but it was miraculously found hidden under the table as we were about to leave, so hmm, a little good luck on our last day. With us being the lazy sobs that we were =), we cancelled visiting the CKS memorial and went straight back to XMT for some walking around and eating... Shopping in the afternoon and on a weekday wasn't all that great, a certain vibrancy was missing but the food made up for it, and at least tried the 阿宗面线 + the shaved peanut ice which were famous...
 

@@ -41,4 +41,4 @@ dessert only, so it was something new, and had a great time at dinner. Due to
 it being a Tuesday and us being working adults, only 4 of us stayed for post 
 dinner drinks at Tangos, ah, kenna cheated by their happy hour. Gonna cut down 
 on the liquor though, abstinence abstinence, but well, erm, just a drink (or 
-two) for a little celebration. Its been too much alcohol recently. 
+two) for a little celebration. It's been too much alcohol recently. 

@@ -30,7 +30,7 @@ time soon (and already) becoming a precious commodity.
 
 
 Thought I could report late for work, 
-well, since its the last day and the big bosses are probably not around with a 
+well, since it's the last day and the big bosses are probably not around with a 
 big function last night. As it turned out, I'm even much earlier than normal, 
 and heck, not a single person in office lol... Some loose ends to wrap up and 
 soon a new phase of my career is begining (or more like, the actual start of 

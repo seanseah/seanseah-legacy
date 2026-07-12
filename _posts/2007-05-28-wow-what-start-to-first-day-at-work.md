@@ -18,7 +18,7 @@ at 630 approx and reached work at hmm, almost 8??!!
 Haha.. Ran into some bus problem as me and 
 Andy took the A version of the bus and it did not go the entire route which 
 was meant to be a loop so we had to wait for the next bus. Hmm, orientation 
-followed and got to meet the people i will be working with and all is well and 
+followed and got to meet the people I will be working with and all is well and 
 good as we bumbled around doing the required admin stuff.Had a meeting with the big boss and direct boss 
 and was assigned my project and stuff, lots of weird terms coming up and had 
 to half guess what they were. Felt sort of inadequated by my degree, lack of 

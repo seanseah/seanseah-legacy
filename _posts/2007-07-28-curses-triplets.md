@@ -14,7 +14,7 @@ blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/07/curses-triplets
 The 
 Soccer-Ankle Curse.. hmm, us long time cadets  aren't really cut out for much 
 physicalities, and the lunchtime soccer sessions have taken its toll on us, 
-with me being the latest victim. Oh well, at least I wasn't put of action for 
+with me being the latest victim. Oh well, at least I wasn't put out of action for 
 3 weeks! My ankle was still quite badly bruised, though it wasn't to the 
 extent that I can't walk around. Ahh, wasting my precious leave by 
 recuperating at home! 
