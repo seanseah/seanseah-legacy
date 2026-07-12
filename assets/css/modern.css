@@ -361,7 +361,7 @@ p code, li code {
 
 /* ---- Homepage discovery tiles (3 photo segments) ---------------------- */
 /* Stack cleanly on phones, 2-up on tablets, 3-up on large screens */
-.discovery-tiles .col-lg-4 { margin-bottom: 1.5rem; }
+.discovery-tiles .col-lg-4 { margin-bottom: 2rem; }
 .discovery-tiles a { text-decoration: none; }
 .discovery-tiles a:hover { text-decoration: none; }
 .discovery-card {
@@ -378,4 +378,9 @@ p code, li code {
   display: block;
   width: 100% !important;
   height: auto;
+}
+
+/* Extra breathing room between stacked tiles on phones */
+@media (max-width: 767px) {
+  .discovery-tiles .col-lg-4 { margin-bottom: 2.75rem; }
 }
