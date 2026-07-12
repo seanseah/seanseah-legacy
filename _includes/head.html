@@ -33,10 +33,26 @@
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+<!-- Set theme before paint to avoid a flash of the wrong theme -->
+<script>
+  (function () {
+    try {
+      var t = localStorage.getItem('theme');
+      if (!t) {
+        t = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+      document.documentElement.setAttribute('data-theme', t);
+    } catch (e) {}
+  })();
+</script>
 
 
     <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/bootstrap.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/modern.css" />
+    <script src="{{ site.url }}/assets/js/theme.js" defer></script>
 
 {% if site.search %}<div class="search-wrapper">
     <div class="search-form">

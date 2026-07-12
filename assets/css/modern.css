@@ -1,0 +1,362 @@
+/* ==========================================================================
+   modern.css — modern override layer for the HPSTR theme
+   Loaded AFTER style.css so these rules win on equal specificity.
+   Adds: CSS variables, light/dark theming, modern type scale, refined
+   components, responsive media, and theme-aware fins.
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+/* ---- Design tokens ------------------------------------------------------ */
+:root {
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --font-serif: 'Merriweather', Georgia, 'Times New Roman', serif;
+  --font-mono: 'source-code-pro', 'SFMono-Regular', Menlo, Consolas, monospace;
+
+  --bg: #ffffff;
+  --bg-elevated: #f7f7f8;
+  --bg-subtle: #f1f2f4;
+  --text: #23252b;
+  --text-muted: #6b6f78;
+  --text-faint: #9aa0aa;
+  --border: #e6e7ea;
+  --accent: #0f9b8e;
+  --accent-strong: #0b7a70;
+  --link: #0f9b8e;
+  --link-hover: #0b7a70;
+  --code-bg: #f5f7f7;
+  --code-text: #23252b;
+  --tag-bg: #eaf5f4;
+  --tag-text: #0b7a70;
+  --shadow: 0 4px 14px rgba(0, 0, 0, 0.10);
+  --radius: 10px;
+}
+
+:root[data-theme="dark"] {
+  --bg: #0f1115;
+  --bg-elevated: #171a20;
+  --bg-subtle: #1b1f27;
+  --text: #e7e9ee;
+  --text-muted: #a3a8b3;
+  --text-faint: #6f7480;
+  --border: #262b34;
+  --accent: #2dd4bf;
+  --accent-strong: #5ee0cf;
+  --link: #34d3bf;
+  --link-hover: #5ee0cf;
+  --code-bg: #161a21;
+  --code-text: #e7e9ee;
+  --tag-bg: #14201f;
+  --tag-text: #5ee0cf;
+  --shadow: 0 4px 16px rgba(0, 0, 0, 0.45);
+}
+
+/* ---- Base --------------------------------------------------------------- */
+html { -webkit-text-size-adjust: 100%; }
+@media (prefers-reduced-motion: no-preference) {
+  html { scroll-behavior: smooth; }
+}
+
+body {
+  font-family: var(--font-serif);
+  font-size: 18px;
+  line-height: 1.75;
+  color: var(--text);
+  background-color: var(--bg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-sans);
+  color: var(--text);
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  margin: 1.6em 0 0.6em;
+}
+h1 { font-size: 2em; }
+h2 { font-size: 1.6em; }
+h3 { font-size: 1.3em; }
+h4 { font-size: 1.1em; }
+h5 { font-size: 1em; }
+h6 { font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted); }
+
+p { margin: 0 0 1.4em; }
+
+a {
+  color: var(--link);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+a:hover { color: var(--link-hover); text-decoration: underline; }
+
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+::selection { background: var(--accent); color: #fff; }
+
+img { max-width: 100%; height: auto; }
+
+hr { border: 0; border-top: 1px solid var(--border); margin: 2.5em 0; }
+
+/* ---- Post content ------------------------------------------------------- */
+.post-body {
+  font-size: 1.02em;
+}
+.post-body p,
+.post-body li { line-height: 1.8; }
+
+.post-body img {
+  display: block;
+  margin: 1.6em auto;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.post-body iframe {
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: var(--radius);
+  margin: 1.5em 0;
+}
+
+.post-body a {
+  border-bottom: 1px dotted var(--link);
+}
+.post-body a:hover {
+  border-bottom-color: var(--link-hover);
+  text-decoration: none;
+}
+
+/* WordPress-style alignment helpers used in older posts */
+.aligncenter { display: block; margin: 1.6em auto; }
+.alignleft { float: left; margin: 1em 1.5em 1em 0; }
+.alignright { float: right; margin: 1em 0 1em 1.5em; }
+img.alignleft, img.alignright, img.aligncenter { box-shadow: var(--shadow); }
+
+/* ---- Headings inside posts --------------------------------------------- */
+.post-title {
+  font-family: var(--font-sans);
+  font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 800;
+  line-height: 1.1;
+  letter-spacing: -0.025em;
+  color: var(--text);
+  margin-top: 0;
+  margin-bottom: 0.4em;
+}
+.post-title a { color: var(--text); }
+.post-title a:hover { color: var(--accent); text-decoration: none; }
+
+/* Post meta (date / categories / readtime) */
+.post-info {
+  font-family: var(--font-sans);
+  font-size: 0.82em;
+  color: var(--text-muted);
+}
+.post-info a,
+.post-tags a { color: var(--link); }
+.post-info code { background: var(--bg-subtle); }
+
+/* The script-font post description (inline color:#000 would be unreadable in dark) */
+.cursive {
+  color: var(--text) !important;
+  font-family: 'Sacramento', cursive;
+}
+
+/* ---- Blockquotes -------------------------------------------------------- */
+blockquote {
+  margin: 1.6em 0;
+  padding: 0.6em 1.2em;
+  border-left: 4px solid var(--accent);
+  background: var(--bg-subtle);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  color: var(--text-muted);
+  font-style: italic;
+}
+blockquote p:last-child { margin-bottom: 0; }
+
+/* ---- Code & pre --------------------------------------------------------- */
+tt, code, kbd, samp, pre { font-family: var(--font-mono); }
+
+p code, li code {
+  background: var(--code-bg);
+  color: var(--code-text);
+  padding: 0.15em 0.4em;
+  border-radius: 5px;
+  font-size: 0.86em;
+  border: 1px solid var(--border);
+}
+
+.highlight {
+  background: var(--code-bg) !important;
+  color: var(--code-text);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1em 1.1em;
+  margin: 1.5em 0;
+  overflow-x: auto;
+}
+.highlight pre {
+  background: transparent;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  border-radius: 0;
+}
+.highlight .c,
+.highlight .c1,
+.highlight .cm,
+.highlight .cs { color: var(--text-faint) !important; }
+
+/* ---- Notices / callouts ------------------------------------------------- */
+.notice {
+  background-color: var(--bg-subtle);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text);
+}
+
+/* ---- Dividers used by .bordered-bottom / .bordered-top ------------------ */
+.bordered-top:after,
+.bordered-bottom:after {
+  background-color: var(--border);
+}
+
+/* ---- Tags (post footer) ------------------------------------------------- */
+.entry-tags {
+  margin: 1.8em 0 0.5em;
+  font-family: var(--font-sans);
+}
+.entry-tags a {
+  display: inline-block;
+  padding: 0.28em 0.85em;
+  margin: 0.2em 0.15em;
+  border-radius: 999px;
+  background: var(--tag-bg);
+  color: var(--tag-text);
+  border: 1px solid var(--border);
+  font-size: 0.82em;
+  transition: all 0.2s ease;
+}
+.entry-tags a:hover {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+  text-decoration: none;
+}
+
+/* ---- Share buttons (.social-mini) -------------------------------------- */
+.social-mini { margin: 1.5em 0; }
+.social-mini li { padding: 0 5px; }
+.social-mini a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background: var(--bg-subtle);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  transition: all 0.2s ease;
+}
+.social-mini a:hover {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+
+/* ---- Footer social icons ----------------------------------------------- */
+.social-icons a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.18);
+  color: #fff;
+  transition: all 0.2s ease;
+}
+.social-icons a:hover {
+  background: var(--accent);
+  color: #fff;
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+.menu-items a { color: var(--text-muted); }
+.menu-items a:hover { color: var(--link); }
+
+/* ---- Pagination -------------------------------------------------------- */
+.pagination {
+  color: var(--text-muted);
+  font-family: var(--font-sans);
+}
+.pagination a { color: var(--link); }
+
+/* ---- Theme-aware fins (solid white paths must match page bg) ----------- */
+#header-decor path[fill*="255,255,255"],
+#footer-decor path[fill*="255,255,255"] {
+  fill: var(--bg) !important;
+  transition: fill 0.3s ease;
+}
+
+/* ---- Floating theme toggle (FAB) --------------------------------------- */
+.theme-toggle-fab {
+  position: fixed;
+  right: 1.25rem;
+  bottom: 1.25rem;
+  z-index: 3000;
+  width: 48px;
+  height: 48px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  background: var(--bg-elevated);
+  color: var(--text);
+  cursor: pointer;
+  box-shadow: var(--shadow);
+  transition: transform 0.2s ease, background-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+.theme-toggle-fab:hover {
+  transform: translateY(-2px);
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.28);
+}
+.theme-toggle-fab svg { width: 22px; height: 22px; }
+.theme-toggle-fab .icon-moon { fill: currentColor; }
+.theme-toggle-fab .icon-sun {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+}
+.theme-toggle-fab .icon-sun { display: none; }
+.theme-toggle-fab .icon-moon { display: block; }
+:root[data-theme="dark"] .theme-toggle-fab .icon-sun { display: block; }
+:root[data-theme="dark"] .theme-toggle-fab .icon-moon { display: none; }
+
+@media (max-width: 480px) {
+  .theme-toggle-fab { right: 0.9rem; bottom: 0.9rem; width: 44px; height: 44px; }
+}
+
+/* ---- Small screens: a touch more breathing room ------------------------ */
+@media (max-width: 768px) {
+  body { font-size: 17px; }
+  .post-body img,
+  .post-body iframe { border-radius: 8px; }
+}
