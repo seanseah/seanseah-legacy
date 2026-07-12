@@ -358,3 +358,24 @@ p code, li code {
   .post-body img,
   .post-body iframe { border-radius: 8px; }
 }
+
+/* ---- Homepage discovery tiles (3 photo segments) ---------------------- */
+/* Stack cleanly on phones, 2-up on tablets, 3-up on large screens */
+.discovery-tiles .col-lg-4 { margin-bottom: 1.5rem; }
+.discovery-tiles a { text-decoration: none; }
+.discovery-tiles a:hover { text-decoration: none; }
+.discovery-card {
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.discovery-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.28);
+}
+.discovery-tiles img {
+  display: block;
+  width: 100% !important;
+  height: auto;
+}
