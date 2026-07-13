@@ -2,7 +2,7 @@
 
 // FitVids options
 $(function() {
-	$("article").fitVids();
+	fitvids();
 });
 
 // Table of Contents toggle

@@ -24,17 +24,26 @@
 
 // Init waypoints for header and footer animations
 function waypointsInit() {
-    $('#masthead').waypoint(function(direction) {
-       $(this).addClass('animation-on');
+    $('#masthead').waypoint({
+        handler: function() {
+            $('#masthead').addClass('animation-on');
+        }
     });
 
-    $('#main').waypoint(function(direction) {
-       $('#masthead').toggleClass('animation-on');
+    $('#main').waypoint({
+        handler: function() {
+            $('#masthead').toggleClass('animation-on');
+        }
     });
 
-    $('#footer').waypoint(function(direction) {
-      $(this).toggleClass('animation-on');
-    } , { offset: 'bottom-in-view' });
+    $('#footer').waypoint({
+        handler: function() {
+            $('#footer').toggleClass('animation-on');
+        },
+        offset: function() {
+            return $('#footer').offset().top + $('#footer').outerHeight() - $(window).height();
+        }
+    });
 }
 
 // Init bootstrap tooltip
