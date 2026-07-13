@@ -107,7 +107,7 @@ I made J one tub this year, and also, one additionally huge pineapple tart as th
 often but every Chinese New Year, I just can't resist.
 
 <figure>
-	<a href="{{ site.url }}/images/posts/big-pineapple-tart.jpg"><img src="{{ site.url }}/images/posts/big-pineapple-tart.jpg"></a>
+	<a href="{{ site.url }}{{ site.baseurl }}/images/posts/big-pineapple-tart.jpg"><img src="{{ site.url }}{{ site.baseurl }}/images/posts/big-pineapple-tart.jpg"></a>
 	<figcaption>My humongous pineapple tart</figcaption>
 </figure>
 

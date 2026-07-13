@@ -19,7 +19,8 @@ fin_color:        "255,255,255"
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 #url: http://seanseah.github.io
-url: https://seanseah.github.io/seanseah-legacy
+url: https://seanseah.github.io
+baseurl: /seanseah-legacy
 
 # Server
 host: 0.0.0.0
@@ -43,7 +44,9 @@ owner:
   tumblr:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-58151941-1
+# Google Analytics 4 Measurement ID (format: G-XXXXXXXXXX).
+# TODO: replace the placeholder below with your real GA4 ID to start collecting.
+google_analytics: G-XXXXXXXXXX
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -75,7 +78,7 @@ paginate_path: "page:num"
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 kramdown:
   auto_ids: true

@@ -30,7 +30,7 @@ In the early days, I recall mealtimes with my grandma chasing after me as I ran 
 In primary school, my CCA choice was an unusual one: the harmonica. I even performed a couple of pieces on stage, usually hidden in the back row, just trying to be as quiet as possible. The funny thing is, I think I picked it because of a girl. No, not what you're thinking — she was a family friend, and my dad had an arrangement with her mother: he'd help send the two of us home when his schedule allowed, and on the other weeks her mother would help out. To make things more convenient, I picked the same CCA as her.
 
 ### 1996 - My First Computer
-The impact of computers and technology on my life has been immense. Head over to [my gadgets page]({{ site.url }}/gadgets/) for a full overview of my technolust.
+The impact of computers and technology on my life has been immense. Head over to [my gadgets page]({{ site.url }}{{ site.baseurl }}/gadgets/) for a full overview of my technolust.
 
 My dad bought me this first computer as a reward after my PSLE, and I made good use of it. The brand was APEX. I still remember blowing the power supply barely a couple of months in, when I switched it from 220V to 110V. **Itchy fingers.**
 
@@ -89,7 +89,7 @@ I found myself plonked into the world of SMEs and start-ups. Life in SPRING Sing
 I was inspired by Jason and his vision for the company. We had dreams of making it big, but I also knew the journey was fraught with risks. We fought for two years, but industry demand wasn't as robust as we envisioned. It was an exciting journey — from networking with investors and closing deals to striking industry partnerships. It was also my first private-sector experience, where I got mired in a sea of operations and taught myself full-stack software engineering on a Django project. It was a highly enriching two years, and I think that experience landed me my tech-related job years later.
 
 ### 2014 - Goodbye my love
-[Goodbye my love]({{ site.url }}/personal/Goodbye-My-Love). A part of me died with you, and I will always miss you, little cookie.
+[Goodbye my love]({{ site.url }}{{ site.baseurl }}/personal/Goodbye-My-Love). A part of me died with you, and I will always miss you, little cookie.
 
 ### 2015 - The Little Prince (Tyrant)
 Nothing changes your life as much as becoming a parent. I've always liked spending time by myself, sometimes just spacing out and thinking about nothing. But ever since I became a dad, that time is sorely missed. That said, having little S is a blessing, and as tough as it is, I've got to embrace fatherhood with all I can give.
@@ -98,7 +98,7 @@ Nothing changes your life as much as becoming a parent. I've always liked spendi
 When one door closes, another opens. Another eye-opening six months.
 
 ### 2017 - Goodbye my love Pt 2
-It's not easy to say [Goodbye]({{ site.url }}/personal/Incoming). I hope you're in a better place now.
+It's not easy to say [Goodbye]({{ site.url }}{{ site.baseurl }}/personal/Incoming). I hope you're in a better place now.
 
 ### 2018 - The Little Princess
 Two is better than one.

@@ -14,17 +14,17 @@
             <li>{% if link.external %}
                     <a href="{{ link.url }}">{{ link.title }}</a>
                 {% else %}
-                    <a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
+                    <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
                 {% endif %} </li>
 {% endfor %}
-           <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
+           <li><a href="{{ site.url }}{{ site.baseurl }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
     </nav>
 
 
 </aside>
-{% if page.imagefeature %}<header id="masthead" class="blog-background overlay align-center align-middle animated from-bottom"  style="background-image: url({{ site.url }}/images/{{ page.imagefeature }})" itemscope itemtype="http://schema.org/Organization">
+{% if page.imagefeature %}<header id="masthead" class="blog-background overlay align-center align-middle animated from-bottom"  style="background-image: url({{ site.url }}{{ site.baseurl }}/images/{{ page.imagefeature }})" itemscope itemtype="http://schema.org/Organization">
 {% else %}
-<header id="masthead" class="blog-background overlay align-center align-middle animated from-bottom"  style="background-image: url({{ site.url }}/images/{{ site.default_bg }})" itemscope itemtype="http://schema.org/Organization">
+<header id="masthead" class="blog-background overlay align-center align-middle animated from-bottom"  style="background-image: url({{ site.url }}{{ site.baseurl }}/images/{{ site.default_bg }})" itemscope itemtype="http://schema.org/Organization">
 {% endif %}
 {% if site.search %}
     <button class="menu-button animated fade dosearch">
@@ -34,9 +34,9 @@
 {% if site.description %}
     <div class="inner">
         <div class="container">
-            <a class="brand light" href="{{ site.url }}" role="banner" itemprop="url">
+            <a class="brand light" href="{{ site.url }}{{ site.baseurl }}" role="banner" itemprop="url">
 
-                {% if site.logo %}<img itemprop="logo" src="{{ site.url }}/images/{{ site.logo }}" alt="{{ site.title }} Logo" />{% endif %}
+                {% if site.logo %}<img itemprop="logo" src="{{ site.url }}{{ site.baseurl }}/images/{{ site.logo }}" alt="{{ site.title }} Logo" />{% endif %}
 
             <h1 class="blog-title light" itemprop="name">
                 {{ site.title }}
@@ -51,9 +51,9 @@
     {% else %}
     <div class="inner">
         <div class="container">
-            <a class="brand" href="{{ site.url }}" role="banner" itemprop="url">
+            <a class="brand" href="{{ site.url }}{{ site.baseurl }}" role="banner" itemprop="url">
 
-                    <img itemprop="logo" src="{{ site.url }}/images/{{ site.logo }}" alt="{{ site.title }} Logo" />
+                    <img itemprop="logo" src="{{ site.url }}{{ site.baseurl }}/images/{{ site.logo }}" alt="{{ site.title }} Logo" />
 
             <h1 class="blog-title light" itemprop="name">
                 {{ site.title }}
@@ -106,7 +106,7 @@
         <p class='text-lead'>
           Discover my activities, past experiences, and the things that define 
           me. Read about me here. Or, head over to <a href = 
-          "http://gadgetreactor.com">GadgetReactor</a> to see the things I 
+          "https://gadgetreactor.com">GadgetReactor</a> to see the things I 
           dabble with when I am free and the latest
           happenings in the technology scene in Singapore.
         </p>
@@ -118,7 +118,7 @@
 		<div class="carousel-item">
 			<div class="col-lg-4 rm-padding-sm col-md-6 col-sm-6 col-xs-12">
 			  <div class="discovery-card rm-padding-sm row-space-4 darken-on-hover">
-    			<a href="{{ site.url }}/categories/#travel" class="link-reset va-container" data-hook="discovery-card" data-id="Ubud">
+    			<a href="{{ site.url }}{{ site.baseurl }}/categories/#travel" class="link-reset va-container" data-hook="discovery-card" data-id="Ubud">
            		    <img src = "images/travel.jpg"  width="90%">
     			</a>
 		      </div>
@@ -126,7 +126,7 @@
 			
 			<div class="col-lg-4 rm-padding-sm col-md-6 col-sm-6 col-xs-12">
 			  <div class="discovery-card rm-padding-sm row-space-4 darken-on-hover">
-    			<a href="{{ site.url }}/life-big-moments/" class="link-reset va-container" data-hook="discovery-card" data-id="Bangkok">
+    			<a href="{{ site.url }}{{ site.baseurl }}/life-big-moments/" class="link-reset va-container" data-hook="discovery-card" data-id="Bangkok">
     			    <img src = "images/life.jpg"  width="90%">
     			</a>      
 			  </div>
@@ -134,7 +134,7 @@
 
 			<div class="col-lg-4 rm-padding-sm col-md-6 col-sm-6 col-xs-12">
 			  <div class="discovery-card rm-padding-sm row-space-4 darken-on-hover">
-    			<a href="{{ site.url }}/gadgets/" class="link-reset va-container" data-hook="discovery-card" data-id="Ubud">
+    			<a href="{{ site.url }}{{ site.baseurl }}/gadgets/" class="link-reset va-container" data-hook="discovery-card" data-id="Ubud">
            		    <img src = "images/gadgets.jpg" width="90%">
     			</a>
 		      </div>

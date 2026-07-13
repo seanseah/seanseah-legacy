@@ -7,7 +7,7 @@ image:
   feature:
 ---
 <figure>
-  <img src="{{ site.url }}/images/seanseah.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/seanseah.jpg">
   <figcaption>Me</figcaption>
 </figure>
 
