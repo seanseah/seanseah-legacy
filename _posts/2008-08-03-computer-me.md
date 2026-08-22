@@ -24,12 +24,15 @@ The other applications serve to make my life easier, like office applications,
 media players etc and are easily replaceable. Hence no big loss that those 
 were gone. On a daily basis, most of the information required is retrievable 
 off the net and I hardly access personal files. This whole experience also 
-made me realise what are the more important items then...1. Documents 
-1. Media 
-1. Photos 
-1. Eccentric S/W that requires customisation 
-1. Obsolete Software w/o Replacement 
-With that, really need to 
+made me realise what are the more important items then...
+
+1. Documents
+2. Media
+3. Photos
+4. Eccentric S/W that requires customisation
+5. Obsolete Software w/o Replacement
+
+With that, really need to
 establish a backup routine, documents due to their size should be synchronised 
 online, and while security might be compromised, it allows for access to 
 information from anywhere. Hence, just need to be a little careful on what is 

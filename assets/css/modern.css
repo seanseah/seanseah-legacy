@@ -300,6 +300,23 @@ p code, li code {
 .menu-items a { color: var(--text-muted); }
 .menu-items a:hover { color: var(--link); }
 
+/* ---- UI font normalization ---------------------------------------------- */
+/* The legacy theme scatters Lato/Cambria/Merriweather across UI chrome;
+   route all UI surfaces through the sans stack so fonts stay consistent. */
+#sidebar h2,
+#sidebar #navigation li a,
+#sidebar #navigation #slide-pages li a,
+#sidebar #navigation #slide-filter li a {
+  font-family: var(--font-sans);
+}
+body input,
+body textarea,
+body select,
+body .btn,
+body button {
+  font-family: var(--font-sans);
+}
+
 /* ---- Pagination -------------------------------------------------------- */
 .pagination {
   color: var(--text-muted);

@@ -11,8 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-11751353636577757
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2008/04/long-overdue-entry.html
 ---
 
-Blogging 
-- on - course. Whew, finally some time off to actually write down my thoughts. 
+Blogging on - course. Whew, finally some time off to actually write down my thoughts.
 And this time is largely due to me being on a first aid couse which I rather 
 not been attending. Work is piling up as I waste my time here. 
 
