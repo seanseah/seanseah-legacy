@@ -82,7 +82,7 @@ $("a#click-pages").click(function(){
   gtag('config', '{{ site.google_analytics }}');
 </script>
 {% endif %}
-{% if page.comments %}{% include disqus_comments.html %}{% endif %}
+{% if page.comments and site.disqus_shortname %}{% include disqus_comments.html %}{% endif %}
 
 <!-- Floating theme toggle (modern.css styles it) -->
 <button class="theme-toggle-fab" data-theme-toggle aria-label="Toggle dark mode" title="Toggle dark mode">
