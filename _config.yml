@@ -45,8 +45,9 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # Google Analytics 4 Measurement ID (format: G-XXXXXXXXXX).
-# TODO: replace the placeholder below with your real GA4 ID to start collecting.
-google_analytics: G-XXXXXXXXXX
+# TODO: uncomment and replace with your real GA4 ID to start collecting.
+# Left commented out so the placeholder ID is not loaded on every page.
+# google_analytics: G-XXXXXXXXXX
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
