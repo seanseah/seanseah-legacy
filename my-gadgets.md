@@ -382,8 +382,6 @@ I started [GadgetReactor](http://www.gadgetreactor.com) in 2012 together with Zh
 <li>CS2102 Database (NUS) - Cloud Enabled Music Library Player</li>
 <li>Geek-Looking-Glass</li>
 <li>VJC Robotics</li>
-</ul>
-<ul>
 <li>Share our joy</li>
 <li>Inspiration Social</li>
 <li>Windfall Travels</li>

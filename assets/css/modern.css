@@ -307,9 +307,7 @@ p code, li code {
 #sidebar h2 {
   font-family: var(--font-serif);
 }
-#sidebar #navigation li a,
-#sidebar #navigation #slide-pages li a,
-#sidebar #navigation #slide-filter li a {
+#sidebar #navigation li a {
   font-family: var(--font-sans);
 }
 body input,
@@ -498,11 +496,6 @@ details.review-year > ul {
 details.review-year li {
   margin: 0.14em 0;
   line-height: 1.6;
-}
-details.review-year ul + ul {
-  margin-top: 0.75rem;
-  padding-top: 0.75rem;
-  border-top: 1px dashed var(--border);
 }
 /* Two columns for long lists on wide screens */
 @media (min-width: 720px) {
