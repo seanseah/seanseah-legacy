@@ -69,11 +69,11 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-sans);
+  font-family: var(--font-serif);
   color: var(--text);
   font-weight: 700;
   line-height: 1.2;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.01em;
   margin: 1.6em 0 0.6em;
 }
 h1 { font-size: 2em; }
@@ -143,11 +143,11 @@ img.alignleft, img.alignright, img.aligncenter { box-shadow: var(--shadow); }
 
 /* ---- Headings inside posts --------------------------------------------- */
 .post-title {
-  font-family: var(--font-sans);
+  font-family: var(--font-serif);
   font-size: clamp(2rem, 5vw, 3rem);
-  font-weight: 800;
-  line-height: 1.1;
-  letter-spacing: -0.025em;
+  font-weight: 900;
+  line-height: 1.15;
+  letter-spacing: -0.015em;
   color: var(--text);
   margin-top: 0;
   margin-bottom: 0.4em;
@@ -156,7 +156,7 @@ img.alignleft, img.alignright, img.aligncenter { box-shadow: var(--shadow); }
 .post-title a:hover { color: var(--accent); text-decoration: none; }
 
 /* Bolder post title (override the theme's forced thin weight) */
-.post-title.lighter { font-weight: 800 !important; }
+.post-title.lighter { font-weight: 900 !important; }
 
 /* Post meta (date / categories / readtime) */
 .post-info {
@@ -302,8 +302,11 @@ p code, li code {
 
 /* ---- UI font normalization ---------------------------------------------- */
 /* The legacy theme scatters Lato/Cambria/Merriweather across UI chrome;
-   route all UI surfaces through the sans stack so fonts stay consistent. */
-#sidebar h2,
+   route UI surfaces through the sans stack so fonts stay consistent.
+   Headers use the serif stack instead (site-wide heading direction). */
+#sidebar h2 {
+  font-family: var(--font-serif);
+}
 #sidebar #navigation li a,
 #sidebar #navigation #slide-pages li a,
 #sidebar #navigation #slide-filter li a {
