@@ -14,100 +14,147 @@ I am not too keen on splurging a fortune on them.
 
 ## Gadgets I Own
 
-#### Guitars
-+ Guitar 1: Peavey Something ...
-+ Guitar 2: A black Yamaha RG Axe that I sandpapered and spray painted metallic silver
-+ Guitar 3: Slash Custom Snake Guitar that caught my eye when I started my guitar journey ...
+<div class="gadget-grid">
 
-#### Consoles
-+ Nintendo Entertainment System
-+ Sega Game Gear
-+ XBOX
-+ XBOX 360 w/ Kinect
-+ XBOX Series S
+<section class="gadget-card">
+<h4>Guitars</h4>
+<ul>
+<li>Guitar 1: Peavey Something ...</li>
+<li>Guitar 2: A black Yamaha RG Axe that I sandpapered and spray painted metallic silver</li>
+<li>Guitar 3: Slash Custom Snake Guitar that caught my eye when I started my guitar journey ...</li>
+</ul>
+</section>
 
-#### Phones
-+ Sony Ericsson T68i
-+ Samsung (clamshell phone) 
-+ Nokia E61
-+ HTC Touch
-+ HTC Touch 2
-+ Optimus 2X
-+ Blackberry 9630
-+ Samsung Galaxy S3
-+ LG G Pro 2
-+ HTC One E8
-+ Samsung Galaxy S7 Edge
-+ Redmi 1
-+ Asus Zenfone 2 Zoom
-+ HTC U Ultra
-+ Xiaomi Mi 9
-+ Realme GT Neo
-+ Google Pixel 7a
+<section class="gadget-card">
+<h4>Consoles</h4>
+<ul>
+<li>Nintendo Entertainment System</li>
+<li>Sega Game Gear</li>
+<li>XBOX</li>
+<li>XBOX 360 w/ Kinect</li>
+<li>XBOX Series S</li>
+<li>Powkiddy Q90</li>
+<li>TrimUI Smart Pro</li>
+</ul>
+</section>
 
-#### Tablets
-+ Nook Color
-+ Nexus 7 2012
-+ iPad 2
-+ HP Stream 7
-+ Lenovo Xiaoxin Pad 2022
+<section class="gadget-card">
+<h4>Phones</h4>
+<ul>
+<li>Sony Ericsson T68i</li>
+<li>Samsung (clamshell phone)</li>
+<li>Nokia E61</li>
+<li>HTC Touch</li>
+<li>HTC Touch 2</li>
+<li>Optimus 2X</li>
+<li>Blackberry 9630</li>
+<li>Samsung Galaxy S3</li>
+<li>LG G Pro 2</li>
+<li>HTC One E8</li>
+<li>Samsung Galaxy S7 Edge</li>
+<li>Redmi 1</li>
+<li>Asus Zenfone 2 Zoom</li>
+<li>HTC U Ultra</li>
+<li>Xiaomi Mi 9</li>
+<li>Realme GT Neo</li>
+<li>Google Pixel 7a</li>
+<li>Poco F7 Pro</li>
+</ul>
+</section>
 
-#### Media Players
-+ iPod Mini 8GB
-+ iPod Touch 2 (Apple Peel 520)
-+ Veolo 4K
-+ Tronsmart MK908
-+ Chromecast
-+ Chromecast with Google TV
+<section class="gadget-card">
+<h4>Tablets</h4>
+<ul>
+<li>Nook Color</li>
+<li>Nexus 7 2012</li>
+<li>iPad 2</li>
+<li>HP Stream 7</li>
+<li>Lenovo Xiaoxin Pad 2022</li>
+<li>Lenovo Xiaoxin Pad Pro GT</li>
+</ul>
+</section>
 
-#### PC
+<section class="gadget-card">
+<h4>Media Players</h4>
+<ul>
+<li>iPod Mini 8GB</li>
+<li>iPod Touch 2 (Apple Peel 520)</li>
+<li>Veolo 4K</li>
+<li>Tronsmart MK908</li>
+<li>Chromecast</li>
+<li>Chromecast with Google TV</li>
+</ul>
+</section>
 
-+ Pentium 100
-  + 8mb RAM
-  + 1.6 GB HDD
+<section class="gadget-card">
+<h4>PC</h4>
+<ul>
+<li>Pentium 100
+  <ul>
+  <li>8mb RAM</li>
+  <li>1.6 GB HDD</li>
+  </ul>
+</li>
+<li>Celeron 333
+  <ul>
+  <li>Riva TNT</li>
+  <li>256mb RAM</li>
+  </ul>
+</li>
+<li>AMD XP 1700+</li>
+<li>Core2Duo E6300</li>
+<li>AsRock 775 HDTV-Twins
+  <ul>
+  <li>ASUS ATI 4850</li>
+  </ul>
+</li>
+<li>AMD Phenom II X2 550
+  <ul>
+  <li>Biostar TA790GXE</li>
+  <li>Palit GTX 460</li>
+  </ul>
+</li>
+<li>AMD X3 440</li>
+<li>Fujitsu S6300
+  <ul>
+  <li>Intel Centrino</li>
+  <li>512MB RAM</li>
+  </ul>
+</li>
+<li>HP Mini</li>
+<li>Asus Chromebox</li>
+<li>Asus ROG Laptop</li>
+<li>Chuwi Hi10Pro</li>
+<li>Dell G3</li>
+<li>MacBook Air M1</li>
+</ul>
+</section>
 
-+ Celeron 333
-  + Riva TNT
-  + 256mb RAM
+<section class="gadget-card">
+<h4>Cameras</h4>
+<ul>
+<li>Fujifilm X31</li>
+<li>Pentax K-X
+  <ul>
+  <li>18-55 mm f/3.5 - f/5.5 lens</li>
+  <li>50mm manual f/1.8 lens</li>
+  </ul>
+</li>
+</ul>
+</section>
 
-+ AMD XP 1700+
+<section class="gadget-card">
+<h4>Wearables</h4>
+<ul>
+<li>LG G Watch R</li>
+<li>Xiaomi Band</li>
+<li>Activa Band</li>
+<li>Fitbit</li>
+<li>Garmin Forerunner 255</li>
+</ul>
+</section>
 
-+ Core2Duo E6300
-+ AsRock 775 HDTV-Twins
-  + ASUS ATI 4850
-
-+ AMD Phenom II X2 550
-  + Biostar TA790GXE
-  + Palit GTX 460
-
-+ AMD X3 440
-
-+ Fujitsu S6300
-  + Intel Centrino
-  + 512MB RAM
-
-+ HP Mini
-
-+ Asus Chromebox
-
-+ Asus ROG Laptop
-
-+ Chuwi Hi10Pro
-
-+ Dell G3
-
-
-#### Cameras
-+ Fujifilm X31
-+ Pentax K-X
-	+ 18-55 mm f/3.5 - f/5.5 lens
-	+ 50mm manual f/1.8 lens
-
-#### Wearables
-+ LG G Watch R
-+ Xiaomi Band
-+ Activa Band
-+ Fitbit
+</div>
 
 Recent years have seen a significant adoption of Android / Google related gadgets. My other family members have used Apple and also Microsoft based mobile devices and that allows me to play around with those gadgets too.
 
@@ -119,203 +166,252 @@ I recall my first PC was a Pentium 100, with 8mb of RAM. Games were limited but 
 
 I started [GadgetReactor](http://www.gadgetreactor.com) in 2012 together with Zhaolin to share tech news and my own experiences toying with gadgets I bought. I was impressed by the Barnes & Noble Nook Color and wanted to share my experience with it. We didn't had much gadgets and we focused on sharing tech news at the start.
 
-2012
+<div class="review-years">
 
-1. iNo One (ZL)
-2. Nexus 7
-3. Nook Color
+<details class="review-year">
+<summary>2012 <span class="review-count">3 gadgets</span></summary>
+<ol>
+<li>iNo One (ZL)</li>
+<li>Nexus 7</li>
+<li>Nook Color</li>
+</ol>
+</details>
 
-2013
+<details class="review-year">
+<summary>2013 <span class="review-count">17 gadgets</span></summary>
+<ol>
+<li>Google Nexus 4 (ZL)</li>
+<li>HTC Butterfly S</li>
+<li>TactSlider</li>
+<li>LG Optimus G</li>
+<li>Tronsmart MK908</li>
+<li>UnoVPN</li>
+<li>HTC One M7</li>
+<li>Samsung Galaxy S4</li>
+<li>Sony Xperia Z</li>
+<li>Sony Xperia Z1</li>
+<li>Sony Xperia Z Ultra (Event)</li>
+<li>iCookie</li>
+<li>LG NP3530</li>
+<li>TactSlider</li>
+<li>iNo Two (ZL)</li>
+<li>iNo Magic (ZL)</li>
+<li>LG G FLex (Event)</li>
+</ol>
+</details>
 
-1. Google Nexus 4 (ZL)
-2. HTC Butterfly S
-3. TactSlider
-4. LG Optimus G
-5. Tronsmart MK908
-6. UnoVPN
-7. HTC One M7
-8. Samsung Galaxy S4
-9. Sony Xperia Z
-10. Sony Xperia Z1
-11. Sony Xperia Z Ultra (Event)
-12. iCookie
-13. LG NP3530
-14. TactSlider
-15. iNo Two (ZL)
-16. iNo Magic (ZL)
-17. LG G FLex (Event)
+<details class="review-year">
+<summary>2014 <span class="review-count">31 gadgets</span></summary>
+<ol>
+<li>SGHITECH Pride Non Camera</li>
+<li>ASUS Chromebox</li>
+<li>SGHITECH Excellence Non Camera</li>
+<li>Solar Battery Pack (Gearbest)</li>
+<li>Roman S530</li>
+<li>LG G Pro 2</li>
+<li>iCookie</li>
+<li>G1W-C Dashcam</li>
+<li>Gearbest Bass Sound Piston In-Ear Earphone</li>
+<li>Google Cardboard</li>
+<li>LG G3 (Event)</li>
+<li>HTC One M8 (Event)</li>
+<li>PixePlay Kuro</li>
+<li>Xiaomi Redmi</li>
+<li>LG G Watch (ZL)</li>
+<li>ASUS Padfone S + Tablet</li>
+<li>Mi Band</li>
+<li>ASUS Gaming Laptop G771</li>
+<li>ASUS Gaming SFF PC G20</li>
+<li>HTC One E8</li>
+<li>OnePlusOne (ZL)</li>
+<li>Dell Laptop</li>
+<li>Cregle InkR</li>
+<li>Eubiq Director Track + Accessories</li>
+<li>OPPO Find 7</li>
+<li>OPPO N1 Mini</li>
+<li>Nokia Lumia 1520</li>
+<li>Logitech K400R</li>
+<li>Fobo Tire (ZL)</li>
+<li>HTC RE Camera</li>
+<li>HTC Desire Eye</li>
+</ol>
+</details>
 
-2014
+<details class="review-year">
+<summary>2015 <span class="review-count">33 gadgets</span></summary>
+<ol>
+<li>LG G Flex 2 (Event)</li>
+<li>Alienware Laptops (Event)</li>
+<li>HP Stream 7</li>
+<li>Sugru</li>
+<li>Logitech Keys to Go</li>
+<li>Asus Fonepad 8</li>
+<li>ASUS RT-AC87U router (ZL)</li>
+<li>UE Boom</li>
+<li>Philips Fidelio NC1</li>
+<li>Lenovo S6000 Bluetooth Keyboard</li>
+<li>Krusell 2 in 1 iPhone Wallet</li>
+<li>Krusell FlipWallet Slide</li>
+<li>Zenfone 2</li>
+<li>UB+ Eupho</li>
+<li>D-Link DIR-890L</li>
+<li>RC Fibers Hybrid Wallet</li>
+<li>HTC One M9</li>
+<li>Dell U2515H</li>
+<li>Microsoft Surface 3 (Event)</li>
+<li>ASUS Transformer T300 Chi</li>
+<li>LG G4 (Event)</li>
+<li>Logitech M238</li>
+<li>Logitech G910</li>
+<li>Dell Venue 8 7000</li>
+<li>ASUS Strix DSP 7.1 Gaming Headset</li>
+<li>Tesoro Excalibur RGB (Brown Switch) Keyboard</li>
+<li>Sony Smartwatch 3</li>
+<li>Galaxy A8 and Tab S2 (Event)</li>
+<li>OnePlus 2 (Event)</li>
+<li>ADATA PV150 Battery Pack</li>
+<li>Strix Gaming Gear (Keyboard, Mouse, Mousepad)</li>
+<li>Sony Xperia Z3+</li>
+<li>ASUS ROG G501</li>
+</ol>
+</details>
 
-1. SGHITECH Pride Non Camera
-2. ASUS Chromebox
-3. SGHITECH Excellence Non Camera
-4. Solar Battery Pack (Gearbest)
-5. Roman S530
-6. LG G Pro 2
-7. iCookie
-8. G1W-C Dashcam
-9. Gearbest Bass Sound Piston In-Ear Earphone
-10. Google Cardboard
-11. LG G3 (Event)
-12. HTC One M8 (Event)
-13. PixePlay Kuro
-14. Xiaomi Redmi
-15. LG G Watch (ZL)
-16. ASUS Padfone S + Tablet
-17. Mi Band
-18. ASUS Gaming Laptop G771
-19. ASUS Gaming SFF PC G20
-20. HTC One E8
-21. OnePlusOne (ZL)
-22. Dell Laptop
-23. Cregle InkR
-24. Eubiq Director Track + Accessories
-25. OPPO Find 7
-26. OPPO N1 Mini
-28. Nokia Lumia 1520
-29. Logitech K400R
-30. Fobo Tire (ZL)
-31. HTC RE Camera
-32. HTC Desire Eye
+<details class="review-year">
+<summary>2016 <span class="review-count">23 gadgets</span></summary>
+<ol>
+<li>B&O H3 ANC</li>
+<li>Zenfone Zoom</li>
+<li>Dir 885L</li>
+<li>Hello Kitty Grace Laptop</li>
+<li>Kodak CFH-V15 IP Camera</li>
+<li>ZUS Smart Car Charge</li>
+<li>ASUS ROG G752 Gaming Laptop</li>
+<li>Gateman WF10 Digital Lock</li>
+<li>Sudio Vasa Bla</li>
+<li>Klikr Remote</li>
+<li>Asus Zenwatch 2</li>
+<li>ROG Spatha</li>
+<li>ErgoSilver Laptop Stand</li>
+<li>Orange Pi</li>
+<li>LG V20</li>
+<li>D-Link DAP 1860</li>
+<li>ASUS RECO Smart Dash Camera</li>
+<li>ASUS USB-AC68 AC1900 WiFi Adapter</li>
+<li>Sony Xperia XZ</li>
+<li>Samsung Gear S3</li>
+<li>HTC U Ultra</li>
+<li>Sudio Regent</li>
+<li>Probox2 Air Android 6.0 TV Box</li>
+</ol>
+</details>
 
-2015
+<details class="review-year">
+<summary>2017 <span class="review-count">12 gadgets</span></summary>
+<ol>
+<li>ASUS Zenpad 3</li>
+<li>Logitech Create Keyboard for iPad Pro</li>
+<li>TP-Link C5400 Archer Router</li>
+<li>Zhiyun Smooth Q</li>
+<li>Gatekeeper</li>
+<li>LG G6</li>
+<li>Chuwi Hi10Pro</li>
+<li>Zenbook 3 UX390A</li>
+<li>D-Link DAP1720</li>
+<li>Google WiFi</li>
+<li>Logitech M585</li>
+<li>Asus B9440</li>
+</ol>
+</details>
 
-1. LG G Flex 2 (Event)
-2. Alienware Laptops (Event)
-3. HP Stream 7
-4. Sugru
-5. Logitech Keys to Go
-6. Asus Fonepad 8
-7. ASUS RT-AC87U router (ZL)
-8. UE Boom
-9. Philips Fidelio NC1
-10. Lenovo S6000 Bluetooth Keyboard
-11. Krusell 2 in 1 iPhone Wallet
-12. Krusell FlipWallet Slide
-13. Zenfone 2
-14. UB+ Eupho
-15. D-Link DIR-890L
-16. RC Fibers Hybrid Wallet
-17. HTC One M9
-18. Dell U2515H
-19. Microsoft Surface 3 (Event)
-20. ASUS Transformer T300 Chi
-21. LG G4 (Event)
-22. Logitech M238
-23. Logitech G910
-24. Dell Venue 8 7000
-25. ASUS Strix DSP 7.1 Gaming Headset
-26. Tesoro Excalibur RGB (Brown Switch) Keyboard
-27. Sony Smartwatch 3
-28. Galaxy A8 and Tab S2 (Event)
-29. OnePlus 2 (Event)
-30. ADATA PV150 Battery Pack
-31. Strix Gaming Gear (Keyboard, Mouse, Mousepad)
-32. Sony Xperia Z3+
-33. ASUS ROG G501
+<details class="review-year">
+<summary>2018 <span class="review-count">3 gadgets</span></summary>
+<ol>
+<li>ASUS ROG Strix GL702ZC</li>
+<li>Sudio Niva</li>
+<li>Dell G3</li>
+</ol>
+</details>
 
-2016
+<details class="review-year">
+<summary>2019 <span class="review-count">1 gadget</span></summary>
+<ol>
+<li>Mopidy</li>
+</ol>
+</details>
 
-34. B&O H3 ANC
-35. Zenfone Zoom
-36. Dir 885L
-37. Hello Kitty Grace Laptop
-38. Kodak CFH-V15 IP Camera
-39. ZUS Smart Car Charge
-40. ASUS ROG G752 Gaming Laptop
-41. Gateman WF10 Digital Lock
-42. Sudio Vasa Bla
-43. Klikr Remote
-44. Asus Zenwatch 2
-45. ROG Spatha
-46. ErgoSilver Laptop Stand
-47. Orange Pi
-48. LG V20
-49. D-Link DAP 1860
-50. ASUS RECO Smart Dash Camera
-51. ASUS USB-AC68 AC1900 WiFi Adapter
-52. Sony Xperia XZ
-53. Samsung Gear S3
-54. HTC U Ultra
-55. Sudio Regent
-56. Probox2 Air Android 6.0 TV Box
+<details class="review-year">
+<summary>2020 <span class="review-count">3 gadgets</span></summary>
+<ol>
+<li>Sudio Fem</li>
+<li>Sudio Ett – ANC Earbuds</li>
+<li>Samsung S20 Ultra</li>
+</ol>
+</details>
 
-2017
+<details class="review-year">
+<summary>2021 <span class="review-count">3 gadgets</span></summary>
+<ol>
+<li>Gemini Mouse</li>
+<li>Sony WH-1000XM4</li>
+<li>Samsung Galaxy M22</li>
+</ol>
+</details>
 
-57. ASUS Zenpad 3
-58. Logitech Create Keyboard for iPad Pro
-59. TP-Link C5400 Archer Router
-60. Zhiyun Smooth Q
-61. Gatekeeper
-62. LG G6
-63. Chuwi Hi10Pro
-64. Zenbook 3 UX390A
-65. D-Link DAP1720
-66. Google WiFi
-67. Logitech M585
-68. Asus B9440 
+<details class="review-year">
+<summary>2023 <span class="review-count">1 gadget</span></summary>
+<ol>
+<li>Google Pixel 7A</li>
+</ol>
+</details>
 
-2018
-
-69. ASUS ROG Strix GL702ZC
-70. Sudio Niva
-71. Dell G3
-
-2019
-
-72. Mopidy
-
-2020
-
-73. Sudio Fem
-74. Sudio Ett – ANC Earbuds
-75. Samsung S20 Ultra
-
-2021
-
-76. Gemini Mouse
-77. Sony WH-1000XM4
-78. Samsung Galaxy M22
-
-2023
-
-78. Google Pixel 7A
+</div>
 
 ## Random Stuff
 
-### Websites ###
+<div class="review-years">
 
-- Personal
-- ngE Clan
-- Rehabking
-- Squadron
-- Project BRASIL
-- Travel Website Project
-- CS2102 Database (NUS) - Cloud Enabled Music Library Player
-- Geek-Looking-Glass
-- VJC Robotics
-+ Share our joy
-+ Inspiration Social
-+ Windfall Travels
-+ Rehab King
-+ Diapers n Diapers
-+ Moobee
-+ Cloud AceProxy
-+ Descaro (Downloader)
-+ pyLoad
-+ OrangeHRM (O2C)
-+ DJANGO SP Project
-+ Financial Expense Tracker
-+ Holeeday
-+ Financial / Personal Dashboard
-+ Corporate videos
-+ Server Monitor Dashboard 
- 
-### XBMC Plugins ###
+<details class="review-year">
+<summary>Websites <span class="review-count">25 projects</span></summary>
+<ul>
+<li>Personal</li>
+<li>ngE Clan</li>
+<li>Rehabking</li>
+<li>Squadron</li>
+<li>Project BRASIL</li>
+<li>Travel Website Project</li>
+<li>CS2102 Database (NUS) - Cloud Enabled Music Library Player</li>
+<li>Geek-Looking-Glass</li>
+<li>VJC Robotics</li>
+</ul>
+<ul>
+<li>Share our joy</li>
+<li>Inspiration Social</li>
+<li>Windfall Travels</li>
+<li>Rehab King</li>
+<li>Diapers n Diapers</li>
+<li>Moobee</li>
+<li>Cloud AceProxy</li>
+<li>Descaro (Downloader)</li>
+<li>pyLoad</li>
+<li>OrangeHRM (O2C)</li>
+<li>DJANGO SP Project</li>
+<li>Financial Expense Tracker</li>
+<li>Holeeday</li>
+<li>Financial / Personal Dashboard</li>
+<li>Corporate videos</li>
+<li>Server Monitor Dashboard</li>
+</ul>
+</details>
 
-- GameSaves
-- GameTrailers
-- NowShowing
-- sg!Radio
-- sg!TV
+<details class="review-year">
+<summary>XBMC Plugins <span class="review-count">5 plugins</span></summary>
+<ul>
+<li>GameSaves</li>
+<li>GameTrailers</li>
+<li>NowShowing</li>
+<li>sg!Radio</li>
+<li>sg!TV</li>
+</ul>
+</details>
+
+</div>

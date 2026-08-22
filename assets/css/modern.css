@@ -404,3 +404,111 @@ body button {
 @media (max-width: 767px) {
   .discovery-tiles .col-lg-4 { margin-bottom: 2.75rem; }
 }
+
+/* ---- Gadgets page ------------------------------------------------------- */
+/* Card grid for "Gadgets I Own" — responsive 1/2/3-up */
+.gadget-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 1.25em 0 1.75em;
+}
+.gadget-card {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.9rem 1.1rem 0.75rem;
+}
+.gadget-card h4 {
+  margin: 0 0 0.5em;
+  padding-bottom: 0.35em;
+  border-bottom: 1px solid var(--border);
+  font-size: 1.02em;
+}
+.gadget-card ul,
+.gadget-card ol {
+  margin: 0;
+  padding-left: 1.15rem;
+}
+.gadget-card li {
+  margin: 0.18em 0;
+  line-height: 1.55;
+}
+.gadget-card ul ul {
+  margin: 0.15em 0 0.3em;
+}
+.gadget-card ul ul li {
+  margin: 0.08em 0;
+  color: var(--text-muted);
+  font-size: 0.9em;
+}
+
+/* Collapsible year/project blocks (reviews + random stuff) */
+.review-years { margin: 1.25em 0; }
+details.review-year {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg-elevated);
+  margin-bottom: 0.6rem;
+  overflow: hidden;
+}
+details.review-year summary {
+  position: relative;
+  cursor: pointer;
+  padding: 0.65rem 2.6rem 0.65rem 1rem;
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 0.95em;
+  color: var(--text);
+  list-style: none;
+  user-select: none;
+}
+details.review-year summary::-webkit-details-marker { display: none; }
+details.review-year summary::after {
+  content: "+";
+  position: absolute;
+  right: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-muted);
+  font-weight: 700;
+  font-size: 1.15em;
+}
+details.review-year[open] summary::after { content: "\2212"; }
+details.review-year[open] summary {
+  border-bottom: 1px solid var(--border);
+}
+.review-count {
+  font-family: var(--font-sans);
+  font-size: 0.78em;
+  font-weight: 500;
+  color: var(--tag-text);
+  background: var(--tag-bg);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.08em 0.7em;
+  margin-left: 0.35em;
+  white-space: nowrap;
+}
+details.review-year > ol,
+details.review-year > ul {
+  margin: 0;
+  padding: 0.6rem 1rem 0.9rem 2.6rem;
+}
+details.review-year li {
+  margin: 0.14em 0;
+  line-height: 1.6;
+}
+details.review-year ul + ul {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px dashed var(--border);
+}
+/* Two columns for long lists on wide screens */
+@media (min-width: 720px) {
+  details.review-year > ol,
+  details.review-year > ul {
+    column-count: 2;
+    column-gap: 2.5rem;
+  }
+}
