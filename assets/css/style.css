@@ -3907,40 +3907,6 @@ a#slide.slide:after{
     color:#ffffff
     }
 
-#sidebar #navigation #slide-pages,
-#sidebar #navigation #slide-filter{
-    display:none;
-    margin:10px 0;
-    padding:0 0 0 18px;
-    border-left:3px solid #242424
-    }
-
-@-moz-document url-prefix(){
-
-    #sidebar #navigation #slide-filter{
-        margin:10px 0 0 8px;
-        padding:0 0 0 18px
-        }
-
-}
-
-#sidebar #navigation #slide-pages li,
-#sidebar #navigation #slide-filter li{
-    margin:0 0 14px
-    }
-
-#sidebar #navigation #slide-pages li a,
-#sidebar #navigation #slide-filter li a{
-    display:block;
-    padding:0;
-    font:700 14px/1em "Lato"
-    }
-
-#sidebar #navigation #slide-pages li:last-child,
-#sidebar #navigation #slide-filter li:last-child{
-    margin:0
-    }
-
 
 /*      End-Sidebar     */
 
