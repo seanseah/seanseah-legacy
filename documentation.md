@@ -275,7 +275,7 @@ HMFAYSAL-OMEGA-THEME
 │       │       simpleJekyllSearch.js
 │       │
 │       └───vendor
-│               jquery─1.9.1.min.js
+│               jquery─4.0.0.min.js
 │
 ├───images
 │
