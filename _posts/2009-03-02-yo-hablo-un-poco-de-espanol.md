@@ -13,7 +13,7 @@ blogger_orig_url: http://geek-looking-glass.blogspot.com/2009/03/yo-hablo-un-poc
 
 ¡Hola! Mi nombre es Sean, y estoy veinticuatro años de 
 edad este año. Por cierto, yo hablo un poco de español.Hello! My name is Sean, and I am 24 years old this year. By 
-the way, I speak a little Spanish :). ![](http://lh4.ggpht.com/_m5e8Pqc8k3c/Savlbe2XrOI/AAAAAAAAFtk/f-rdT2hcL9c/s1600/hola%20logo%5B13%5D.jpg)I started Spanish lessons on Jan 21, and it runs every 
+the way, I speak a little Spanish :). I started Spanish lessons on Jan 21, and it runs every 
 Saturday for 2 hours. I am currently into my 7th lesson now and while it's 
 difficult, it's actually quite fun. The challenge is that learning any language 
 needs a lot of time and effort, which is something I am lacking. Normally, I 

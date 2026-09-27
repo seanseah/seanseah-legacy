@@ -26,10 +26,10 @@ At that early age, there's a lot more opportunity for trying out new interests a
 It also granted some father / son bonding time. As my collection grew, I pestered my dad for a display cabinet and we spend some time hunting around for one. The fun was in putting it together. The shelf is still around, even after 18 years. We actually made a mistake in the installation. We sort of installed one shelf in the opposite direction, but the fun is in the process right? I still look at it and smile fondly as I remember how we worked together. Life is never perfect, it is filled with tons of imperfections and challenges, yet each mistake we make is for a purpose, and would only make us wiser and stronger.
 
 <figure class="third">
-	<a href="https://lh5.googleusercontent.com/-IPP7ZY000WU/UA1zKdebI_I/AAAAAAAAKd4/B75h0TZczAA/w2048-no/weee%2B016.jpg"><img alt="" src="https://lh5.googleusercontent.com/-IPP7ZY000WU/UA1zKdebI_I/AAAAAAAAKd4/B75h0TZczAA/w600-no/weee%2B016.jpg"></a>
-	<a href="https://lh6.googleusercontent.com/-q-U24qTM648/UA1zb4yAoVI/AAAAAAAA5jQ/p-TqcdCKlSQ/w2048-no/weee%2B023.jpg"><img alt="" src="https://lh6.googleusercontent.com/-q-U24qTM648/UA1zb4yAoVI/AAAAAAAA5jQ/p-TqcdCKlSQ/w600-no/weee%2B023.jpg"></a>
 	<a href="http://1.bp.blogspot.com/_m5e8Pqc8k3c/RbN_18sgUJI/AAAAAAAAACI/CV0eYTjNpBQ/s1600/weee+048.jpg"><img alt="" src="http://1.bp.blogspot.com/_m5e8Pqc8k3c/RbN_18sgUJI/AAAAAAAAACI/CV0eYTjNpBQ/s600/weee+048.jpg"></a>
 </figure>
+
+*[Two of the photos in this collection are no longer available online.]*
 <figure class="half">
 	<a href="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RbOBYcsgULI/AAAAAAAAACY/9wE_3GSuKHs/s1600/weee+024.jpg"><img alt="" src="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RbOBYcsgULI/AAAAAAAAACY/9wE_3GSuKHs/s600/weee+024.jpg"></a>
 	<a href="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RbOCxssgUMI/AAAAAAAAACg/tHV1AxaCddI/s1600/weee+034.jpg"><img alt="" src="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RbOCxssgUMI/AAAAAAAAACg/tHV1AxaCddI/s600/weee+034.jpg"></a>
