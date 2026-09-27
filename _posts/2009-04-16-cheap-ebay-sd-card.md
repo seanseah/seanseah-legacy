@@ -7,7 +7,6 @@ tags:
 - toys
 categories: tech
 modified_time: '2009-04-16T02:14:09.993+08:00'
-thumbnail: http://lh4.ggpht.com/_m5e8Pqc8k3c/SeYj8c74mXI/AAAAAAAAFwA/5YglEGep3TY/s72-c/DSCF5791_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-7628527910342902204
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2009/04/good-deal.html
 ---
