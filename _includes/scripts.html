@@ -21,9 +21,10 @@ $("#fade,#header,#posts-container").click(function(){
 </script>
 
 {% if site.search %}
-<!-- Jekyll Simple Search: the JSON index (title + excerpt + tags) is only
-     fetched the first time the search overlay is actually opened, so it stays
-     off the critical path for every other page view. -->
+<!-- Jekyll Simple Search: the JSON index is only fetched the first time the
+     search overlay is actually opened, so it stays off the critical path for
+     every other page view. The index carries post titles and labels only —
+     the search matches titles, not body text. -->
 <script>
 (function () {
   var $searchField = $('.search-field');
@@ -50,17 +51,8 @@ $("#fade,#header,#posts-container").click(function(){
       searchInput: $searchField[0],
       resultsContainer: $results[0],
       json: data,
-      searchResultTemplate: '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a><p class="search-excerpt">{content}</p></article></li>',
-      templateMiddleware: function (entry, key) {
-        if (key === 'content') {
-          var t = entry.content || '';
-          return t.length > 150 ? t.slice(0, 150) + '…' : t;
-        }
-        return entry[key];
-      },
+      searchResultTemplate: '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
       noResultsText: '<li><p class="search-empty">Nothing found.</p></li>',
-      limit: 12,
-      fuzzy: true,
       debounceTime: 150
     });
   }

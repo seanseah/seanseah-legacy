@@ -307,12 +307,6 @@ p code, li code {
 }
 
 /* ---- Search results ----------------------------------------------------- */
-.search-excerpt {
-  margin: 0.3em 0 0;
-  font-size: 0.88em;
-  line-height: 1.5;
-  color: var(--text-muted);
-}
 .search-empty { color: var(--text-muted); font-style: italic; }
 
 /* ---- Notices / callouts ------------------------------------------------- */
