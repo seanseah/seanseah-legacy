@@ -6,3 +6,6 @@ _site
 Gemfile.lock
 vendor/bundle
 .trash
+
+# local verification scratch
+.verify/
