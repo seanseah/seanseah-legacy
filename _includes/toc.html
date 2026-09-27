@@ -5,26 +5,41 @@ Splits on "<h" so H2 and H3 are picked up in document order, then pulls the
 kramdown auto-generated id (auto_ids: true in _config.yml) out of each heading.
 Only renders when a post has three or more headings, so short posts stay clean.
 
-The id is read from INSIDE the heading's own opening tag (everything up to the
-first ">"). Splitting the whole chunk on a quote instead let a hand-written raw
-heading with no id — e.g. the legacy <h3>Contents</h3> block in
-_posts/2007-05-25-My-Grad-Trip.md — borrow the first quoted id found further
-down the page, which emitted a junk entry (<a href="#drawer"><ul id=</a>) and
-broke the nesting of the whole document. Requiring "id=" to appear before the
-tag closes rejects those chunks.
+The extraction itself is the original, proven-on-this-site logic. What guards it
+is the check that the text before the first quote holds no "<". A real heading
+kramdown generated is <h2 id="slug">, so that fragment is just "2 id=" and never
+contains a tag. A hand-written raw heading with no id — the legacy
+<h3>Contents</h3> block in _posts/2007-05-25-My-Grad-Trip.md — instead leaves
+"</h3>...<div id=" in that position, so the first quoted value found further down
+the page used to be mistaken for this heading's id, emitting
+
+    <li class="toc-l3"><a href="#drawer"><ul id=</a></li
+
+which nested the rest of the document inside the anchor and left the page with
+unbalanced tags. Rejecting any chunk whose pre-id fragment contains "<" also
+stops an unlinkable heading from being counted, which is what conjured an empty
+"Contents" box on _posts/2013-03-21-Yogyakarta.md (four raw <h3>s, no ids).
+
+Each guard is its own {% if %} rather than a compound "and": Liquid 4 on GitHub
+Pages and python-liquid disagree on how "x and y contains 'z'" groups, and the
+two-condition form silently stopped matching under Liquid 4.
 
 Usage: {% include toc.html src=page.content %}
 {%- endcomment -%}
 {%- assign toc_parts = include.src | split: '<h' -%}
 {%- assign toc_count = 0 -%}
-{%- comment -%} pass 1: count only headings that actually carry an id {%- endcomment -%}
+{%- comment -%} pass 1: count only chunks that look like a real kramdown heading {%- endcomment -%}
 {%- for part in toc_parts -%}
   {%- assign lvl = part | slice: 0 -%}
   {%- if lvl == '2' or lvl == '3' -%}
-    {%- assign open_tag = part | remove_first: lvl | split: '>' | first -%}
-    {%- assign open_segs = open_tag | split: '"' -%}
-    {%- if open_segs.size > 2 and open_segs[0] contains 'id=' -%}
-      {%- assign toc_count = toc_count | plus: 1 -%}
+    {%- assign rest = part | remove_first: lvl -%}
+    {%- assign segs = rest | split: '"' -%}
+    {%- if segs.size > 2 -%}
+      {%- if segs[0] contains '<' -%}
+        {%- comment -%} a tag leaked in before the id, so this is raw HTML, not a heading {%- endcomment -%}
+      {%- else -%}
+        {%- assign toc_count = toc_count | plus: 1 -%}
+      {%- endif -%}
     {%- endif -%}
   {%- endif -%}
 {%- endfor -%}
@@ -37,15 +52,16 @@ Usage: {% include toc.html src=page.content %}
     {%- assign lvl = part | slice: 0 -%}
     {%- if lvl == '2' or lvl == '3' -%}
       {%- assign rest = part | remove_first: lvl -%}
-      {%- assign open_tag = rest | split: '>' | first -%}
-      {%- assign open_segs = open_tag | split: '"' -%}
-      {%- if open_segs.size > 2 and open_segs[0] contains 'id=' -%}
-        {%- assign hid = open_segs[1] -%}
-        {%- comment -%} rest always begins with open_tag, so removing it leaves
-           the heading text, still prefixed by the tag's own ">" {%- endcomment -%}
-        {%- assign htext = rest | remove_first: open_tag | split: '</h' | first | remove_first: '>' | strip_html | strip -%}
-        {%- if htext != '' and hid != '' -%}
+      {%- assign segs = rest | split: '"' -%}
+      {%- if segs.size > 2 -%}
+        {%- if segs[0] contains '<' -%}
+          {%- comment -%} skip raw HTML that only looked like a heading {%- endcomment -%}
+        {%- else -%}
+          {%- assign hid = segs[1] -%}
+          {%- assign htext = segs[2] | split: '</h' | first | remove_first: '>' | strip_html | strip -%}
+          {%- if htext != '' and hid != '' -%}
     <li class="toc-l{{ lvl }}"><a href="#{{ hid }}">{{ htext }}</a></li>
+          {%- endif -%}
         {%- endif -%}
       {%- endif -%}
     {%- endif -%}
