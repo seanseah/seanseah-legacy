@@ -67,7 +67,7 @@ B &amp; J's Free Cone ...
 nice view ... 
 Alright, finally after getting the ice 
 cream and surviving the aftermath, time to start studying in school but before 
-i could even study for long, the head became heavier and soon BAM. SLEEP. 
+I could even study for long, the head became heavier and soon BAM. SLEEP. 
 Well, first real day of studying, could have been better but let's not be 
 greedy. Ok this is turning out to be a long long post so shall stop now. The 
 whole entry (minus pictures) done on my phone, ain't too shabby eh? Can fight 

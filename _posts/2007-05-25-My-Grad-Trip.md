@@ -343,7 +343,7 @@ At the bus interchange, we asked how to go to the Water Theme Park and were info
 
 Sigh. Disappointed. No choice, we now had to make the most out of the situation and we headed towards a new shopping mall which we had spotted earlier. It kinda fit into the Singapore mould of shopping malls, as typical as they go, the same standard boutiques, design, feel! But there were 2 shops that stood out that made it worth our visit!
 
-1) A shop that sold a bit retro stuff, but very much fashionable, and lots of other items but the picture here are of the sneakers, displayed on moving shelves, that go back and forth. The entire shop has a atas-theme to it, warmly lit, chandeliers, moving platforms, classy cabinets, and has a restaurant inside, for people to soak in the atmosphere. It's kinda similar to Tea Cosy at Plaza Sing, nice place too!
+1) A shop that sold a bit retro stuff, but very much fashionable, and lots of other items but the picture here are of the sneakers, displayed on moving shelves, that go back and forth. The entire shop has an atas-theme to it, warmly lit, chandeliers, moving platforms, classy cabinets, and has a restaurant inside, for people to soak in the atmosphere. It's kinda similar to Tea Cosy at Plaza Sing, nice place too!
 
 <img alt="" src="http://lh6.google.com/image/kaer84/RlPfMn_gcCI/AAAAAAAACjk/zHAea0H4e9U/s288/DSCF2644.JPG" />
 
@@ -381,7 +381,7 @@ When that was accomplished, the first start took me off on a quick start and jer
 <img alt="" src="http://lh5.google.com/image/kaer84/RlPiVX_gdAI/AAAAAAAACrU/pw7-gvUq2kc/s288/DSCF2724.JPG" />
 ... with better control ...
 
-After that, we just keep letting each other try the bike, taking turns and just riding around a quiet street. The thing was, there was a police post at the corner and they do patrol around quite often so we were quite crazy riding there, but they didn't say anything although after a few times, we decided that's that and moved to a empty carpark for our mini scooter tour. Well, the whole purpose of the 1 hour rental wasn't to go places, it was just like for us to try out how it was and heh heh.. take photos!!
+After that, we just keep letting each other try the bike, taking turns and just riding around a quiet street. The thing was, there was a police post at the corner and they do patrol around quite often so we were quite crazy riding there, but they didn't say anything although after a few times, we decided that's that and moved to an empty carpark for our mini scooter tour. Well, the whole purpose of the 1 hour rental wasn't to go places, it was just like for us to try out how it was and heh heh.. take photos!!
 
 <img alt="" src="http://lh3.google.com/image/kaer84/RlPi33_gdPI/AAAAAAAACtM/yksQiDN8s38/s288/DSCF2740.JPG" />
 
@@ -419,7 +419,7 @@ WAH.. so many. Haha.. as for me, first thing I do is well, erm, usually, figure 
 <img alt="" src="http://lh6.google.com/image/kaer84/RnSEI8q6R_I/AAAAAAAADMk/Fm4ON9B2-y0/s288/tw%20119.jpg" />
 For the record, the bed passed the test.</span></div>
 
-Lunch was settled at MOS Burger, before heading on to Guanghua Market, where Andy wanted to shop for a mobile phone. The place resembled that of SLS, similar pricelist flying around, loads of components, displayed computers running, erm, geek world? But haha, was never one to really shop around in SLS either, more of a online search and just go down to make the purchase person, so the place wasn't all that attractive, but interesting nonetheless. Anyway, we left the place empty handed. Price wise for components, Singapore could still be better or almost equal so yup, no point buying stuff here except for the novelty items or Taiwan brands.
+Lunch was settled at MOS Burger, before heading on to Guanghua Market, where Andy wanted to shop for a mobile phone. The place resembled that of SLS, similar pricelist flying around, loads of components, displayed computers running, erm, geek world? But haha, was never one to really shop around in SLS either, more of an online search and just go down to make the purchase person, so the place wasn't all that attractive, but interesting nonetheless. Anyway, we left the place empty handed. Price wise for components, Singapore could still be better or almost equal so yup, no point buying stuff here except for the novelty items or Taiwan brands.
 
 With that, we headed back to one of the more famous temples in Taipei, 龙山寺. A lot of people, be it locals or tourists and a lot were moving around doing the prayings and offerings. Well temples are temples and we did our part both here and subsequently later at 天后宫 which is nearer to XMT. Midway, we had a 泡泡茶 that had a signboard saying serving since 197+. Wah grandfather of 泡泡茶 stalls haha. Erm, it was quite normal (crappy), and mmm.. yep, no tradition needed here for plain bubble tea!
 
@@ -500,7 +500,7 @@ Well, part of the hotspring experience is to see how hot you can take, so up we 
 
 <img alt="" src="http://lh3.google.com/image/kaer84/RlPqL3_gfVI/AAAAAAAAC98/iXsCJ-PKTcg/s288/DSCF2914.JPG" />
 
-After a relaxing soak, we emerged refreshed and energised from the hotspring and were all ready to continue our itinerarry for the day, which was more shopping! We had watned to go to Danshui Fisherman Wharf + the Lover's Bridge and had aims to catch the sunset there, but we were running behing schedule and tired from the travelling, in the end, shopping wins. We decided to go back to Shihlin Night Market and later at night catch the Miramar Ferris Wheel (but haha, once started shopping, ahh, ferris wheel was cancelled also. Oh, Danshui had the "Ah Gei", some toufu / tanghoon conception, which we had been looking for as it was supposed to be quite famous but weren't able to find. Well, realised it was available at Danshui through Jiali's pictures.
+After a relaxing soak, we emerged refreshed and energised from the hotspring and were all ready to continue our itinerarry for the day, which was more shopping! We had wanted to go to Danshui Fisherman Wharf + the Lover's Bridge and had aims to catch the sunset there, but we were running behing schedule and tired from the travelling, in the end, shopping wins. We decided to go back to Shihlin Night Market and later at night catch the Miramar Ferris Wheel (but haha, once started shopping, ahh, ferris wheel was cancelled also. Oh, Danshui had the "Ah Gei", some toufu / tanghoon conception, which we had been looking for as it was supposed to be quite famous but weren't able to find. Well, realised it was available at Danshui through Jiali's pictures.
 
 Anyway, we were starving and at Shihlin it was a food hunt again. Despite it being the second time we were here, and the 鸡排, we were all craving for it... Deep fried goodness, yummy!
 

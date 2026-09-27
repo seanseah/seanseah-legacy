@@ -74,7 +74,7 @@ The front part was a lawn area where the 40 girls (like 后宫 equivalent) will 
  
 Next was visiting the sleeping quarters. What was sad was how the original wooden frames with cravings of the doors, windows and bed frames were stolen during the earthquakes. Then it was the many underground tunnels which led to a praying area.
  
-Totally tired out by then ( even though it was only 2pm but v hot) we tried taking the many keceks. Got a old guy who cycled and we felt really bad as he went so slowly and didn't seem to have much slowly. Took us half an hour to get back our hotel which was so slow considering the distance but overall a good experience.
+Totally tired out by then ( even though it was only 2pm but v hot) we tried taking the many keceks. Got an old guy who cycled and we felt really bad as he went so slowly and didn't seem to have much slowly. Took us half an hour to get back our hotel which was so slow considering the distance but overall a good experience.
  
 Dinner was KFC nearby. Was too tired to go other malls and didn't feel like shopping.
  

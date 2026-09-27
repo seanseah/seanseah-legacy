@@ -32,7 +32,7 @@ dollars 24 month contract. Thanks to my unexplainable obsession with EDMW, I
 got the contract at almost the last instance before they took it offline. 
 Singtel honoured their mistake and hey, a free 24 month phone contract + 
 Samsung U700 for me, at no costs at all :) Putting in the starhub sim, this 
-phone works well as a a on the go web browser, screen is definitely not as 
+phone works well as a on the go web browser, screen is definitely not as 
 good as my E61 though. However, my dad is eyeing the phone to replace the junk 
 that I got for him last year, oh well, shall hold on to it a little longer 
 before passing over to him. 

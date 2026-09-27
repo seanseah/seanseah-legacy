@@ -52,7 +52,7 @@ I continued with my Battlestar and One Piece marathon before napping awhile in t
 ## Day 6 (Mon)
 Today was a very positive day at work as things went by rather smoothly. It was a chop chop breakfast followed by walking into the work area. There was a pre-practiced maintenance response that triggered and it went by smoothly. 
 
-In the same day, I visited both the canteens near our work centre. The first was in the morning for a quick drink. In the late afternoon, we went to the canteen in the MT Flight and JS treated us there. It seems that the Indians are a big fan of Teh Halia and it's relatively cheap too! However, the prices seem to have increased compared to a week ago. We must really look somewhat like a carrot-head to them.
+In the same day, I visited both the canteens near our work centre. The first was in the morning for a quick drink. In the late afternoon, we went to the canteen in the MT Flight and JS treated us there. It seems that the Indians are a big fan of The Halia and it's relatively cheap too! However, the prices seem to have increased compared to a week ago. We must really look somewhat like a carrot-head to them.
 
 ## Day 7 (Tue)
 

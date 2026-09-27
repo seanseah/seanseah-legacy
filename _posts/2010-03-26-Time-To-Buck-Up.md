@@ -27,6 +27,6 @@ I have also started on new interest activities. Instead of just keeping it to th
 
 > Bluetooth earphones linked up with a GPS phone that measures the distance + calories burnt of my run :) 
 
-Everything connects easily and it just works (though some might say the initial setup is a PITA). Actually, knowing how far you run and how fast you run is a great motivator. But, the challenge of carrying a phone with you while running is a genuine problem and even if you can, there is also a problem of water ingression, which can drive many gadgets conker. The particular pair of bluetooth earphones died after a few vigourous runs after exposure to sweat. Phone survived though, I ran most times with an armband strap. Do note that the cheaper ones are not waterproof and can be stained with your sweat.
+Everything connects easily and it just works (though some might say the initial setup is a PITA). Actually, knowing how far you run and how fast you run is a great motivator. But, the challenge of carrying a phone with you while running is a genuine problem and even if you can, there is also a problem of water ingression, which can drive many gadgets conker. The particular pair of bluetooth earphones died after a few vigorous runs after exposure to sweat. Phone survived though, I ran most times with an armband strap. Do note that the cheaper ones are not waterproof and can be stained with your sweat.
 
 ![](http://4.bp.blogspot.com/_m5e8Pqc8k3c/S6y1N-_VYaI/AAAAAAAAHCE/itnEuXuKakE/s1600/DSCF6753.JPG)

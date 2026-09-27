@@ -70,7 +70,7 @@ Health is important, so that we reduce the probability of this happening. And ho
 
 Don't you think we are just too gloomy all the time? Coming from me, this must be the biggest oxymoron ever. 
 
-But hear me out. *Being Happy* is a about a positive state of mind. And laughter, associated with happines is linked to all sorts of positive things that make you healthier. Scientifically, a laugh releases oxytocin throughout the body which evokes happiness and calmness. 
+But hear me out. *Being Happy* is about a positive state of mind. And laughter, associated with happiness is linked to all sorts of positive things that make you healthier. Scientifically, a laugh releases oxytocin throughout the body which evokes happiness and calmness. 
 
 > _We don't laugh because we're happy – we're happy because we laugh._ 
 > <small>William James</small>

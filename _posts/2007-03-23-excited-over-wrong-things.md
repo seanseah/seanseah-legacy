@@ -38,6 +38,6 @@ forward to it, and we have more than enough time to just explore the entire
 capital. 
 ![](http://1.bp.blogspot.com/_m5e8Pqc8k3c/RgS7F4vP9pI/AAAAAAAAA-g/DvyzceIykjQ/s1600/tickets.jpg) 
 Edit @ 0948Hrs: Wahhh, finally after much changing and planning, we finally 
-settled on an the dates to go for Taiwan.. ok 15th to 22nd. Now is to hope for 
+settled on the dates to go for Taiwan.. ok 15th to 22nd. Now is to hope for 
 a party of 4 and then for the next stop: Itinerary Planning! 
  
