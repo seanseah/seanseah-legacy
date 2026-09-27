@@ -1,0 +1,36 @@
+{%- comment -%}
+Builds a table of contents from the rendered post body.
+
+Splits on "<h" so H2 and H3 are picked up in document order, then pulls the
+kramdown auto-generated id (auto_ids: true in _config.yml) out of each heading.
+Only renders when a post has three or more headings, so short posts stay clean.
+
+Usage: {% include toc.html src=page.content %}
+{%- endcomment -%}
+{%- assign toc_parts = include.src | split: '<h' -%}
+{%- assign toc_count = 0 -%}
+{%- for part in toc_parts -%}
+  {%- assign lvl = part | slice: 0 -%}
+  {%- if lvl == '2' or lvl == '3' -%}{%- assign toc_count = toc_count | plus: 1 -%}{%- endif -%}
+{%- endfor -%}
+{%- if toc_count >= 3 -%}
+<nav class="post-toc" aria-labelledby="post-toc-heading">
+  <h2 class="post-toc-title" id="post-toc-heading">Contents</h2>
+  <ul>
+  {%- for part in toc_parts -%}
+    {%- assign lvl = part | slice: 0 -%}
+    {%- if lvl == '2' or lvl == '3' -%}
+      {%- assign rest = part | remove_first: lvl -%}
+      {%- assign segs = rest | split: '"' -%}
+      {%- if segs.size > 2 -%}
+        {%- assign hid = segs[1] -%}
+        {%- assign htext = segs[2] | split: '</h' | first | remove_first: '>' | strip_html | strip -%}
+        {%- if htext != '' and hid != '' -%}
+    <li class="toc-l{{ lvl }}"><a href="#{{ hid }}">{{ htext }}</a></li>
+        {%- endif -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+  </ul>
+</nav>
+{%- endif -%}

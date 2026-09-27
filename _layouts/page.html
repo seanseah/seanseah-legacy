@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 {% include head.html %}
 </head>
@@ -11,11 +11,6 @@
         <div class="row">
             <article class="page col-md-8 col-md-offset-2">
 
-		            {% if site.wpm %}
-		            {% assign readtime = page.content | strip_html | number_of_words | append: '.0' | divided_by:site.wpm %}
-		            {% else %}
-		            {% assign readtime = page.content | strip_html | number_of_words | append: '.0' | divided_by:180 %}
-		            {% endif %}
                     <header class="post-header">
                         {% if page.link %}
                         <h1 class="post-title text-center hyper lighter"><a href="{{ page.link }}" data-toggle="tooltip" title="Go to {{ page.link }}" style="color: #fff; background-color: #0d9488; border-radius: 4px; padding: 10px">{{ page.title }} <span class="link-arrow">&rarr;</span></a></h1>
@@ -24,7 +19,7 @@
                         {% endif %}
                         <div class="post-info text-center small">
                             {% if page.modified %}Last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ page.modified | date: "%d %b %Y" }}</time>{% endif %}
-                            {% if site.readtime %}&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;{% if readtime > 1 and readtime < 1.5 %}1 minute read{% endif %}{% if readtime > 1.5 %}<span class="time">{{ readtime }}</span> minutes read{% endif %}{% if readtime < 1 %}Less than 1 minute read{% endif %}</span>{% endif %}
+                            {% if site.readtime %}&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;{% include readtime.html src=page.content %}</span>{% endif %}
                         </div>
                     </header>
                     <div class="page-body" itemprop="description">

@@ -1,5 +1,5 @@
 title:            Sean Seah
-description:      Hi There
+description:      Notes on technology, travel, gadgets and growing older, from a writer and engineer in Singapore.
 logo:             logo.png
 disqus_shortname:
 # Assign a default image for your site's header and footer
@@ -96,4 +96,4 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "documentation.md"]
+exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "documentation.md", ".trash", "README.md"]

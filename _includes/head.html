@@ -1,6 +1,15 @@
 <meta charset="utf-8">
 <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+{%- comment -%}
+Meta description chain: explicit page/post description, else the post excerpt,
+else the site description. 94 of the 127 posts have no `description:`, so the
+excerpt fallback is what stops them all inheriting the site placeholder.
+{%- endcomment -%}
+{% if page.description %}{% assign pageDesc = page.description %}
+{% elsif page.excerpt %}{% assign pageDesc = page.excerpt %}
+{% else %}{% assign pageDesc = site.description %}{% endif %}
+{% assign pageDesc = pageDesc | strip_html | normalize_whitespace | strip | truncate: 300 %}
+<meta name="description" content="{{ pageDesc | escape }}">
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 
 {% if site.owner.twitter %}<!-- Twitter Cards -->
@@ -9,14 +18,20 @@
 {% else %}<meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}{{ site.baseurl }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}{{ site.baseurl }}/images/{{ site.logo }}{% endif %}">{% endif %}
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:description" content="{{ pageDesc | escape }}">
 <meta name="twitter:creator" content="@{{ site.owner.twitter }}">{% endif %}
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
+{%- comment -%}og:type is hardcoded to "article" site-wide, which is wrong for
+the home, list, categories, tags and gadgets pages. Posts and pages carrying a
+`date` are dated documents; everything else is a website.{%- endcomment -%}
+{% if page.date %}<meta property="og:type" content="article">
+<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+{% if page.modified %}<meta property="article:modified_time" content="{{ page.modified | date_to_xmlschema }}">{% endif %}
+{% else %}<meta property="og:type" content="website">{% endif %}
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:description" content="{{ pageDesc | escape }}">
 <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 {% if page.imagefeature %}<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/{{ page.imagefeature }}">{% else %}<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/{{ site.default_bg }}">{% endif %}
@@ -28,12 +43,17 @@
 <link rel="canonical" href="{{ canonical }}">
 <link href="{{ site.url }}{{ site.baseurl }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
+<!-- Fonts: preconnected <link> instead of @import, so the CSS files and the
+     font CSS are fetched in parallel rather than in a blocking chain. -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400italic,700,900|Sacramento|Inter:400,500,600,700,800&display=swap">
 
-<!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#0f1115">
 
 <!-- Set theme before paint to avoid a flash of the wrong theme -->
 <script>
@@ -48,20 +68,12 @@
   })();
 </script>
 
-
     <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/assets/css/bootstrap.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/assets/css/style.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/assets/css/modern.css" />
     <script src="{{ site.url }}{{ site.baseurl }}/assets/js/theme.js" defer></script>
 
-{% if site.search %}<div class="search-wrapper">
-    <div class="search-form">
-        <input type="text" class="search-field" placeholder="Search...">
-        <i class="icon-remove-sign"></i>
-        <ul class="search-results post-list"></ul><!-- /.search-results -->
-    </div><!-- /.search-form -->
-</div><!-- ./search-wrapper -->{% endif %}
-
 <!-- Icons -->
 <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}/favicon.ico">
 <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}/favicon.png">
+<link rel="apple-touch-icon" href="{{ site.url }}{{ site.baseurl }}/favicon.png">

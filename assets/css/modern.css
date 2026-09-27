@@ -5,7 +5,9 @@
    components, responsive media, and theme-aware fins.
    ========================================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+/* Fonts are loaded from _includes/head.html as preconnected <link> tags, so
+   this file intentionally has no @import — an @import here would restart the
+   blocking request chain that head.html was changed to avoid. */
 
 /* ---- Design tokens ------------------------------------------------------ */
 :root {
@@ -105,6 +107,19 @@ img { max-width: 100%; height: auto; }
 hr { border: 0; border-top: 1px solid var(--border); margin: 2.5em 0; }
 
 /* ---- Post content ------------------------------------------------------- */
+/* Reading measure. The col-md-8 column inside the 1170px bootstrap container
+   works out to ~750px, which at 18px Merriweather is roughly 85 characters
+   per line — well past the 60-75 range where the eye starts losing the line
+   return. 34em lands near 68 characters and lets the blocks centre themselves
+   inside the grid. Applied to the header, body and footer together so the
+   title, the prose and the author card share one left edge. */
+.post-template .post-header,
+.post-template .post-body,
+.post-template .post-footer {
+  max-width: 34em;
+  margin-left: auto;
+  margin-right: auto;
+}
 .post-body {
   font-size: 1.02em;
 }
@@ -213,6 +228,93 @@ p code, li code {
 .highlight .cm,
 .highlight .cs { color: var(--text-faint) !important; }
 
+/* ---- Table of contents (post body only, >=3 headings) -------------------- */
+.post-toc {
+  max-width: 34em;
+  margin: 0 auto 2em;
+  padding: 1.1em 1.4em;
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: var(--radius);
+  font-family: var(--font-sans);
+}
+.post-toc-title {
+  margin: 0 0 0.5em;
+  font-family: var(--font-sans);
+  font-size: 0.78em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--text-muted);
+}
+.post-toc ul {
+  margin: 0;
+  padding-left: 1.1rem;
+  list-style: none;
+}
+.post-toc li {
+  margin: 0.22em 0;
+  line-height: 1.5;
+}
+.post-toc a { color: var(--link); }
+.post-toc .toc-l3 { margin-left: 1.1rem; font-size: 0.94em; }
+.post-toc .toc-l3 a { color: var(--text-muted); }
+.post-toc .toc-l3 a:hover { color: var(--link-hover); }
+
+/* ---- Prev / next post navigation ---------------------------------------- */
+.post-nav {
+  max-width: 34em;
+  margin: 0 auto 2.5em;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  font-family: var(--font-sans);
+}
+.post-nav-link {
+  flex: 1 1 220px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25em;
+  padding: 0.85rem 1rem;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  text-decoration: none;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+.post-nav-link:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+.post-nav-label {
+  font-size: 0.72em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--text-muted);
+}
+.post-nav-title {
+  font-size: 0.95em;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--text);
+}
+.post-nav-next { text-align: right; }
+@media (max-width: 480px) {
+  .post-nav-next { text-align: left; }
+}
+
+/* ---- Search results ----------------------------------------------------- */
+.search-excerpt {
+  margin: 0.3em 0 0;
+  font-size: 0.88em;
+  line-height: 1.5;
+  color: var(--text-muted);
+}
+.search-empty { color: var(--text-muted); font-style: italic; }
+
 /* ---- Notices / callouts ------------------------------------------------- */
 .notice {
   background-color: var(--bg-subtle);
@@ -303,6 +405,12 @@ p code, li code {
 }
 #sidebar #navigation li a {
   font-family: var(--font-sans);
+}
+/* the nav items are now wrapped in a real <ul>; drop the UA list styling */
+#sidebar #navigation ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 body input,
 body textarea,

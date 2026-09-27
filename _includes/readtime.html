@@ -1,0 +1,10 @@
+{%- comment -%}
+Shared read-time badge text. Callers own the <span class="post-tags"> wrapper
+and the site.readtime gate; pass the content to measure as `src`.
+
+Word count is forced to float before dividing (Liquid does integer division
+when both operands are integers), then rounded here so the rendered HTML is
+correct without JavaScript.
+{%- endcomment -%}
+{%- assign readmins = include.src | strip_html | number_of_words | append: '.0' | divided_by: site.wpm | round -%}
+{%- if readmins < 1 -%}Less than 1 minute read{%- elsif readmins == 1 -%}1 minute read{%- else -%}{{ readmins }} minutes read{%- endif -%}
