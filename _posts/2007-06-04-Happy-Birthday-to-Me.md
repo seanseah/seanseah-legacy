@@ -23,8 +23,7 @@ Well the drinks, took 1 Macho Margarita, HUGE glass, but other than that, probab
 
 <figure>
 <a href="http://lh5.google.com/image/kaer84/RmGa-3_ggtI/AAAAAAAADJc/KeBoGdVGqSw/s1600/DSCF3048.JPG" />
-<img alt="" src="http://lh5.google.com/image/kaer84/RmGa-3_ggtI/AAAAAAAADJc/KeBoGdVGqSw/s800/DSCF3048.JPG" />
-</a>
+<img alt="" src="http://lh5.google.com/image/kaer84/RmGa-3_ggtI/AAAAAAAADJc/KeBoGdVGqSw/s800/DSCF3048.JPG" /></a>
 </figure>
 ... more sober moments ...
 
@@ -32,12 +31,10 @@ Finally the main event! Haha.. thanks for celebrating my birthday with me, for g
 
 <figure>
 <a href="http://lh4.google.com/image/kaer84/RmGbEn_ggyI/AAAAAAAADKE/ixyoKC130tc/s288/DSCF3060.JPG" />
-<img alt="" src="http://lh4.google.com/image/kaer84/RmGbEn_ggyI/AAAAAAAADKE/ixyoKC130tc/s288/DSCF3060.JPG" />
-</a>
+<img alt="" src="http://lh4.google.com/image/kaer84/RmGbEn_ggyI/AAAAAAAADKE/ixyoKC130tc/s288/DSCF3060.JPG" /></a>
 </figure>
 
 <figure>
 <a href="http://lh4.google.com/image/kaer84/RmGbIn_gg1I/AAAAAAAADKc/8hFcoJ-r9nw/s288/DSCF3063.JPG" />
-<img alt="" src="http://lh4.google.com/image/kaer84/RmGbIn_gg1I/AAAAAAAADKc/8hFcoJ-r9nw/s288/DSCF3063.JPG" />
-</a>
+<img alt="" src="http://lh4.google.com/image/kaer84/RmGbIn_gg1I/AAAAAAAADKc/8hFcoJ-r9nw/s288/DSCF3063.JPG" /></a>
 </figure>
