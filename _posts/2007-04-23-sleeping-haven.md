@@ -18,7 +18,10 @@ Innkeeper: "That would cost you 100 gold."
 Chrono / Kaer: "!! I should just go 
 home." 
 
-![](http://picasaweb.google.com/kaer84/AGeekSPerspective/photo?authkey=xTca6Yo88sE#5056557651084346002) 
+> *The photograph here was hosted on Google Picasa, which Google shut down in
+> 2015. The link no longer resolves and no archived copy survives, so the image
+> has been removed.*
+
 ... my bed ... 
 Nice? Haha.. my old bedsheet is just so 
 cool. Sesame Street, still can see all the popular characters. There are 6 

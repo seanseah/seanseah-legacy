@@ -37,8 +37,11 @@ good as my E61 though. However, my dad is eyeing the phone to replace the junk
 that I got for him last year, oh well, shall hold on to it a little longer 
 before passing over to him. 
 
-![](http://picasaweb.google.com/kaer84/AGeekSPerspective/photo?authkey=xTca6Yo88sE#5219757147643244450) 
-![](http://picasaweb.google.com/kaer84/AGeekSPerspective/photo?authkey=xTca6Yo88sE#5219757122700935730)With that, this week also marks the end of my 
+> *The two photographs here were hosted on Google Picasa, which Google shut down
+> in 2015. The links no longer resolve and no archived copies survive, so the
+> images have been removed.*
+
+With that, this week also marks the end of my 
 3rd night shift, and 4 more days to my first official leave / break from work. 
 Looking forward to it! Work is piling up yet again, and motivation to clear it 
 is really quite low, somehow, more and more just seems to pile up. Oh well, 
