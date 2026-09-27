@@ -1114,7 +1114,6 @@ body.search-overlay:after {
     width: 100%;
     padding-right: 10%;
     padding-left: 10%;
-    *zoom: 1;
 }
 
 .search-wrapper:before,.search-wrapper:after {
@@ -1142,7 +1141,6 @@ body.search-overlay:after {
     padding: 8px 0;
     border-bottom: 1px solid #ccc;
     border-bottom: 1px solid rgba(0,0,0,.1);
-    *zoom: 1;
 }
 
 .post-list li:after,.post-list li:before {

@@ -7,7 +7,7 @@ image:
   feature:
 ---
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/seanseah.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/seanseah.jpg" alt="Sean Seah">
   <figcaption>Me</figcaption>
 </figure>
 
@@ -49,5 +49,5 @@ trip down memory lane in a few years time, as I seek to discover the memories an
 that pass us by.
 
 Life is never an easy path to move forward on. There are setbacks and challenges, but it is
-how we respond to them that defines us. _Learn from [past experiences](/life-big-moments/), 
+how we respond to them that defines us. _Learn from [past experiences]({{ site.baseurl }}/life-big-moments/), 
 but live life with no regrets_.
