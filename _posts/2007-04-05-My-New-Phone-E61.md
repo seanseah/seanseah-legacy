@@ -17,8 +17,8 @@ Surprisingly, despite Nokia's dominance, I have never used a Nokia phone before,
 
 <figure class="half">
 <a href = "http://3.bp.blogspot.com/_m5e8Pqc8k3c/RhcKyFwdi-I/AAAAAAAABBA/WjcIwhccM6w/s1600/e61-2.jpg">
-<img src="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RhcKyFwdi-I/AAAAAAAABBA/WjcIwhccM6w/s600/e61-2.jpg"></a>
-<a href="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RhcKllwdi9I/AAAAAAAABA4/Zx8YzxBWbow/s1600/E61.jpg"><img src="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RhcKllwdi9I/AAAAAAAABA4/Zx8YzxBWbow/s600/E61.jpg"></a>
+<img alt="" src="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RhcKyFwdi-I/AAAAAAAABBA/WjcIwhccM6w/s600/e61-2.jpg"></a>
+<a href="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RhcKllwdi9I/AAAAAAAABA4/Zx8YzxBWbow/s1600/E61.jpg"><img alt="" src="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RhcKllwdi9I/AAAAAAAABA4/Zx8YzxBWbow/s600/E61.jpg"></a>
 </figure>
 
 What can I say, first impression of this phone is that it is wide and kinda bulky, but it makes up for it by being both slim and quite light actually, so it does fit nicely into the pocket. I haven't gotten used to one hand operation, and it might be a bit unwieldy at times but it should be a matter of adjustment.

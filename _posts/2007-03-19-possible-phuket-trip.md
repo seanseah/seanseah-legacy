@@ -38,6 +38,6 @@ For 5 days.. total around 300 for
 transport + accommodation + breakfast? 
 Need to settle soon! 
 
-<img src="http://4.bp.blogspot.com/_m5e8Pqc8k3c/Rf68tTziw7I/AAAAAAAAA-Y/bZ0QWL3WGEc/s320/naithon1.jpeg"> 
-<img src="http://3.bp.blogspot.com/_m5e8Pqc8k3c/Rf63zDziw5I/AAAAAAAAA-I/MzKqzWWH9YM/s320/naithon2.jpeg">
-<img src="http://1.bp.blogspot.com/_m5e8Pqc8k3c/Rf633jziw6I/AAAAAAAAA-Q/Roz9NkvAN-c/s320/naithon3.jpeg">
+<img alt="" src="http://4.bp.blogspot.com/_m5e8Pqc8k3c/Rf68tTziw7I/AAAAAAAAA-Y/bZ0QWL3WGEc/s320/naithon1.jpeg"> 
+<img alt="" src="http://3.bp.blogspot.com/_m5e8Pqc8k3c/Rf63zDziw5I/AAAAAAAAA-I/MzKqzWWH9YM/s320/naithon2.jpeg">
+<img alt="" src="http://1.bp.blogspot.com/_m5e8Pqc8k3c/Rf633jziw6I/AAAAAAAAA-Q/Roz9NkvAN-c/s320/naithon3.jpeg">

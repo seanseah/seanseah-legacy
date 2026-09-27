@@ -255,6 +255,70 @@ p code, li code {
 .highlight .cm,
 .highlight .cs { color: var(--text-faint) !important; }
 
+/* Dark mode: the rouge palette in style.css is light-only. Every plain token is
+   #000000, and four rules paint their own light background, all of which either
+   disappear or glare against --code-bg once the theme flips. Overrides are
+   grouped by the role each colour plays, so the light theme's deliberately
+   minimal look (plain tokens stay plain) carries over unchanged. */
+:root[data-theme="dark"] .highlight { color: var(--code-text); }
+:root[data-theme="dark"] .highlight .hll { background-color: rgba(255, 255, 255, .08); }
+
+/* Plain tokens: #000000 in style.css, so they need the base code colour. */
+:root[data-theme="dark"] .highlight .g,
+:root[data-theme="dark"] .highlight .l,
+:root[data-theme="dark"] .highlight .n,
+:root[data-theme="dark"] .highlight .o,
+:root[data-theme="dark"] .highlight .x,
+:root[data-theme="dark"] .highlight .p,
+:root[data-theme="dark"] .highlight .ge,
+:root[data-theme="dark"] .highlight .gp,
+:root[data-theme="dark"] .highlight .gs,
+:root[data-theme="dark"] .highlight .ld,
+:root[data-theme="dark"] .highlight .s,
+:root[data-theme="dark"] .highlight .na,
+:root[data-theme="dark"] .highlight .nb,
+:root[data-theme="dark"] .highlight .nc,
+:root[data-theme="dark"] .highlight .nd,
+:root[data-theme="dark"] .highlight .ne,
+:root[data-theme="dark"] .highlight .nf,
+:root[data-theme="dark"] .highlight .nl,
+:root[data-theme="dark"] .highlight .nn,
+:root[data-theme="dark"] .highlight .nx,
+:root[data-theme="dark"] .highlight .py,
+:root[data-theme="dark"] .highlight .ow,
+:root[data-theme="dark"] .highlight .w,
+:root[data-theme="dark"] .highlight .sb,
+:root[data-theme="dark"] .highlight .sc,
+:root[data-theme="dark"] .highlight .sd,
+:root[data-theme="dark"] .highlight .s2,
+:root[data-theme="dark"] .highlight .se,
+:root[data-theme="dark"] .highlight .sh,
+:root[data-theme="dark"] .highlight .si,
+:root[data-theme="dark"] .highlight .sx,
+:root[data-theme="dark"] .highlight .sr,
+:root[data-theme="dark"] .highlight .s1,
+:root[data-theme="dark"] .highlight .ss,
+:root[data-theme="dark"] .highlight .bp { color: var(--code-text); }
+
+/* Hues that were legible on the light background but not on #161a21. Keywords
+   (#F06F00), numbers (#00C226) and .ni (#ee0000) are left alone. */
+:root[data-theme="dark"] .highlight .err,
+:root[data-theme="dark"] .highlight .gt,
+:root[data-theme="dark"] .highlight .no { color: #ff7b72; }
+:root[data-theme="dark"] .highlight .cp,
+:root[data-theme="dark"] .highlight .gh,
+:root[data-theme="dark"] .highlight .gu { color: #61afef; }
+:root[data-theme="dark"] .highlight .kt,
+:root[data-theme="dark"] .highlight .nv,
+:root[data-theme="dark"] .highlight .vc,
+:root[data-theme="dark"] .highlight .vg,
+:root[data-theme="dark"] .highlight .vi { color: #c792ea; }
+
+/* Rules that carry their own background need it retinted, not just recoloured. */
+:root[data-theme="dark"] .highlight .gd { color: #ff7b72; background-color: rgba(255, 123, 114, .15); }
+:root[data-theme="dark"] .highlight .gi { color: #9ece6a; background-color: rgba(158, 206, 106, .15); }
+:root[data-theme="dark"] .highlight .go { color: #7dcfff; background-color: rgba(125, 207, 255, .12); }
+
 /* ---- Table of contents (post body only, >=3 headings) -------------------- */
 .post-toc {
   max-width: 34em;

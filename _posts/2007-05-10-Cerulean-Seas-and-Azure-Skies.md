@@ -14,7 +14,7 @@ published: true
 ---
 
 <figure>
-<a href="http://2.bp.blogspot.com/_m5e8Pqc8k3c/RkJ6lQ38j0I/AAAAAAAABFM/Xpv6fuDupe8/s2048/main1.jpg"><img src="http://2.bp.blogspot.com/_m5e8Pqc8k3c/RkJ6lQ38j0I/AAAAAAAABFM/Xpv6fuDupe8/s800/main1.jpg"></a>
+<a href="http://2.bp.blogspot.com/_m5e8Pqc8k3c/RkJ6lQ38j0I/AAAAAAAABFM/Xpv6fuDupe8/s2048/main1.jpg"><img alt="" src="http://2.bp.blogspot.com/_m5e8Pqc8k3c/RkJ6lQ38j0I/AAAAAAAABFM/Xpv6fuDupe8/s800/main1.jpg"></a>
 </figure>
 
 A Phuket getaway straight after exams, to mark the start of our holidays. The 4 of us, minus Gabriel once again, on our 2nd trip together. Having erm, done KL and Genting, we ventured abit further to Phuket, Thailand this time!
@@ -32,7 +32,7 @@ Patong beach, definitely the most commercialised and crowded beach in all of Phu
 Anyway, since we are here already, we decided to try out the jet ski and it was crazily fun. It's definitely a great way to explore the island, although you are told not to go too far, I guess some liberties can be taken. Although one of my friend did ran out of fuel so it's not that good an idea to be too far away when it happens. It's fast and can feel the wind, water, salt in your face as you travel faster and faster, with the jet ski bouncing and you start to lose control... thrilling!
 
 <figure>
-<a href="http://2.bp.blogspot.com/_m5e8Pqc8k3c/RkMelA38j2I/AAAAAAAABFc/guk3eT-DyCQ/s1600/DSCN0260.JPG"><img src="http://2.bp.blogspot.com/_m5e8Pqc8k3c/RkMelA38j2I/AAAAAAAABFc/guk3eT-DyCQ/s800/DSCN0260.JPG"></a>
+<a href="http://2.bp.blogspot.com/_m5e8Pqc8k3c/RkMelA38j2I/AAAAAAAABFc/guk3eT-DyCQ/s1600/DSCN0260.JPG"><img alt="" src="http://2.bp.blogspot.com/_m5e8Pqc8k3c/RkMelA38j2I/AAAAAAAABFc/guk3eT-DyCQ/s800/DSCN0260.JPG"></a>
 </figure>
 
 The night life seems more toned down from what was previously publicized but there are still number of pubs, girls etc all around, and erm.. lady boys? We were looking for our next day Phi Phi island tour and after much enquires with the many tour agents spread across the town, we finally found our desired ship and at the cheapest rate of 750 baht!

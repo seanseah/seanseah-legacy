@@ -14,7 +14,7 @@ published: true
 25th January 2007 - Our First One-Month Anniversary!
 
 <figure>
-	<a href="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RcKEVhBODUI/AAAAAAAAAEs/3UHII8kE88w/s1600/DSCF0381.JPG"><img src="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RcKEVhBODUI/AAAAAAAAAEs/3UHII8kE88w/s1600/DSCF0381.JPG"></a>
+	<a href="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RcKEVhBODUI/AAAAAAAAAEs/3UHII8kE88w/s1600/DSCF0381.JPG"><img alt="" src="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RcKEVhBODUI/AAAAAAAAAEs/3UHII8kE88w/s1600/DSCF0381.JPG"></a>
 </figure>
 
 Amidst preparation for FYP and recovering from a mild hangover, I can't miss out on celebrating our one month anniversary or 1st Monthsary.
@@ -30,5 +30,5 @@ It was a bouquet of lilies and roses. White lilies are symbolic of purity, virgi
 Looking forward to many more months and years together!
 
 <figure>
-	<a href="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RbNUyssgT4I/AAAAAAAAAAM/jse4KdEYCw4/s1600/weee%2B004.jpg"><img src="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RbNUyssgT4I/AAAAAAAAAAM/jse4KdEYCw4/s1600/weee%2B004.jpg"></a>
+	<a href="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RbNUyssgT4I/AAAAAAAAAAM/jse4KdEYCw4/s1600/weee%2B004.jpg"><img alt="" src="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RbNUyssgT4I/AAAAAAAAAAM/jse4KdEYCw4/s1600/weee%2B004.jpg"></a>
 </figure>

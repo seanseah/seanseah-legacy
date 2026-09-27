@@ -28,7 +28,7 @@
         <i class="icon-search"></i>
     </button>
 {% endif %}
-{% if page.headline %}
+{% comment %}the homepage is the one page with no page.headline, so it asks for the site tagline instead{% endcomment %}{% if include.use_site_description %}{% assign desc_text = site.description %}{% else %}{% assign desc_text = page.headline %}{% endif %}{% if desc_text %}
     <div class="inner">
         <div class="container">
             <a class="brand light" href="{{ site.url }}{{ site.baseurl }}" role="banner" itemprop="url">
@@ -41,7 +41,7 @@
                 
             </a>
             <h2 class="blog-description light bordered bordered-top" itemprop="description">
-                {{ page.headline }}
+                {{ desc_text }}
             </h2>
         </div>
     </div>

@@ -21,9 +21,9 @@ The younger me, always had a passion for re-modelling of my room, but that didn'
 A tinge of nolstagia, as I grew older, I still dabbled in this interest, and when my dad gotten the Punggol place, he did ask me how I wanted my room to be, etc. I guess, quite lucky that the following pictures survived my multiple hard drives formatting and loss of other files.
 
 <figure>
-<a href="http://1.bp.blogspot.com/_m5e8Pqc8k3c/Rh2GqXtU_lI/AAAAAAAABBI/yNY5E3WcW08/s1600/floorplan.jpg"><img src="http://1.bp.blogspot.com/_m5e8Pqc8k3c/Rh2GqXtU_lI/AAAAAAAABBI/yNY5E3WcW08/s800/floorplan.jpg"></a>
+<a href="http://1.bp.blogspot.com/_m5e8Pqc8k3c/Rh2GqXtU_lI/AAAAAAAABBI/yNY5E3WcW08/s1600/floorplan.jpg"><img alt="" src="http://1.bp.blogspot.com/_m5e8Pqc8k3c/Rh2GqXtU_lI/AAAAAAAABBI/yNY5E3WcW08/s800/floorplan.jpg"></a>
 </figure>
 <figure>
-<a href="http://2.bp.blogspot.com/_m5e8Pqc8k3c/Rh2G0ntU_mI/AAAAAAAABBQ/3E8sbut6grs/s1600/floorplan+2.jpg"><img src="http://2.bp.blogspot.com/_m5e8Pqc8k3c/Rh2G0ntU_mI/AAAAAAAABBQ/3E8sbut6grs/s800/floorplan+2.jpg"></a></figure>
+<a href="http://2.bp.blogspot.com/_m5e8Pqc8k3c/Rh2G0ntU_mI/AAAAAAAABBQ/3E8sbut6grs/s1600/floorplan+2.jpg"><img alt="" src="http://2.bp.blogspot.com/_m5e8Pqc8k3c/Rh2G0ntU_mI/AAAAAAAABBQ/3E8sbut6grs/s800/floorplan+2.jpg"></a></figure>
 
 Well, I guess it's something I enjoy doing, regardless of how the end product might look. Perhaps, I had wanted to be an interior designer / architect then. I can't recall exactly whether the above was influenced by the REAL interior designer, but the design is still quite different from what actually turned out, so perhaps, it was something I came up with, haha. Well, I am now, an engineer and a soldier, still jobs that are in some ways, part of the list, very much socially acceptable jobs. No, I am not saddened by how things turned out, never felt I could succeed as an interior designer or some computer geek anyway.
