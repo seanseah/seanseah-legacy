@@ -4,9 +4,10 @@
 {% include head.html %}
 </head>
 <body class="home-template" itemscope itemtype="http://schema.org/WebPage">
+<a class="skip-link" href="#main">Skip to content</a>
 <div id="fade"></div>
-<a id="slide" class="animated fade"></a>
-<aside id="sidebar">
+<button type="button" id="slide" class="animated fade" aria-label="Menu" aria-expanded="false" aria-controls="sidebar"></button>
+<aside id="sidebar" aria-hidden="true">
     <nav id="navigation">
     <h2>MENU</h2>
     <hr>
@@ -154,7 +155,7 @@
 </div><!-- /.introduction -->
 {% endif %}
 
-<div id="main" class="content" role="main" itemprop="mainContentOfPage">
+<div id="main" class="content" role="main" itemprop="mainContentOfPage" tabindex="-1">
     <div class="container">
         <div class="row">
             <div class="page-body" itemprop="description">

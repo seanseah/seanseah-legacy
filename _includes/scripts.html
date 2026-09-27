@@ -8,13 +8,53 @@
 
 /*      Slides       */
 
-$("a#slide").click(function(){
-    $("#sidebar,body,a#slide,#fade").addClass("slide")
-});
+/* The trigger is a real <button> now (it was an empty <a>), so the panel can
+   be driven from the keyboard: Escape closes it, focus returns to the
+   trigger, and aria-expanded / aria-hidden track the state for assistive
+   tech. The close-on-click surfaces are the ones the theme already used. */
 
-$("#fade,#header,#posts-container").click(function(){
-    $("#sidebar,body,a#slide,#fade").removeClass("slide")
-});
+(function ($) {
+    "use strict";
+
+    var $trigger  = $("#slide");
+    var $sidebar  = $("#sidebar");
+    var $surfaces = $("#sidebar,body,#slide,#fade");
+
+    function isOpen() {
+        return $("body").hasClass("slide");
+    }
+
+    function setOpen(open) {
+        $surfaces.toggleClass("slide", open);
+        $trigger.attr("aria-expanded", open ? "true" : "false");
+        $sidebar.attr("aria-hidden", open ? "false" : "true");
+    }
+
+    function close(returnFocus) {
+        if (!isOpen()) { return; }
+        setOpen(false);
+        if (returnFocus) { $trigger.trigger("focus"); }
+    }
+
+    $trigger.on("click", function () {
+        setOpen(!isOpen());
+    });
+
+    $("#fade,#header,#posts-container").on("click", function () {
+        close(true);
+    });
+
+    $(document).on("keydown", function (e) {
+        if (e.key === "Escape" || e.key === "Esc") {
+            close(true);
+        }
+    });
+
+    /* Start from a known closed state so the off-canvas panel is never
+       exposed to assistive tech before the first interaction. */
+    setOpen(false);
+
+}(jQuery));
 
 /*      End-Slides      */
 

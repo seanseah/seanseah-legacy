@@ -8,7 +8,7 @@ excerpt fallback is what stops them all inheriting the site placeholder.
 {% if page.description %}{% assign pageDesc = page.description %}
 {% elsif page.excerpt %}{% assign pageDesc = page.excerpt %}
 {% else %}{% assign pageDesc = site.description %}{% endif %}
-{% assign pageDesc = pageDesc | strip_html | normalize_whitespace | strip | truncate: 300 %}
+{% assign pageDesc = pageDesc | strip_html | normalize_whitespace | strip | truncate: 155 %}
 <meta name="description" content="{{ pageDesc | escape }}">
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 

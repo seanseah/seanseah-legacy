@@ -102,6 +102,33 @@ button:focus-visible {
 
 ::selection { background: var(--accent); color: #fff; }
 
+/* ---- Skip to content ---------------------------------------------------- */
+/* The masthead and the off-canvas menu sit ahead of every page's content, so
+   give keyboard users one Tab to jump past both. Hidden until focused, then
+   parked top-left in its own layer. `#main` carries tabindex="-1" in the
+   layouts so the jump moves focus, not just the scroll position; the ring is
+   suppressed there because the skip link already showed where focus went. */
+.skip-link {
+  position: absolute;
+  top: 0;
+  left: -9999px;
+  z-index: 200;
+  padding: 0.75em 1.2em;
+  background: var(--bg-elevated);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font: 600 14px/1 var(--font-sans);
+}
+.skip-link:focus {
+  left: 12px;
+  top: 12px;
+  text-decoration: none;
+}
+#main:focus {
+  outline: none;
+}
+
 img { max-width: 100%; height: auto; }
 
 hr { border: 0; border-top: 1px solid var(--border); margin: 2.5em 0; }

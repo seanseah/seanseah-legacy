@@ -1491,6 +1491,7 @@ body{
     }
 
 a,
+#slide,
 #sidebar,
 #fade,
 body {
@@ -1501,38 +1502,51 @@ body {
 
 /*      End-Setting     */
 
-a#slide{
+/* The trigger is a real <button> (it was an empty <a>, which is neither
+   focusable nor announced). The reset keeps the UA button chrome out so the
+   theme's square icon button is unchanged. 44px meets the minimum tap target. */
+#slide{
     position:fixed;
     display:block;
-    width:40px;
-    height:40px;
+    width:44px;
+    height:44px;
     top:10px;
     left:10px;
+    padding:0;
+    border:0;
+    -webkit-appearance:none;
+    appearance:none;
     text-align:center;
-    font:22px/40px "icon";
+    font:22px/44px "icon";
     color:#fff;
     background:#262626;
     border-radius:3px;
+    cursor:pointer;
     z-index:31
     }
 
-a#slide:hover{
+#slide:hover{
     background:#39c492
     }
 
-a#slide:after{
+#slide:focus-visible{
+    outline:2px solid #39c492;
+    outline-offset:2px
+    }
+
+#slide:after{
     content:"≡"
     }
 
-a#slide.slide:after{
+#slide.slide:after{
     position:absolute;
     content:"x";
     top:7px;
     left:50%;
-    width:40px;
-    height:40px;
-    margin:0 0 0 -20px;
-    font:18px/40px "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    width:44px;
+    height:44px;
+    margin:0 0 0 -22px;
+    font:18px/44px "Helvetica Neue", Helvetica, Arial, sans-serif !important;
     vertical-align:middle
     }
 
@@ -1547,7 +1561,10 @@ a#slide.slide:after{
     top:0;
     left:-298px;
     background:#191918;
-    z-index:20
+    z-index:20;
+    /* Off-canvas, so keep it out of the tab order and the accessibility tree
+       until it is actually open — otherwise Tab walks an invisible menu. */
+    visibility:hidden
     }
 
 #sidebar h2{
@@ -1596,10 +1613,11 @@ a#slide.slide:after{
 -webkit-animation-delay:.5s;}.fade{-webkit-animation-name:fade;-moz-animation-name:fade;-o-animation-name:fade;animation-name:fade}
 
 #sidebar.slide{
-    left:0
+    left:0;
+    visibility:visible
     }
 
-a#slide.slide{
+#slide.slide{
     left:308px;
     pointer-events:none
     }
@@ -1646,7 +1664,7 @@ body.slide{
 }
 
 @media screen and (max-width:700px){
-    a#slide{
+    #slide{
       background-color: rgba(38,38,38,0.65)
         }
 
@@ -1669,7 +1687,7 @@ body.slide{
 }
 
 @media screen and (max-width:500px){
-    a#slide.slide{
+    #slide.slide{
         left:254px;
         pointer-events:none
         }
