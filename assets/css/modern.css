@@ -481,6 +481,21 @@ body button {
 
 /* ---- Homepage discovery tiles (3 photo segments) ---------------------- */
 /* Stack cleanly on phones, 2-up on tablets, 3-up on large screens */
+
+/* The three tile columns are Bootstrap 3 floats, and .discovery-tiles is
+   their only parent: there is no .row, so they get neither its negative
+   gutters nor its clearfix. Without this the wrapper collapses to zero
+   height and the floats spill out of it, with the next block only landing
+   below them by accident because three columns happen to fill the full
+   width. This is the same clearfix Bootstrap applies to .row, so the
+   floats are contained without turning the wrapper into a block
+   formatting context (which would clip them and stop margin collapsing). */
+.discovery-tiles::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .discovery-tiles .col-lg-4 { margin-bottom: 2rem; }
 .discovery-tiles a { text-decoration: none; }
 .discovery-tiles a:hover { text-decoration: none; }
@@ -611,5 +626,3 @@ details.review-year li {
    grid column: it sits outside .container/.row, so Bootstrap's .col-* class
    (which floats and carries gutter padding) never applied to it anyway. */
 .intro-spacer { height: 50px; }
-
-/* ---- Homepage discovery tiles (3 photo segments) ---------------------- */
