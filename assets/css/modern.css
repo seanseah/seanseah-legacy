@@ -607,3 +607,9 @@ details.review-year li {
     column-gap: 2.5rem;
   }
 }
+/* Spacer separating the intro tiles from #main below. A plain block, not a
+   grid column: it sits outside .container/.row, so Bootstrap's .col-* class
+   (which floats and carries gutter padding) never applied to it anyway. */
+.intro-spacer { height: 50px; }
+
+/* ---- Homepage discovery tiles (3 photo segments) ---------------------- */
