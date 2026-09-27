@@ -20,9 +20,12 @@ unbalanced tags. Rejecting any chunk whose pre-id fragment contains "<" also
 stops an unlinkable heading from being counted, which is what conjured an empty
 "Contents" box on _posts/2013-03-21-Yogyakarta.md (four raw <h3>s, no ids).
 
-Each guard is its own {% if %} rather than a compound "and": Liquid 4 on GitHub
-Pages and python-liquid disagree on how "x and y contains 'z'" groups, and the
-two-condition form silently stopped matching under Liquid 4.
+Each guard gets its own if-tag rather than a compound "and" condition. Liquid 4
+and python-liquid group "x and y contains 'z'" differently, and the two-condition
+form parsed but never matched under Liquid 4, which silently emptied every TOC on
+the site. Note also that Liquid 4 tokenises tags inside a comment block and
+fails the build on one that will not parse, so this comment must not contain a
+literal tag.
 
 Usage: {% include toc.html src=page.content %}
 {%- endcomment -%}
