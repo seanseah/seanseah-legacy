@@ -9,7 +9,6 @@ tags:
   - places
   - makan
 comments: false
-mathjax: null
 published: true
 ---
 

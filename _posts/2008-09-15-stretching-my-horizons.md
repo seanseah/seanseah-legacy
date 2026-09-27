@@ -8,7 +8,6 @@ tags:
 - work
 categories: travel
 modified_time: '2009-02-22T20:06:30.059+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-7843316800952180827
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2008/09/stretching-my-horizons.html
 ---
 

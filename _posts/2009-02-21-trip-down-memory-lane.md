@@ -8,8 +8,6 @@ tags:
 - festives
 categories: personal
 modified_time: '2009-02-23T10:32:40.575+08:00'
-thumbnail: http://lh3.ggpht.com/_m5e8Pqc8k3c/SZ9SXbSqZSI/AAAAAAAAFsQ/dUmw7B0p1QE/s72-c/Yearbook%20Collage.jpg
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-6094736208856869457
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2009/02/trip-down-memory-lane.html
 ---
 

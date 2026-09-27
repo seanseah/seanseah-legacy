@@ -9,8 +9,6 @@ tags:
 - phuket
 categories: travel
 modified_time: '2014-07-01T16:48:40.629+08:00'
-thumbnail: http://4.bp.blogspot.com/_m5e8Pqc8k3c/Rf68tTziw7I/AAAAAAAAA-Y/bZ0QWL3WGEc/s72-c/naithon1.jpeg
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-2550224854275904895
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/03/possible-phuket-trip.html
 ---
 

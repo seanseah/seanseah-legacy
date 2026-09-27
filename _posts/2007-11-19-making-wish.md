@@ -6,7 +6,6 @@ author: Kaer
 tags: reflections
 categories: personal
 modified_time: '2012-10-01T21:01:31.288+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-3958689176151237815
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/11/making-wish.html
 ---
 

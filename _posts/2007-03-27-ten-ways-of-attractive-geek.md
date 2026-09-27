@@ -7,7 +7,6 @@ tags:
 - geek
 categories: tech
 modified_time: '2014-07-01T16:51:20.943+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-3538645474528987520
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/03/ten-ways-of-attractive-geek.html
 ---
 

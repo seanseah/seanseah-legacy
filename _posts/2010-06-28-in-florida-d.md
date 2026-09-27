@@ -8,7 +8,6 @@ tags:
 - Orlando
 categories: travel
 modified_time: '2012-10-01T19:14:17.403+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-5415630882038480186
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2010/06/in-florida-d.html
 ---
 

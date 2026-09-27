@@ -6,7 +6,6 @@ author: Kaer
 tags: [tech, geek, toys]
 categories: tech
 modified_time: '2009-06-21T23:26:31.408+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-4886903831527610981
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2009/06/jailbreaking-ipod.html
 ---
 

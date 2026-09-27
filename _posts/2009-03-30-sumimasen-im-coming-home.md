@@ -6,7 +6,6 @@ author: Kaer
 tags: 
 categories: travel
 modified_time: '2009-03-30T11:36:59.360+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-1026674750562792731
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2009/03/sumimasen-im-coming-home.html
 ---
 

@@ -8,8 +8,6 @@ tags:
 - school
 - reflections
 modified_time: '2014-07-01T16:38:04.567+08:00'
-thumbnail: http://4.bp.blogspot.com/_m5e8Pqc8k3c/Re1V4k02V0I/AAAAAAAAA8U/sFxs4iP7yEA/s72-c/DSCF0909.JPG
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-107940078428940982
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/03/in-whirlwind-of-things.html
 ---
 

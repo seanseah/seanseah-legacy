@@ -6,7 +6,6 @@ author: Kaer
 tags: 
 categories: personal
 modified_time: '2009-05-19T19:56:07.520+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-5409264155377802654
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2009/05/good-break.html
 ---
 

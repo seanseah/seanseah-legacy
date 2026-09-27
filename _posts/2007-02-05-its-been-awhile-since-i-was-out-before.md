@@ -6,7 +6,6 @@ author: Kaer
 tags: reflections
 categories: [personal]
 modified_time: '2014-07-01T15:57:47.038+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-3491415248565727077
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/02/its-been-awhile-since-i-was-out-before.html
 ---
 

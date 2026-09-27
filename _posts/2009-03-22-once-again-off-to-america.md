@@ -6,7 +6,6 @@ author: Kaer
 tags: 
 categories: travel
 modified_time: '2009-03-22T03:15:59.241+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-4738624287772268465
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2009/03/once-again-off-to-america.html
 ---
 

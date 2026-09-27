@@ -7,7 +7,6 @@ tags:
 - work
 categories: personal
 modified_time: '2008-08-22T00:49:40.781+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-2729376291294371715
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2008/08/sleeping-debt.html
 ---
 

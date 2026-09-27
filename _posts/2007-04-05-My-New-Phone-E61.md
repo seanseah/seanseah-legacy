@@ -9,7 +9,6 @@ tags:
   - tech
 
 comments: false
-mathjax: null
 published: true
 ---
 

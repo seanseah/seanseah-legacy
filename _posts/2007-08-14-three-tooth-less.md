@@ -6,7 +6,6 @@ author: Kaer
 tags: 
 categories: personal
 modified_time: '2012-10-01T20:53:02.407+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-8221884195808481415
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/08/three-tooth-less.html
 ---
 

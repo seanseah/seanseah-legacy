@@ -6,7 +6,6 @@ author: Kaer
 tags: 
 categories: travel
 modified_time: '2009-03-26T19:37:30.406+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-371187365024396783
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2009/03/living-in-st-louis.html
 ---
 

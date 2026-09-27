@@ -8,7 +8,6 @@ tags:
 - shows
 categories: personal
 modified_time: '2007-07-31T13:26:58.884+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-4347127258789513738
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/07/double-movie-day.html
 ---
 

@@ -9,8 +9,6 @@ tags:
 - phuket
 categories: travel
 modified_time: '2012-10-01T19:52:45.245+08:00'
-thumbnail: http://1.bp.blogspot.com/_m5e8Pqc8k3c/RgS7F4vP9pI/AAAAAAAAA-g/DvyzceIykjQ/s72-c/tickets.jpg
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-3693357984630567882
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/03/excited-over-wrong-things.html
 ---
 

@@ -6,7 +6,6 @@ author: Kaer
 tags: reflections
 categories: personal
 modified_time: '2014-07-15T16:59:50.535+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-2623320937286083379
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2012/10/a-live-changing-two-years.html
 ---
 

@@ -6,7 +6,6 @@ author: Kaer
 tags: tech
 categories: tech
 modified_time: '2012-10-01T21:13:19.682+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-386142552561791507
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2008/07/i-happened-to-stumble-upon-this-website.html
 ---
 

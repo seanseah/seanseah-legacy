@@ -7,7 +7,6 @@ tags:
 - work
 categories: personal
 modified_time: '2008-07-31T21:39:39.241+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-4011351863023216717
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2008/07/when-it-rains-it-pours.html
 ---
 

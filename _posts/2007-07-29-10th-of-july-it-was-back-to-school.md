@@ -6,8 +6,6 @@ author: Kaer
 tags: school
 categories: personal
 modified_time: '2012-10-01T20:51:48.761+08:00'
-thumbnail: http://4.bp.blogspot.com/_m5e8Pqc8k3c/RqvsG08L67I/AAAAAAAADQs/dsAlz2GkecE/s72-c/montage7.jpg
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-2650986535519759626
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/07/10th-of-july-it-was-back-to-school.html
 ---
 

@@ -8,7 +8,6 @@ tags:
 - places
 categories: travel
 modified_time: '2008-09-14T21:12:27.581+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-4232053780873258061
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2008/09/touched-down.html
 ---
 

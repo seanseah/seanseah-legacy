@@ -7,8 +7,6 @@ categories: personal
 tags:
 - dates
 modified_time: '2007-06-14T21:57:58.821+08:00'
-thumbnail: http://lh6.google.com/image/kaer84/RnFCmsq6R7I/AAAAAAAADL4/sM4PBt7kHDA/s72-c/collage.jpg
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-8912609873924425423
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/06/telling-time.html
 ---
 

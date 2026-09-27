@@ -7,8 +7,6 @@ tags:
 - work
 categories: personal
 modified_time: '2012-10-01T21:08:18.476+08:00'
-thumbnail: http://4.bp.blogspot.com/_m5e8Pqc8k3c/R-RzRbFwQVI/AAAAAAAADrQ/6Cap1yNLE7c/s72-c/commissioning2.jpg
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-8774504252376164998
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2008/03/commissioned-finally.html
 ---
 

@@ -7,7 +7,6 @@ categories: personal
 tags:
   - reflections
 modified_time: '2014-07-01T16:32:34.543+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-1162715517556598887
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/02/one-of-many-important-things-in-life.html
 ---
 

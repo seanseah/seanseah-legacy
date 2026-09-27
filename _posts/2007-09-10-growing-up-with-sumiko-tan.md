@@ -6,7 +6,6 @@ author: Kaer
 tags: 
 categories: personal
 modified_time: '2012-10-01T20:56:41.018+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-9110340107938140987
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/09/growing-up-with-sumiko-tan.html
 ---
 

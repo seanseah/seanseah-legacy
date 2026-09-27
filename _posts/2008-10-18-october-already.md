@@ -7,7 +7,6 @@ tags:
 - work
 categories: personal
 modified_time: '2008-10-18T06:52:10.133+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-3094238823444142452
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2008/10/october-already.html
 ---
 

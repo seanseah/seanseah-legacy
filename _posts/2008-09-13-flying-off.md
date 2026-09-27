@@ -6,7 +6,6 @@ author: Kaer
 tags: 
 categories: travel
 modified_time: '2012-10-01T21:15:50.446+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-2495567362462390647
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2008/09/flying-off.html
 ---
 

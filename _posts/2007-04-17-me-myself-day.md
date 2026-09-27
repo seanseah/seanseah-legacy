@@ -7,8 +7,6 @@ tags:
 - reflections
 categories: personal
 modified_time: '2012-10-01T20:12:34.544+08:00'
-thumbnail: http://2.bp.blogspot.com/_m5e8Pqc8k3c/RiTp-3tU_6I/AAAAAAAABD0/DjKss58zUoE/s72-c/DSCF1205.jpg
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-475070569031262224
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/04/me-myself-day.html
 ---
 

@@ -8,7 +8,6 @@ tags:
   - dates
 
 comments: false
-mathjax: null
 published: true
 ---
 

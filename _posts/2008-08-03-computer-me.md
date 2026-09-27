@@ -8,7 +8,6 @@ tags:
 - itchy fingers
 categories: tech
 modified_time: '2008-08-03T10:06:36.249+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-5260257478551203081
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2008/08/computer-me.html
 ---
 

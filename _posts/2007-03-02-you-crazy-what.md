@@ -8,8 +8,6 @@ tags:
 - makan
 categories: places
 modified_time: '2014-07-01T16:29:51.340+08:00'
-thumbnail: http://1.bp.blogspot.com/_m5e8Pqc8k3c/Reg-pB0SC2I/AAAAAAAAA8I/ONFEYP1kgy4/s72-c/burgerucrazy.jpg
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-6450374891015568747
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/03/you-crazy-what.html
 ---
 

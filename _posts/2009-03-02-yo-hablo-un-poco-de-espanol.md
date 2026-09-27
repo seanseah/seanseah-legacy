@@ -7,7 +7,6 @@ tags:
 - dates
 categories: personal
 modified_time: '2009-03-02T22:00:33.892+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-850796286536550766
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2009/03/yo-hablo-un-poco-de-espanol.html
 ---
 

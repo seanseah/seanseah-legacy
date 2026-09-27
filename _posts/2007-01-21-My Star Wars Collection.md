@@ -7,7 +7,6 @@ categories: photos
 tags: [star wars, gallery, reflections, toys]
 imagefeature: rebelscum.jpg
 comments: true
-mathjax: null
 ---
 Star Wars is made for geeks. Geeks love Star Wars, and I'm no exception. Star Wars was my favorite movie growing up, and it still is.
 

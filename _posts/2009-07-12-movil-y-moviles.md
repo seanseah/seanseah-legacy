@@ -7,7 +7,6 @@ tags:
 - geek
 categories: tech
 modified_time: '2009-07-12T09:51:40.151+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-6063882128405502580
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2009/07/movil-y-moviles.html
 ---
 

@@ -6,7 +6,6 @@ author: Kaer
 tags: 
 categories: personal
 modified_time: '2007-09-15T22:48:41.262+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-1387365636135572199
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/09/blogging-once-again.html
 ---
 

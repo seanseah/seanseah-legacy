@@ -9,7 +9,6 @@ tags:
 - friends
 - makan
 modified_time: '2014-07-01T15:43:54.086+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-4474260542138241623
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/02/villa-bali-vist.html
 ---
 

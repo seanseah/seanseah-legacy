@@ -7,8 +7,6 @@ categories: personal
 tags:
 - toys
 modified_time: '2007-06-24T13:35:37.724+08:00'
-thumbnail: http://3.bp.blogspot.com/_m5e8Pqc8k3c/Rn3xGBF_7HI/AAAAAAAADNg/zADiHYsGe5M/s72-c/convoy-8404-full.jpg
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-8391402916434619755
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/06/more-than-meets-eye.html
 ---
 

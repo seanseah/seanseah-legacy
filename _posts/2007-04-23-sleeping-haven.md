@@ -8,8 +8,6 @@ tags:
 - toys
 categories: personal
 modified_time: '2014-07-01T17:13:20.186+08:00'
-thumbnail: http://2.bp.blogspot.com/_m5e8Pqc8k3c/RiyNZZMqgrI/AAAAAAAABFE/oaBf_x35q4g/s72-c/PORRE.jpg
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-2681404752011938291
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/04/sleeping-haven.html
 ---
 

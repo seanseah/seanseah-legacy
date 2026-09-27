@@ -8,8 +8,6 @@ tags:
 - school
 - places
 modified_time: '2014-07-01T16:41:19.425+08:00'
-thumbnail: http://2.bp.blogspot.com/_m5e8Pqc8k3c/Re-f9H8IlLI/AAAAAAAAA80/GiyZh3FZ3gE/s72-c/DSCF0913.JPG
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-1584328920863492219
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/03/on-long-bus-ride.html
 ---
 

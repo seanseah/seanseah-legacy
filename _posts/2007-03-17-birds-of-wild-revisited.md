@@ -8,8 +8,6 @@ tags:
 - places
 - dates
 modified_time: '2012-10-01T19:52:10.261+08:00'
-thumbnail: http://2.bp.blogspot.com/_m5e8Pqc8k3c/RfwL0Tziw2I/AAAAAAAAA9w/v3ufzTUtN6Q/s72-c/DSCF0851.jpg
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-2124488070415632462
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/03/birds-of-wild-revisited.html
 ---
 

@@ -8,8 +8,6 @@ tags:
 - makan
 categories: places
 modified_time: '2009-03-31T05:36:12.473+08:00'
-thumbnail: http://lh3.ggpht.com/_m5e8Pqc8k3c/SdE7RWnUE-I/AAAAAAAAFvY/Fz5uOTVpdwc/s72-c/DSCF5765_thumb%5B18%5D.jpg?imgmax=800
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-3809984899304146636
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2009/03/home-sweet-home.html
 ---
 

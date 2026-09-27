@@ -8,7 +8,6 @@ tags:
   - reflections
 imagefeature:
 comments: false
-mathjax: null
 featured: true
 published: true
 ---

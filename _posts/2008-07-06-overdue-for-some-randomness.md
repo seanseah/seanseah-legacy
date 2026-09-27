@@ -8,8 +8,6 @@ tags:
 - work
 categories: personal
 modified_time: '2012-10-01T20:07:50.605+08:00'
-thumbnail: http://lh5.ggpht.com/kaer84/SHBNeGcU76I/AAAAAAAADvQ/PEk_5e41iSc/s72-c/DSCF4954.JPG
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-7244737534851454045
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2008/07/overdue-for-some-randomness.html
 ---
 

@@ -8,7 +8,6 @@ tags:
   - blogging
   - markdown
 comments: false
-mathjax: null
 published: true
 ---
 

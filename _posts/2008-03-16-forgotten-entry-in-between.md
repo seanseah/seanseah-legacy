@@ -7,8 +7,6 @@ tags:
 - work
 categories: personal
 modified_time: '2008-03-17T19:04:43.550+08:00'
-thumbnail: http://1.bp.blogspot.com/_m5e8Pqc8k3c/R95G4SvbN_I/AAAAAAAADpo/ZIEzlzKjWLQ/s72-c/sa08-01.jpg
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-3286607931037800708
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2008/03/forgotten-entry-in-between.html
 ---
 

@@ -7,8 +7,6 @@ tags:
 - geek
 categories: tech
 modified_time: '2012-10-01T19:12:44.749+08:00'
-thumbnail: http://1.bp.blogspot.com/_m5e8Pqc8k3c/TIGAXEDeW6I/AAAAAAAAHKk/_uXQ0mZXeKI/s72-c/unlocked.jpg
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-8032849200518912989
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2010/09/unleash-beast.html
 ---
 

@@ -6,7 +6,6 @@ author: Kaer
 categories: personal
 tags: [reflections]
 modified_time: '2014-07-01T16:22:00.254+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-5649049823964361944
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/03/here-comes-rain.html
 ---
 

@@ -7,7 +7,6 @@ tags:
 - work
 categories: personal
 modified_time: '2009-05-04T16:56:08.356+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-928049501539720429
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2009/05/of-feeling-insignificant.html
 ---
 

@@ -8,7 +8,6 @@ tags:
 - dates
 categories: travel
 modified_time: '2012-10-01T20:37:29.102+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-6616407781079679475
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/05/trueblue-holidayer.html
 ---
 

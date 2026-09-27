@@ -6,8 +6,6 @@ author: Kaer
 tags: car
 categories: personal
 modified_time: '2012-10-01T21:01:07.308+08:00'
-thumbnail: http://4.bp.blogspot.com/_m5e8Pqc8k3c/RyRe6thPkSI/AAAAAAAADTs/R98gvbYsLo8/s72-c/avante.jpg
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-2352965518359061273
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/10/car-shopping.html
 ---
 

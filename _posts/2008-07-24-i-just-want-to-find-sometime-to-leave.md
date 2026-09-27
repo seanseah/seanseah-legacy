@@ -6,8 +6,6 @@ author: Kaer
 tags: 
 categories: personal
 modified_time: '2012-10-01T20:06:11.593+08:00'
-thumbnail: http://bp0.blogger.com/_m5e8Pqc8k3c/SIvlegwZGqI/AAAAAAAAD5w/ev0_MpIT1LM/s72-c-R/mininote.JPG
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-5644137761586068508
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2008/07/i-just-want-to-find-sometime-to-leave.html
 ---
 

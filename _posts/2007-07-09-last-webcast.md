@@ -6,7 +6,6 @@ author: Kaer
 tags: school
 categories: personal
 modified_time: '2007-07-08T09:08:44.862+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-956302049772498735
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/06/last-webcast.html
 ---
 

@@ -9,8 +9,6 @@ tags:
 - tech
 categories: tech
 modified_time: '2014-07-01T17:04:50.803+08:00'
-thumbnail: http://3.bp.blogspot.com/_m5e8Pqc8k3c/RiK_SntU_zI/AAAAAAAABC8/6tMcV5DbJko/s72-c/Screenshot0004.jpg
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-5813908680857505822
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/04/e61-navigational-capabilities.html
 ---
 

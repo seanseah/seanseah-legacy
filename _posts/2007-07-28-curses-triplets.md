@@ -7,7 +7,6 @@ tags:
 - geek
 categories: personal
 modified_time: '2007-07-28T22:32:05.836+08:00'
-blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-7349074702963181865
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/07/curses-triplets.html
 ---
 
