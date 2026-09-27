@@ -26,13 +26,13 @@ We first met up at Vivo, where we stumbled upon CNY decorations and took photos 
 
 Hmmm. 
 
-<img alt="" border="0" 
+<img alt="" 
 src="http://2.bp.blogspot.com/_m5e8Pqc8k3c/RcKJExBODWI/AAAAAAAAAFE/suc71DYhrag/s1600/DSCF0398.jpg" 
 id="BLOGGER_PHOTO_ID_5026730849069829474" style="cursor: pointer; display: 
 block; margin: 0px auto 10px; text-align: center;" 
 />
 
-<img alt="" border="0" 
+<img alt="" 
 src="http://2.bp.blogspot.com/_m5e8Pqc8k3c/RcKK8xBODZI/AAAAAAAAAFc/cjEYy4JmJDw/s1600/DSCF0397.jpg" 
 id="BLOGGER_PHOTO_ID_5026732910654131602" style="cursor: pointer; display: 
 block; margin: 0px auto 10px; text-align: center;" 

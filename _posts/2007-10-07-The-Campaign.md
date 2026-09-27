@@ -21,7 +21,7 @@ crossroads of leaving/staying in the organisation. Wah, still so on to meet up f
 dinner and maybe a few years down the road, I will be in their shoes! Didn't really 
 get to eavesdrop on their conversation though!
 <figure>
-<a href="http://4.bp.blogspot.com/_m5e8Pqc8k3c/Rwir5fRkdfI/AAAAAAAADTk/iE6hPTKSuKQ/s1600/deli.jpg" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" style="font-family: verdana;"><img alt="" border="0" src="http://4.bp.blogspot.com/_m5e8Pqc8k3c/Rwir5fRkdfI/AAAAAAAADTk/iE6hPTKSuKQ/s800/deli.jpg" id="BLOGGER_PHOTO_ID_5118529980642653682" style="cursor: pointer; display: block; margin: 0px auto 10px; text-align: center;" /></a>
+<a href="http://4.bp.blogspot.com/_m5e8Pqc8k3c/Rwir5fRkdfI/AAAAAAAADTk/iE6hPTKSuKQ/s1600/deli.jpg" style="font-family: verdana;"><img alt="" border="0" src="http://4.bp.blogspot.com/_m5e8Pqc8k3c/Rwir5fRkdfI/AAAAAAAADTk/iE6hPTKSuKQ/s800/deli.jpg" id="BLOGGER_PHOTO_ID_5118529980642653682" style="cursor: pointer; display: block; margin: 0px auto 10px; text-align: center;" /></a>
 </figure>
 
 Anyway, after dinner went to watch "The Campaign to confer the Public Service 
@@ -34,7 +34,7 @@ weak. Guess the interesting part was seeing how the old and new civil service
 contrast, and bringing in the media, the law and how the fear of each other as 
 well as the countless red tapes was apt considering that I'm part of the system as well.
 <figure>
-<a href="http://1.bp.blogspot.com/_m5e8Pqc8k3c/RwirxvRkdeI/AAAAAAAADTc/_N3qiXnPows/s1600/JBJ1.jpg" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" style="font-family: verdana;"><img alt="" border="0" src="http://1.bp.blogspot.com/_m5e8Pqc8k3c/RwirxvRkdeI/AAAAAAAADTc/_N3qiXnPows/s800/JBJ1.jpg" id="BLOGGER_PHOTO_ID_5118529847498667490" style="cursor: pointer; display: block; margin: 0px auto 10px; text-align: center;" /></a>
+<a href="http://1.bp.blogspot.com/_m5e8Pqc8k3c/RwirxvRkdeI/AAAAAAAADTc/_N3qiXnPows/s1600/JBJ1.jpg" style="font-family: verdana;"><img alt="" border="0" src="http://1.bp.blogspot.com/_m5e8Pqc8k3c/RwirxvRkdeI/AAAAAAAADTc/_N3qiXnPows/s800/JBJ1.jpg" id="BLOGGER_PHOTO_ID_5118529847498667490" style="cursor: pointer; display: block; margin: 0px auto 10px; text-align: center;" /></a>
 </figure>
 
 Anyway, something was wrong with the air conditioning of the place, became very 
